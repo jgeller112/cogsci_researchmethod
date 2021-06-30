@@ -7,7 +7,7 @@ email: ""
 name: null
 organizations:
 - name: Rutgers University 
-  url: https://www.ohsu.edu/
+  url: https://www.rutgers.edu
 role: null
 social:
 - icon: r-project
