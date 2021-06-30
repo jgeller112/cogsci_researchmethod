@@ -8,7 +8,7 @@ weight = 20  # Order that this section will appear.
 title = "Hello!"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "blimp.jpg"
+hero_media = "brain.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
