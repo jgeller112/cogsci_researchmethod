@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Logistics"
-subtitle = "We meet twice a week, alternating lectures on Mondays and labs on Wednesdays. Lab sessions will largely use the open-source R and ggplot2 tools."
+subtitle = "We will meet twice a week"
 
 # Showcase personal skills or business features.
 # 
@@ -18,18 +18,13 @@ subtitle = "We meet twice a week, alternating lectures on Mondays and labs on We
   icon = "cloud"
   icon_pack = "fas"
   name = "Location"
-  description = "Online, all the time"
+  description = "Busch SEC-209"
   
 [[feature]]
   icon = "play-circle"
   icon_pack = "far"
   name = "Lecture"
-  description = "Mondays, 12:00 – 13:30"  
+  description = "Tuesdays and Thursdays, 3:00 – 4:20"  
   
-[[feature]]
-  icon = "code"
-  icon_pack = "fas"
-  name = "Labs"
-  description = "Wednesdays, 12:00 – 13:30"
 
 +++
