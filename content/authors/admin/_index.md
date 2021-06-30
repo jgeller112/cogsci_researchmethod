@@ -1,12 +1,12 @@
 ---
 authors:
 - admin
-bio: This course will give students a foundation in the principles and practice of
-  data visualization, particularly as applied to scientific and technical data.
+bio: This course will give students a foundation in research principles and practices of cognitive
+    scientists
 email: ""
 name: null
 organizations:
-- name: Oregon Health & Science University
+- name: Rutgers University 
   url: https://www.ohsu.edu/
 role: null
 social:
@@ -27,6 +27,4 @@ user_groups:
 
 <br>
 
-This course will give students a foundation in the principles and practice of data visualization, particularly as applied to scientific and technical data. 
-
-We will have weekly lectures, covering a wide variety of topics including human perception, color theory, principles of visual design, etc. We will also have weekly hands-on laboratory sessions in which students will have the opportunity to put the lecture material into practice. This year, we will be adding additional emphasis on larger issues of scientific communication— after all, that's one of the main reasons we make visualizations! 
+The aim for this course is to provide students with the necessary foundation to think critically about research in cognitive science. The course reviews the scientific method and considers the strengths and weaknesses of a range of approaches, such as laboratory experimentation, neuroscience methods, and online data collection. Students will be introduced to statistical reasoning in science, including a basic overview of common statistical techniques. We will also discuss principles for the ethical conduct of research both in the laboratory and online. Students will also get hands-on experience programming and collecting their own data, which will culminate in a paper and presentation. This course counts for 3 credits.
