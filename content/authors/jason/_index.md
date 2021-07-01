@@ -15,6 +15,6 @@ social:
   link: https://github.com/jgeller112
 superuser: true
 user_groups:
-- Coruse Instructor
+- Instructor
 ---
 
