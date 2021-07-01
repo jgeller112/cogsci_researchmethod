@@ -49,9 +49,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-# Course Description
-
-The aim for this course is to provide students with the necessary foundation to think critically about research in cognitive science. The course reviews the scientific method and considers the strengths and weaknesses of a range of approaches, such as laboratory experimentation, neuroscience methods, and online data collection. Students will be introduced to statistical reasoning in science, including a basic overview of common statistical techniques. We will also discuss principles for the ethical conduct of research both in the laboratory and online. Students will also get hands-on experience programming and collecting their own data, which will culminate in a paper and presentation. *You can only enroll in this course with a special permission number*. This course counts for 3 credits.
 
 # Learning Goals
 
@@ -99,7 +96,7 @@ In addition, I have created a website that will host all the materials for this 
 
     - IRB: Although student research projects are covered by the IRB,  the ethicical implications of your research project is important. To this end, you will become CITI certified and also fill out a Rutgers IRB . In order to get full points, you will have to do submit your CITI training certificat (basic behaviroal and social research) and submit IRB. 
      
-    - Final programmed experiment: The last several weeks of the course will involve programming your experiment in PsychoPy. Do not worry if you have never used PsychoPy. There will be plenty of time to work on this in class and get help from me and fellow classmates. 
+    - PsychoPy Experiment: The last several weeks of the course will involve programming your experiment in PsychoPy. Do not worry if you have never used PsychoPy. There will be plenty of time to work on this in class and get help from me and your fellow classmates. 
   
 - **80%** (Final Project) In this class, you will replicate a published experimental result. Final approval has to come from me. Generally, you should try to pick something you are interested in. The HW assignments are strongly aligned to this project.
 
@@ -110,72 +107,6 @@ In addition, I have created a website that will host all the materials for this 
 ## Absences
 
 Students are expected to attend all classes; if you expect to miss one or two classes, please use the University absence reporting website https://sims.rutgers.edu/ssra/ to indicate the date and reason for your absence.  An email is automatically sent to me.
-
-\newpage
-
-# Class Schedule
-
-I expect students to have read the assigned readings before class. This does not mean just skimming reading, but engaging critically with the scholarship. In particular, look for passages that you disagree with or that seem unclear to you, as these are likely ones that could benefit from further discussion in class. I recommend that, if at all possible, students find a way to mark up the articles or books as they are read to improve reading comprehension.
-
-## `r advdate(mon, 1)`: Introduction & Course Expectations
-
-## `r advdate(mon, 2)`: Experimentation in Cognitive Science
-## Readings: 
-  - Ch. 1 in Paul Cozby and Scott Bates
-  - Bower, G. H., & Clapper, J. P. (1993). Experimental methods in cognitive science. In Foundations of cognitive neuroscience (pp. 245–300). MIT Press.
-
-##  `r advdate(mon, 3)`: Ethical Research; Replicability & open science
-## Readings: 
-  - Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant. Psychological Science, 22(11), 1359–1366. https://doi.org/10.1177/0956797611417632
- - Zwaan, R. A., Etz, A., Lucas, R. E., & Donnellan, M. B. (2018). Making replication mainstream. Behavioral and Brain Sciences, 41. https://doi.org/10.1017/S0140525X17001972
-
-##  `r advdate(mon, 4)`: Studying behavior
-
-##  `r advdate(mon, 4)`: Understanding cognition through modeling
-
-##  `r advdate(mon, 5)`: Understanding cognition through the eyes
-
-## Eye tracking demo 
-
-## Readings: 
-
-##  `r advdate(mon, 5)`: Measurement Concepts
-## Readings: 
-  - Curren, P., & Hancock, R.G (Hosts).  (2017, August 11). Episode 26: The Internal Validity Pre-Flight Checklist. 
-  
-##  `r advdate(mon, 6)`: Understanding cognition through the brain: EEG (Ryan)
-## EEG demo
-## Readings: 
-## `r advdate(mon, 7)`: Understanding cognition through the brain: fMRI
-## Readings: 
-  - Amanamba U., Sojka A.,  Harris S., Bucknam M.,& Hegdé. J. (2020) A Window Into Your Brain: How fMRI Helps Us Understand What Is Going on Inside Our Heads. Front. Young Minds. 8:484603. doi: 10.3389/frym.2020.484603
-  - Turner, R. (2016). Uses, misuses, new uses and fundamental limitations of magnetic resonance imaging in cognitive science. Philosophical Transactions of the Royal Society B: Biological Sciences, 371(1705). https://doi.org/10.1098/rstb.2015.0349
-  - Racine, E., Bar-Ilan, O., & Illes, J. (2005). FMRI in the public eye. Nature Reviews Neuroscience, 6(2), 159–164. https://doi.org/10.1038/nrn1609
-## Maybe trip to neuroimaging center
- 
-## Visit to the Center for Advanced Human Brain Imaging Research (CAHBIR)
-##  `r advdate(mon, 7)`: Understanding cognition through the world wide web 
-## Readings: 
-  - Crump, McDonnell, Gureckis (2013). Evaluating Amazon's Mechanical Turk as     a Tool for Experimental Behavioral Research
- - Grootswagers, T. A primer on running human behavioural experiments online.     Behav Res 52, 2283–2286 (2020).https://doi.org/10.3758/s13428-020-01395-3
-  - Peer, E., Brandimarte, L., Samat, S., & Acquisti, A. (2017). Beyond the Turk: Alternative platforms for crowdsourcing behavioral research. Journal  of Experimental Social Psychology, 70, 153–163.         https://doi.org/10.1016/j.jesp.2017.01.006
-  - Crowdsourcing Samples in Cognitive Science: Trends in Cognitive Sciences. (n.d.). Retrieved February 23, 2021, from https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(17)30131-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1364661317301316%3Fshowall%3Dtrue
-
-##  `r advdate(mon, 8)`: Introduction to PsychoPy and Pavlovia
-## Readings: 
-  - Peirce, J., Gray, J. R., Simpson, S., MacAskill, M., Höchenberger, R., Sogo, H., Kastman, E., & Lindeløv, J. K. (2019). PsychoPy2: Experiments in behavior made easy. Behavior Research Methods, 51(1), 195–203. https://doi.org/10.3758/s13428-018-01193-y
-  - Peirce, J., & MacAskill, M. (2018). Building Experiments in PsychoPy (1st edition). SAGE Publications Ltd.
-  
-##  `r advdate(mon, 10)`: Work on programming experiment
-
-##  `r advdate(mon, 11)`: Work on programming experiment 
-
-##  `r advdate(mon, 13)`: Data collection
-
-##  `r advdate(mon, 14)`: Data collection
-##  `r advdate(mon, 15)`: Presentations
-
-\newpage
 
 # Attendance Policy
 
