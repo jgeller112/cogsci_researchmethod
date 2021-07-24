@@ -60,29 +60,32 @@ subtitle = ""
 
 # Required Texts
 
-The following books are required (They are both free)). In addition, I will be supplementing with articles that I will post on Canvas and the course website. 
+The following books are required (both are provided for free). In addition, I will be supplementing the textbook with articles that I will post on Canvas and the course website. 
 
-  - Jhangiani, R. S., Chiang, I.-C. A., Cuttler, C., & Leighton, D. C. (2019). Research Methods in Psychology.         https://doi.org/10.17605/OSF.IO/HF7DQ https://kpu.pressbooks.pub/psychmethods4e/. 
-  
-  - Peirce, J., & MacAskill, M. (2018). Building Experiments in PsychoPy (1st edition). SAGE Publications Ltd.         (https://drive.google.com/file/d/1JVPM8aRq9d1xuQutJgg8klmUO0PEf8Yd/view?usp=sharing)
-  
+  - Jhangiani, R. S., Chiang, I.-C. A., Cuttler, C., & Leighton, D. C. (2019). Research Methods in Psychology.       https://doi.org/10.17605/OSF.IO/HF7DQ
+
+
+  - Peirce, J., & MacAskill, M. (2018). Building Experiments in PsychoPy (1st edition). SAGE Publications Ltd.
 
 # Canvas Site
 
-I have created a website for the course (https://cogscimethods.netlify.app/). Much of the material needed for the course will be available on the website. I will also post things to the Rutgers Canvas page--the preferred learning management system at Rutgers. You will need a Rutgers NetID to enter Canvas. To
+Much of the material needed for the course will be available on Rutgers Canvas, the preferred
+learning management system at Rutgers. You will need a Rutgers NetID to enter Canvas. To
 access the course material, go to https://canvas.rutgers.edu/. 
+
+In addition, I have created a website that will host all the materials for this class. 
 
 # Course Policies
 
 ## Assignments & Grading
 
-- **20%** (Assignments) You will complete five main assignments related to the material covered in class and related to your final research project. While this is a group project, all members of a group are expected to turn all assignments. Each assignment below is worth 15 points each. The schedule lists the due dates for each assignment. The assignments will aid in the completion of the final project. 
+- **20%** (Assignments) You will complete several assignments related to the material covered in class and related to your final research project. While this is a group project, all members of a group are expected to turn in a preregistration,IRB, and a programmed experiment. Each assignment below is worth 15 points each. The schedule lists the due dates for each assignment. The assignments are critical to the final project. 
 
     -  Group Project Proposal: Your group will need submit a short 1-page research proposal. This proposal should summarize the paper you want to replicate and what, if anything, you want to add to the study before you start implementing and collecting data. This is due by 12pm on Sept 27, 2018 (Canvas submission).
     
-    - IRB: Although student research projects are covered by the IRB,  the ethicical implications of your research project is important. To this end, you will become CITI certified and also fill out a IRB . In order to get full points, you will have to do submit your CITI training certificate (basic behavioral and social research) and submit IRB. 
+    - CITI Training and IRB. Although student research projects are covered by the IRB, the ethicical implications of your research project are important. To this end, you will become CITI certified and will also fill out a IRB . In order to get full points, you will have to do submit your CITI training certificate (basic behavioral and social research) and submit the IRB to me. 
       
-    - Preregistration. After you have gottten you topic approved, you will preregister your experiment (we will dicuss what this is in class). The preregistration should be two primary parts: (1) background and (2) an analysis plan. The background does not need to be lengthy, 2 pages or less, enough information for me to give you feedback on the big idea and feasibility before you get too far along. I will not grade the preregistration for being correct or accurate; I will only grade it for being complete (i.e., if  you answer all the questions but some of your answers are wrong or don’t make sense, you will still get full credit). The preregistration is meant to be an opportunity to get feedback from me early so that you can assess feasibility and develop the idea into a strong final presentation the whole class can benefit from. Structure the background section of your preregistration with the headings below and answer all questions in short paragraphs or bullet form. This does not need to be written like a paper or essay – you can simply paste these questions into a word document and answer them. Once you have settled on your more specific research questions and hypotheses, the next step is to develop a detailed analysis plan. A detailed analysis plan can be used to preregister your study on the Open Science Framework (https://osf.io), and makes clear the delineation between confirmatory and exploratory analyses in your final project. For more information about preregistration see: http://help.osf.io/m/registrations/l/546603-create-a-preregistration.  This analysis plan does not need to be more than a few pages. Importantly, it is an opportunity to get feedback on your plan, before you start analyzing the data. This will help you develop a strong, final demonstration and hopefully a paper you can later pursue for publication. Structure your analysis plan to answer the questions below. Like the background section, you can just answer the questions, you do not need to write an essay.
+    - Preregistration. After you have gottten you topic approved, you will pregresiter your experiment (we will dicuss what this is in class). The preregistration should be two primary parts: (1) background and (2) an analysis plan. The background does not need to be lengthy, 2 pages or less, enough information for me to give you feedback on the big idea and feasibility before you get too far along. I will not grade the preregistration for being correct or accurate; I will only grade it for being complete (i.e., if  you answer all the questions but some of your answers are wrong or don’t make sense, you will still get full credit). The preregistration is meant to be an opportunity to get feedback from me early so that you can assess feasibility and develop the idea into a strong final presentation the whole class can benefit from. Structure the background section of your preregistration with the headings below and answer all questions in short paragraphs or bullet form. This does not need to be written like a paper or essay – you can simply paste these questions into a word document and answer them. Once you have settled on your more specific research questions and hypotheses, the next step is to develop a detailed analysis plan. A detailed analysis plan can be used to preregister your study on the Open Science Framework (https://osf.io), and makes clear the delineation between confirmatory and exploratory analyses in your final project. For more information about preregistration see: http://help.osf.io/m/registrations/l/546603-create-a-preregistration.  This analysis plan does not need to be more than a few pages. Importantly, it is an opportunity to get feedback on your plan, before you start analyzing the data. This will help you develop a strong, final demonstration and hopefully a paper you can later pursue for publication. Structure your analysis plan to answer the questions below. Like the background section, you can just answer the questions, you do not need to write an essay.
       
       - Components of the preregistration: 
       
@@ -94,14 +97,10 @@ access the course material, go to https://canvas.rutgers.edu/.
         5.	What are the specific hypotheses to be tested?
         6.	Does this idea require to you extend beyond the content covered in class?
         7.	Do you foresee any barriers to completing the project?
-
-   - Coding Errors: This assignment will require you to find and fix several errors in a PsychoPy program. 
      
-    - PsychoPy Experiment: The last several weeks of the course will involve programming your experiment in PsychoPy. Do not worry if you have never used PsychoPy. There will be plenty of time to work on this in class and get help from me and your fellow classmates. 
-    
-- **10%** (Presentation Summaries). Throughout the class there will be a number of special guest lectures from early career researchers in the field of cognitive science. After each talk, I would like each student to write-up a 2-page summary describing the presentation. Specifically, I want each student to provide a summary of the talk and discuss the method(s) they used along with the pitfalls and advantages of the method(s) in studying cognition. Material from the lectures and readings should be used in the discussion.  
+    - PsychoPy Experiment: The last several weeks of the course will involve programming your experiment in PsychoPy and running it on Pavlovia. I know this sounds scary and many of you have never programmed before. I have chosen PsychoPy becasue of its ease of use. In addition, we will be working in groups and will spend ample class time on this. 
   
-- **70%** (Final Project) In this class, you will replicate a published experimental result. Final approval has to come from me. Generally, you should try to pick something you are interested in. The HW assignments are strongly aligned to this project.
+- **80%** (Final Project) In this class, you will replicate a published experimental result. Final approval has to come from me. Generally, you should try to pick something you are interested in. The HW assignments are strongly aligned to this project.
 
     - **40%** (Presentation):  During final exam week you will present your project to the class. This presentation should be 10-15 minutes in length. You should explain your project including, background, hypotheses, methods, results, and conclusions. The goal of these is to practice how to present and discuss empirical evidence in an oral format. For the first presentation, you will present your research proposal to the rest of the class; there will be some time for questions and feedback.
     
@@ -111,6 +110,8 @@ access the course material, go to https://canvas.rutgers.edu/.
 
 Students are expected to attend all classes; if you expect to miss one or two classes, please use the University absence reporting website https://sims.rutgers.edu/ssra/ to indicate the date and reason for your absence.  An email is automatically sent to me.
 
+\newpage
+
 # Attendance Policy
 
 Attendance statement required by Rutgers: “Students are expected to attend all classes; if you
@@ -118,7 +119,10 @@ expect to miss one or two classes, please use the University absence reporting w
 https://sims.rutgers.edu/ssra/ to indicate the date and reason for your absence. An email is
 automatically sent to me.”
 
-OK. Now that you have read the statement required by Rutgers, here is an explanation of how attendance will be handled in this course. Attendance is required. Students are expected to join each discussion section meeting at the scheduled starting time and to stay until the end of the class.
+OK. Now that you have read the statement required by Rutgers, here is an explanation of how attendance will be handled in this course. Attendance is required. Students are expected to join each discussion section meeting at the scheduled starting time and to stay until the end of the class. Students are
+expected to have their Zoom cameras on during class. If you have a problem attending
+discussion sections or keeping your Zoom camera on, you should discuss this with your
+instructor.
 
 # Policy on Cheating and Plagiarism
 
@@ -128,3 +132,7 @@ Plagiarism includes copying in whole or part from previously published academic 
 
 For additional information on the Rutgers University policies on academic integrity, go to
 http://academicintegrity.rutgers.edu/.
+
+
+
+

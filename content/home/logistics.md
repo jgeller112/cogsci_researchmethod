@@ -15,7 +15,7 @@ subtitle = "We will meet twice a week"
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "cloud"
+  icon = "building"
   icon_pack = "fas"
   name = "Location"
   description = "Busch SEC-209"
@@ -26,5 +26,10 @@ subtitle = "We will meet twice a week"
   name = "Lecture"
   description = "Tuesdays and Thursdays, 3:00 – 4:20"  
   
-
+[[feature]]
+  icon = "chair"
+  icon_pack = "fas"
+  name = "Office"
+  description = "RuCCS A121"  
+  
 +++
