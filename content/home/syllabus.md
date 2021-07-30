@@ -69,45 +69,35 @@ The following books are required (They are both free)). In addition, I will be s
 
 # Canvas Site
 
-I have created a website for the course (https://cogscimethods.netlify.app/). Much of the material needed for the course will be available on the website. I will also post things to the Rutgers Canvas page--the preferred learning management system at Rutgers. You will need a Rutgers NetID to enter Canvas. To
-access the course material, go to https://canvas.rutgers.edu/. 
+I have created a website for the course (https://cogscimethods.netlify.app/). Much of the material needed for the course will be available on the website. I will also post things to the Rutgers Canvas page. 
 
 # Course Policies
 
 ## Assignments & Grading
 
-- **20%** (Assignments) You will complete five main assignments related to the material covered in class and related to your final research project. While this is a group project, all members of a group are expected to turn all assignments. Each assignment below is worth 15 points each. The schedule lists the due dates for each assignment. The assignments will aid in the completion of the final project. 
-
-    -  Group Project Proposal: Your group will need submit a short 1-page research proposal. This proposal should summarize the paper you want to replicate and what, if anything, you want to add to the study before you start implementing and collecting data. This is due by 12pm on Sept 27, 2018 (Canvas submission).
+- **20%** (Assignments). You will complete several short assignments related to the material covered in class. The details of the assignments will be described in more detail in class.
     
-    - IRB: Although student research projects are covered by the IRB,  the ethicical implications of your research project is important. To this end, you will become CITI certified and also fill out a IRB . In order to get full points, you will have to do submit your CITI training certificate (basic behavioral and social research) and submit IRB. 
-      
-    - Preregistration. After you have gottten you topic approved, you will preregister your experiment (we will dicuss what this is in class). The preregistration should be two primary parts: (1) background and (2) an analysis plan. The background does not need to be lengthy, 2 pages or less, enough information for me to give you feedback on the big idea and feasibility before you get too far along. I will not grade the preregistration for being correct or accurate; I will only grade it for being complete (i.e., if  you answer all the questions but some of your answers are wrong or don’t make sense, you will still get full credit). The preregistration is meant to be an opportunity to get feedback from me early so that you can assess feasibility and develop the idea into a strong final presentation the whole class can benefit from. Structure the background section of your preregistration with the headings below and answer all questions in short paragraphs or bullet form. This does not need to be written like a paper or essay – you can simply paste these questions into a word document and answer them. Once you have settled on your more specific research questions and hypotheses, the next step is to develop a detailed analysis plan. A detailed analysis plan can be used to preregister your study on the Open Science Framework (https://osf.io), and makes clear the delineation between confirmatory and exploratory analyses in your final project. For more information about preregistration see: http://help.osf.io/m/registrations/l/546603-create-a-preregistration.  This analysis plan does not need to be more than a few pages. Importantly, it is an opportunity to get feedback on your plan, before you start analyzing the data. This will help you develop a strong, final demonstration and hopefully a paper you can later pursue for publication. Structure your analysis plan to answer the questions below. Like the background section, you can just answer the questions, you do not need to write an essay.
-      
-      - Components of the preregistration: 
-      
-        1.	Broad research question
-        2.	Is there a gap in the existing literature that motivates this research question?
-        3.	What data source will you use to answer the question?
-            a. What are the primary variables of interest and how are they measured?
-        4.	Describe the data structure
-        5.	What are the specific hypotheses to be tested?
-        6.	Does this idea require to you extend beyond the content covered in class?
-        7.	Do you foresee any barriers to completing the project?
+- **30%** (Presentation Reflections). We will have a number of guest lectures from cognitive scientists in the class. For each talk, I want a short (~500 word) reflection that (1) summarizes the talk including what and how a method was used and (2) connects the talk to something discussed in class or from the readings. For example, you could discuss the limitations and advantages of a certain method and if you think the speaker used the method correctly. You could also talk about The point of this is to get you to engage with the talks. It is a real treat to have these guest lectures and we want to make sure the talkers have our full attention. Each reflection will be due on Sunday at 11:59 PM the week of the talk.
 
-   - Coding Errors: This assignment will require you to find and fix several errors in a PsychoPy program. 
-     
-    - PsychoPy Experiment: The last several weeks of the course will involve programming your experiment in PsychoPy. Do not worry if you have never used PsychoPy. There will be plenty of time to work on this in class and get help from me and your fellow classmates. 
+- **50%** (Final Project). One important element of advancing scientific knowledge is the ability to reproduce the materials, procedures, and analytic plan of published research in efforts to obtain similar results in other samples (i.e., replication). To the degree that research findings can be replicated by other labs using the same methods/materials,but of course with appropriate statistical power,more confidence can be placed on the hypothesized associations between abstract theoretical constructs. The primary assignment for this course is a group project that will involve the following: 
+
+    - Group Project Proposal (group) (5 points): Your group will need submit a short 1-page research proposal. This proposal should summarize the paper you are going to replicate and what, if anything, you want to add to the study before you start implementing and collecting data.
     
-- **10%** (Presentation Summaries). Throughout the class there will be a number of special guest lectures from early career researchers in the field of cognitive science. After each talk, I would like each student to write-up a 2-page summary describing the presentation. Specifically, I want each student to provide a summary of the talk and discuss the method(s) they used along with the pitfalls and advantages of the method(s) in studying cognition. Material from the lectures and readings should be used in the discussion.  
+    - CITI Training and IRB (on own) (5 points): Although student research projects are covered by the IRB,  the ethicical implications of your research project is important. To this end, you will become CITI certified and also fill out a Rutgers IRB. We will start on this in class.
+    
+    - Preregistering the study on the Open Science Framework (to be discussed more in class) (group) (5 points)
+
+    - Attempt to recreate the study materials/method from the publication by programming it in PsychoPy (group) (5 points)
+    
+    - Collecting data online 
+    
+    - Analyzing the data in a manner similar to the original study (we will work on this in class)
+    
+    - Presenting to the class your results and data. 
   
-- **70%** (Final Project) In this class, you will replicate a published experimental result. Final approval has to come from me. Generally, you should try to pick something you are interested in. The HW assignments are strongly aligned to this project.
+*Each step must be finished in order*
 
-    - **40%** (Presentation):  During final exam week you will present your project to the class. This presentation should be 10-15 minutes in length. You should explain your project including, background, hypotheses, methods, results, and conclusions. The goal of these is to practice how to present and discuss empirical evidence in an oral format. For the first presentation, you will present your research proposal to the rest of the class; there will be some time for questions and feedback.
-    
-    - **40%** (Paper): A research paper is required for this course. The paper will be a write up of the project you presented in class. The paper should follow APA 7th edition guidelines. 
-
-## Absences
+# Absences
 
 Students are expected to attend all classes; if you expect to miss one or two classes, please use the University absence reporting website https://sims.rutgers.edu/ssra/ to indicate the date and reason for your absence.  An email is automatically sent to me.
 
@@ -128,3 +118,46 @@ Plagiarism includes copying in whole or part from previously published academic 
 
 For additional information on the Rutgers University policies on academic integrity, go to
 http://academicintegrity.rutgers.edu/.
+
+# Student-Wellness Services 
+
+Just In Case Web App
+http://codu.co/cee05e
+Access helpful mental health information and resources for yourself or a friend in a mental health
+crisis on your smartphone or tablet and easily contact CAPS or RUPD.
+
+# Counseling, ADAP & Psychiatric Services (CAPS)
+
+(848) 932-7884 / 17 Senior Street, New Brunswick, NJ 08901
+http://health.rutgers.edu/medical-counseling-services/counseling/
+CAPS is a University mental health support service that includes counseling, alcohol and other drug
+assistance, and psychiatric services staffed by a team of professional within Rutgers Health services to
+support students’ efforts to succeed at Rutgers University. CAPS offers a variety of services that
+include: individual therapy, group therapy and workshops, crisis intervention, referral to specialists in
+the community and consultation and collaboration with campus partners.
+Violence Prevention & Victim Assistance (VPVA)
+(848) 932-1181 / 3 Bartlett Street, New Brunswick, NJ 08901 / http://vpva.rutgers.edu/ Violence
+Prevention and Victim Assistance provides confidential crisis intervention, counseling and advocacy
+for victims of sexual and relationship violence and stalking to students, staff and faculty. To reach
+staff during office hours when the university is open or to reach an advocate after hours, call 848-
+9321181.
+
+# Disability Services
+
+(848) 445-6800 / Lucy Stone Hall, Suite A145, Livingston Campus, 54 Joyce Kilmer Avenue,
+Piscataway, NJ 08854 / https://ods.rutgers.edu/
+Rutgers University welcomes students with disabilities into all of the University's educational
+programs. In order to receive consideration for reasonable accommodations, a student with a disability
+must contact the appropriate disability services office at the campus where you are officially enrolled,
+participate in an intake interview, and provide documentation:
+https://ods.rutgers.edu/students/documentation-guidelines. If the documentation supports your
+request for reasonable accommodations, your campus’s disability services office will provide you with
+a Letter of Accommodations. Please share this letter with your instructors and discuss the
+accommodations with them as early in your courses as possible. To begin this process, please complete
+the Registration form on the ODS web site at: https://webapps.rutgers.edu/studentods/forms/registration.
+Report a Concern: http://health.rutgers.edu/do-something-to-help/
+Get Involved with Cognitive Science Club!
+Find information on the exciting events being organized by the Cognitive Science Club:
+http://ruccs.rutgers.edu/academics/cogsci-club.
+Like them on Facebook to get updates: https://www.facebook.com/RUCogSciClub
+

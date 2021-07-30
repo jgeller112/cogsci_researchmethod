@@ -70,6 +70,8 @@ subtitle = ""
 
 I expect students to have read the assigned readings before class. This does not mean just skimming reading, but engaging critically with the scholarship. In particular, look for passages that you disagree with or that seem unclear to you, as these are likely ones that could benefit from further discussion in class. I recommend that, if at all possible, students find a way to mark up the articles or books as they are read to improve reading comprehension.
 
+This schedule represents my current plans and objectives. As we go through the semester, these plans (including exact assignment due dates) may need to change to enhance learning opportunitiesfor the class. (e.g. due to an extension of our discussion of specific topics that arise during lectures). Such changes, communicated clearly, are not unusual and should be expected.
+
 <center>
 
 <style type="text/css">
