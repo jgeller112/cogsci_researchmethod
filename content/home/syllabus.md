@@ -60,7 +60,7 @@ subtitle = ""
 
 # Required Texts
 
-The following books are required (They are both free)). In addition, I will be supplementing with articles that I will post on Canvas and the course website. 
+The following books are required (They are both free)). In addition, I will be posting supplemental articles that I will post on the course website. 
 
   - Jhangiani, R. S., Chiang, I.-C. A., Cuttler, C., & Leighton, D. C. (2019). Research Methods in Psychology.         https://doi.org/10.17605/OSF.IO/HF7DQ https://kpu.pressbooks.pub/psychmethods4e/. 
   
@@ -73,29 +73,30 @@ I have created a website for the course (https://cogscimethods.netlify.app/). Mu
 
 # Course Policies
 
-## Assignments & Grading
+## Assessment Components
+
+- **50%** (Group Project). One important element of advancing scientific knowledge is the ability to reproduce the materials, procedures, and analytic plan of published research in efforts to obtain similar results in other samples (i.e., replication). To the degree that research findings can be replicated by other labs using the same methods/materials,but of course with appropriate statistical power,more confidence can be placed on the hypothesized associations between abstract theoretical constructs. The primary assignment for this course is a group project that will involve the following: 
+
+    - Group Project Proposal (5%): Your group will need submit a short 1-page research proposal. This proposal should summarize the paper you are going to replicate and what, if anything, you want to add to the study before you start implementing and collecting data. You will need to get article approval from me. 
+    
+    - CITI Training and IRB (5%): Although student research projects are covered by the IRB,  the ethicical implications of your research project is important. To this end, you will become CITI certified and also fill out a Rutgers IRB. We will start on this in class.
+    
+    - Preregistration (5%): After you have gottten you topic approved, you will pregresiter your experiment (we will dicuss what this is in class). The preregistration should be two primary parts: (1) background and (2) an analysis plan. The background does not need to be lengthy, 2 pages or less, enough information for me to give you feedback on the big idea and feasibility before you get too far along. I will not grade the preregistration for being correct or accurate; I will only grade it for being complete (i.e., if  you answer all the questions but some of your answers are wrong or don’t make sense, you will still get full credit). The preregistration is meant to be an opportunity to get feedback from me early so that you can assess feasibility and develop the idea into a strong final presentation the whole class can benefit from. 
+
+    - Programmed Experiment that can run online (10%)
+    
+    - Data Analysis (5%)
+    
+    - Group presentation (10%): The last two classes will be devoted to presenting your final project to the class. Each groups will be give a 10 minute presentation followed by up to 5 minutes of questions from the audience.
+Presentations are a group effort, and it is expected that all members will either present or address questions. Do make an effort to be inclusive. I strongly recommend you rehearse this and make sure timing and flow is right, and that no one person is over-dominant or unheard. Each group will have no more than 10 minutes, strictly observed with a timer (I will stop you when time is up, regardless of whether you're done or not). There will be no time for questions from the audience, but I will either comment, ask a question, or add something/ 
+    
+*Each step must be finished in order*
 
 - **20%** (Assignments). You will complete several short assignments related to the material covered in class. The details of the assignments will be described in more detail in class.
     
-- **30%** (Presentation Reflections). We will have a number of guest lectures from cognitive scientists in the class. For each talk, I want a short (~500 word) reflection that (1) summarizes the talk including what and how a method was used and (2) connects the talk to something discussed in class or from the readings. For example, you could discuss the limitations and advantages of a certain method and if you think the speaker used the method correctly. You could also talk about The point of this is to get you to engage with the talks. It is a real treat to have these guest lectures and we want to make sure the talkers have our full attention. Each reflection will be due on Sunday at 11:59 PM the week of the talk.
+- **20%** (Presentation Reflections). We will have a number of guest lectures from cognitive scientists in the class. For each talk, I want a short (~500 word) reflection that (1) summarizes the talk including what and how a method was used and (2) connects the talk to something discussed in class or from the readings. For example, you could discuss the limitations and advantages of a certain method and if you think the speaker used the method correctly. You could also talk about The point of this is to get you to engage with the talks. It is a real treat to have these guest lectures and we want to make sure the talkers have our full attention. Each reflection will be due on Sunday at 11:59 PM the week of the talk.
 
-- **50%** (Final Project). One important element of advancing scientific knowledge is the ability to reproduce the materials, procedures, and analytic plan of published research in efforts to obtain similar results in other samples (i.e., replication). To the degree that research findings can be replicated by other labs using the same methods/materials,but of course with appropriate statistical power,more confidence can be placed on the hypothesized associations between abstract theoretical constructs. The primary assignment for this course is a group project that will involve the following: 
-
-    - Group Project Proposal (group) (5 points): Your group will need submit a short 1-page research proposal. This proposal should summarize the paper you are going to replicate and what, if anything, you want to add to the study before you start implementing and collecting data.
-    
-    - CITI Training and IRB (on own) (5 points): Although student research projects are covered by the IRB,  the ethicical implications of your research project is important. To this end, you will become CITI certified and also fill out a Rutgers IRB. We will start on this in class.
-    
-    - Preregistering the study on the Open Science Framework (to be discussed more in class) (group) (5 points)
-
-    - Attempt to recreate the study materials/method from the publication by programming it in PsychoPy (group) (5 points)
-    
-    - Collecting data online 
-    
-    - Analyzing the data in a manner similar to the original study (we will work on this in class)
-    
-    - Presenting to the class your results and data. 
-  
-*Each step must be finished in order*
+- **10%** (Extension Paper). You will be expected to write a short 6 – 10 page double spaced paper that expands on the replication study in some way, either by hypothesizing a short follow up to address some issue that arose during it,or by couching the results in a larger discussion that relates back to cognitive science. You can use this paper to propose an extension using a method we talked about in class.
 
 # Absences
 
