@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50 # Order that this section will appear.
+weight = 60 # Order that this section will appear.
 
 title = "Project"
 subtitle = ""
@@ -53,7 +53,7 @@ subtitle = ""
 
 # Final Project
 
-I have designed the course to first involve a replication study within your area of interest. The replication studies should take some preexisting manipulation and aim to replicate it on a smaller, more manageable scale. There are three primary pedagogical reasons for structuring the final projects in this way:
+I have designed the course to involve a replication study within your area of interest. The replication studies should take some preexisting manipulation and aim to replicate it on a smaller, more manageable scale. There are three primary pedagogical reasons for structuring the final projects in this way:
 
 
  1. Replications provide an entry point into research: It is difficult to develop an original
@@ -76,7 +76,7 @@ The replication studies are group projects (unless you strongly feel the need to
 2. Decide on a few possible projects
 3. Meet with me in groups to discuss projects: I’ll make times to meet with each group. 
 4. Write a short 1-page research proposal
-5. Write IRB
+5. Complete IRB forms
 6. Preregister Study
 7. Design replication study: try to use similar types of items, but you may need to create
 your own
