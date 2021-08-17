@@ -69,7 +69,7 @@ The following books are required (They are both free)). In addition, I will be p
 
 # Canvas Site
 
-I have created a website for the course (https://cogscimethods.netlify.app/). Much of the material needed for the course will be available on the website. I will also post things to the Rutgers Canvas page. 
+I have created a website for the course (https://cogscimethods.netlify.app/). Much of the material needed for the course will be available on the website via a link to an Open Science Framework repository. I will also post things to the Rutgers Canvas page for ease of access.
 
 # Course Policies
 
@@ -79,11 +79,11 @@ I have created a website for the course (https://cogscimethods.netlify.app/). Mu
 
     - Group Project Proposal (5%): Your group will need submit a short 1-page research proposal. This proposal should summarize the paper you are going to replicate. You will need to get article approval from me. 
     
-    - CITI Training and Instituional Review Board (5%): Although student research projects are covered by the IRB,  the ethicical implications of your research project are important. To this end, you will become CITI certified and also fill out Rutgers IRB forms which involves creating your own consent form. We will start on this in class.
+    - CITI Training and Institutional Review Board (IRB) Forms (5%): Although student research projects are covered by the IRB,  the ethicical implications of your research project are important. To this end, you will become CITI certified and also fill out Rutgers IRB forms which involves creating your own consent form. We will start on this in class.
     
     - Preregistration (5%): After you have gottten you topic approved, you will pregresiter your experiment (we will dicuss what this is in class). The preregistration should be two primary parts: (1) background and (2) an analysis plan. The background does not need to be lengthy, 2 pages or less, enough information for me to give you feedback on the big idea and feasibility before you get too far along. I will not grade the preregistration for being correct or accurate; I will only grade it for being complete (i.e., if  you answer all the questions but some of your answers are wrong or don’t make sense, you will still get full credit). The preregistration is meant to be an opportunity to get feedback from me early so that you can assess feasibility and develop the idea into a strong final presentation the whole class can benefit from. 
 
-    - Programmed Experiment that can run online (10%). 
+    - Programmed Experiment (10%). 
     
     - Data Analysis (5%). 
     
@@ -92,11 +92,15 @@ Presentations are a group effort, and it is expected that all members will eithe
     
 *Each step must be finished in order*
 
-- **20%** (Assignments). You will complete several short assignments related to the material covered in class. The details of the assignments will be described in more detail in class.
+- **20%** (Small Assignments). You will complete several short assignments related to the material covered in class. The details of the assignments will be described in more detail in class.
     
-- **20%** (Presentation Reflections). We will have a number of guest lectures from cognitive scientists in the class. For each talk, I want a short (~500 word) reflection that (1) summarizes the talk including what and how a method was used and (2) connects the talk to something discussed in class or from the readings. For example, you could discuss the limitations and advantages of a certain method and if you think the speaker used the method correctly. In additon to this, you should come up with a question or two you had while listening to the talk. The point of this is to get you to engage with the talks. It is a real treat to have these guest lectures and we want to make sure the talkers have our full attention. Each reflection will be due on Sunday at 11:59 PM the week of the talk.
+- **20%** (Presentation Reflections). We will have a number of guest lectures from cognitive scientists in the class. For each talk, I want a short (~500 word) reflection that (1) summarizes the talk including what and how a method was used and (2) connects the talk to something discussed in class or from the readings. For example, you could discuss the limitations and advantages of a certain method and if you think the speaker used the method correctly. In addition to this, you should come up with a question or two you had while listening to the talk. The point of this is to get you to engage with the talks. It is a real treat to have these guest lectures and we want to make sure the talkers have our full attention. Each reflection will be due on Sunday at 11:59 PM the week of the talk.
 
 - **10%** (Extension Paper). You will be expected to write a short 6 – 10 page double spaced paper that details the replication project you conducted and how you would like to expand upon it in some way, either by hypothesizing a short follow up to address some issue that arose during it. You can use this paper to propose an extension using a method we talked about in class.
+
+# Late Assignments
+
+I am pretty flexible and we are currently living through a global pandemic. Please let me know BEFORE THE DUE DATE and we can work something out. 
 
 # Absences
 
@@ -119,6 +123,18 @@ Plagiarism includes copying in whole or part from previously published academic 
 
 For additional information on the Rutgers University policies on academic integrity, go to
 http://academicintegrity.rutgers.edu/.
+
+# Diversity Statement
+
+I would like to create a learning environment for my students that supports a diversity of thoughts, perspectives and experiences, and honors your identities (including race, gender, class, sexuality, religion, ability, SES, etc. ) To help accomplish this:
+
+ - If you have a name and/or set of pronouns that differ from those that appear in your official Brown records, please let me know!
+
+- If you feel like your performance in the class is being impacted by your experiences outside of class, please don't hesitate to come and talk with me. I want to be a resource for you. Remember that you can also submit anonymous feedback (which will lead to me making a general announcement to the class, if necessary to address your concerns). 
+
+- I (like many people) am still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please talk to me about it. (Again, anonymous feedback is always an option).
+
+
 
 # Student-Wellness Services 
 
@@ -145,20 +161,5 @@ staff during office hours when the university is open or to reach an advocate af
 
 # Disability Services
 
-(848) 445-6800 / Lucy Stone Hall, Suite A145, Livingston Campus, 54 Joyce Kilmer Avenue,
-Piscataway, NJ 08854 / https://ods.rutgers.edu/
-Rutgers University welcomes students with disabilities into all of the University's educational
-programs. In order to receive consideration for reasonable accommodations, a student with a disability
-must contact the appropriate disability services office at the campus where you are officially enrolled,
-participate in an intake interview, and provide documentation:
-https://ods.rutgers.edu/students/documentation-guidelines. If the documentation supports your
-request for reasonable accommodations, your campus’s disability services office will provide you with
-a Letter of Accommodations. Please share this letter with your instructors and discuss the
-accommodations with them as early in your courses as possible. To begin this process, please complete
-the Registration form on the ODS web site at: https://webapps.rutgers.edu/studentods/forms/registration.
-Report a Concern: http://health.rutgers.edu/do-something-to-help/
-Get Involved with Cognitive Science Club!
-Find information on the exciting events being organized by the Cognitive Science Club:
-http://ruccs.rutgers.edu/academics/cogsci-club.
-Like them on Facebook to get updates: https://www.facebook.com/RUCogSciClub
+Rutgers University is committed to the creation of an inclusive and safe learning environment for all students, and welcomes students with disabilities into all the University's educational programs. The Office of Disability Services (ODS) is responsible for the determination of appropriate accommodations for students who encounter barriers due to disability. Once a student has completed the ODS process (registration, initial appointment, and submitted documentation) and reasonable accommodations are determined to be necessary and appropriate, a Letter of Accommodation (LOA) will be provided. The LOA must be given to each course instructor by the student and followed up with a discussion. This should be done as early in the semester as possible as accommodations are not retroactive. More information can be found at www.ods.rutgers.edu. You can contact ODS at (848)445-6800 or via email at dsoffice@echo.rutgers.edu.
 

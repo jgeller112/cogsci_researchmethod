@@ -80,20 +80,6 @@ The replication studies are group projects (unless you strongly feel the need to
 6. Preregister Study
 7. Design replication study: try to use similar types of items, but you may need to create
 your own
-8. Run replication online
+8. Run replication online (reddit/SampleSize, Facebook, Twitter, family, friends)
 9. Present results to class
 
-## Study Ideas
-
-### Learning and Memory
-
-- Wilford, M. M., Kurpad, N., Platt, M., & Weinstein-Jones, Y. (2020). Lecturer fluency can impact students’ judgments of learning and actual learning performance. Applied Cognitive Psychology, 34(6), 1444–1456. https://doi.org/10.1002/acp.3724
-
-
-### Speech Perception
-
-- Brown, V. A., Van Engen, K. J., & Peelle, J. E. (2021, March 12). Face mask type affects audiovisual speech intelligibility and subjective listening effort in young and older adults. https://doi.org/10.31234/osf.io/7waj3
-
-### Word Recognition
-
- - Meade, G., Grainger, J., & Declerck, M. (2021). Friend or foe? Flankers reverse the direction of orthographic neighbourhood effects. Language, Cognition and Neuroscience, 36(5), 535–542. https://doi.org/10.1080/23273798.2020.1849750
