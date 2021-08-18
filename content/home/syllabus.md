@@ -92,11 +92,54 @@ Presentations are a group effort, and it is expected that all members will eithe
     
 *Each step must be finished in order*
 
-- **20%** (Small Assignments). You will complete several short assignments related to the material covered in class. The details of the assignments will be described in more detail in class.
+- **10%** (Small Assignments). You will complete several short assignments related to the material covered in class. The details of the assignments will be described in more detail in class. 
     
-- **20%** (Presentation Reflections). We will have a number of guest lectures from cognitive scientists in the class. For each talk, I want a short (~500 word) reflection that (1) summarizes the talk including what and how a method was used and (2) connects the talk to something discussed in class or from the readings. For example, you could discuss the limitations and advantages of a certain method and if you think the speaker used the method correctly. In addition to this, you should come up with a question or two you had while listening to the talk. The point of this is to get you to engage with the talks. It is a real treat to have these guest lectures and we want to make sure the talkers have our full attention. Each reflection will be due on Sunday at 11:59 PM the week of the talk.
+- **30%** (Reading and Presentation Reflections). We have a number of readings and guest lectures over the course of the semester. Starting Week 2, you will write a short response on the week’s readings and/or presentation, if one (500-1000 words). Reflections will be due on Friday by 4:00 P.M. These must be submitted via Canvas. The purpose of the response is to get you thinking about the readings, connecting the new material to other readings and discussion, and offering your own thoughts.
 
-- **10%** (Extension Paper). You will be expected to write a short 6 – 10 page double spaced paper that details the replication project you conducted and how you would like to expand upon it in some way, either by hypothesizing a short follow up to address some issue that arose during it. You can use this paper to propose an extension using a method we talked about in class.
+The responses will be graded according to the following rubric:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7zrl{text-align:left;vertical-align:bottom}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 658px">
+<colgroup>
+<col style="width: 193px">
+<col style="width: 144px">
+<col style="width: 164px">
+<col style="width: 157px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-7zrl">Great</th>
+    <th class="tg-7zrl">Proficient</th>
+    <th class="tg-7zrl">Developing</th>
+    <th class="tg-7zrl">Unsatisfactory</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7zrl">3</td>
+    <td class="tg-7zrl">2</td>
+    <td class="tg-7zrl">1</td>
+    <td class="tg-7zrl">0</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">The response is well developed. It indicates<br>that the presentation and the material was<br>understood. It<br>expands on, elaborates,<br>or offers a unique<br>insight on the material.</td>
+    <td class="tg-0lax">The response is<br>adequate. There is<br>evidence that the<br>material was read and<br>understood. Elaboration<br>or unique insights may be less developed.</td>
+    <td class="tg-0lax">The response is not<br>adequate. There may be<br>little evidence that the<br>material was read or<br>understood. There is no<br>elaboration</td>
+    <td class="tg-0lax">The response was not<br>submitted properly to<br>Canvas by the deadline.</td>
+  </tr>
+</tbody>
+</table>
+
+
+- **10%** (Extension Paper). You will be expected to write a short 6 – 10 page double spaced paper that details the replication project you conducted and how you would like to extend it in some way, either by hypothesizing a short follow up to address some issue that arose during it. You can use this paper to propose an extension using a method we talked about in class.
 
 # Late Assignments
 
