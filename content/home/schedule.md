@@ -72,13 +72,12 @@ I expect students to have read the assigned readings before class. This does not
 
 This schedule represents my current plans and objectives. As we go through the semester, these plans (including exact assignment due dates) may need to change to enhance learning opportunitiesfor the class. (e.g. due to an extension of our discussion of specific topics that arise during lectures). Such changes, communicated clearly, are not unusual and should be expected.
 
-
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:0px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:0px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-gyu3{border-color:inherit;font-family:Arial, Helvetica, sans-serif !important;;font-size:14px;text-align:left;
   vertical-align:top}
 .tg .tg-grxr{border-color:inherit;color:#343434;font-family:Arial, Helvetica, sans-serif !important;;font-size:14px;
@@ -92,7 +91,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <th class="tg-gyu3">Date</th>
     <th class="tg-gyu3">Topic</th>
     <th class="tg-gyu3">Guest Speaker</th>
-    <th class="tg-grxr">Readings</th>
+    <th class="tg-grxr"><span style="font-weight:bold;color:#FFF">Readings</span></th>
     <th class="tg-gyu3">Due</th>
   </tr>
 </thead>
@@ -387,4 +386,3 @@ This schedule represents my current plans and objectives. As we go through the s
   </tr>
 </tbody>
 </table>
-
