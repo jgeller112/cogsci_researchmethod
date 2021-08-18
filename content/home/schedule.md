@@ -72,6 +72,7 @@ I expect students to have read the assigned readings before class. This does not
 
 This schedule represents my current plans and objectives. As we go through the semester, these plans (including exact assignment due dates) may need to change to enhance learning opportunitiesfor the class. (e.g. due to an extension of our discussion of specific topics that arise during lectures). Such changes, communicated clearly, are not unusual and should be expected.
 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
