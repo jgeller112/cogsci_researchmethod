@@ -24,7 +24,7 @@ subtitle = "We will meet twice a week"
   icon = "play-circle"
   icon_pack = "far"
   name = "Lecture"
-  description = "Tuesdays and Thursdays, 3:00 – 4:20"  
+  description = "Tuesdays and Thursdays, 3:00 P.M.– 4:20 P.M."  
   
 [[feature]]
   icon = "chair"
