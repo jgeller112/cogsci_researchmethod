@@ -72,8 +72,6 @@ I expect students to have read the assigned readings before class. This does not
 
 This schedule represents my current plans and objectives. As we go through the semester, these plans (including exact assignment due dates) may need to change to enhance learning opportunitiesfor the class. (e.g. due to an extension of our discussion of specific topics that arise during lectures). Such changes, communicated clearly, are not unusual and should be expected.
 
-<center>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -89,6 +87,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <th class="tg-0pky">Day</th>
     <th class="tg-0pky">Date</th>
     <th class="tg-0pky">Topic</th>
+    <th class="tg-0pky">Guest Speaker</th>
     <th class="tg-0pky">Readings</th>
     <th class="tg-0pky">Due</th>
   </tr>
@@ -101,254 +100,286 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-0pky">Introduction &amp; Course Expectations</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">2</td>
     <td class="tg-0pky">T</td>
     <td class="tg-0pky">7-Sep</td>
     <td class="tg-0pky">What is Cognitive Science? &amp; Introduction to Scientific Reasoning</td>
-    <td class="tg-0pky">Ch. 1 JHANGIANI et al.</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="https://kpu.pressbooks.pub/psychmethods4e/" target="_blank" rel="noopener noreferrer">CH.1 JHANGIANI et al.</a></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">2</td>
     <td class="tg-0pky">TH</td>
     <td class="tg-0pky">9-Sep</td>
-    <td class="tg-0pky">Sources of Information</td>
-    <td class="tg-0pky">Ch. 2 JHANGIANI et al.</td>
+    <td class="tg-0pky">Research Ethics</td>
     <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="https://kpu.pressbooks.pub/psychmethods4e/" target="_blank" rel="noopener noreferrer">CH.3 JHANGIANI et al.</a></td>
+    <td class="tg-0pky"><span style="font-weight:bold;color:#CB0000">September 8th is last day to drop a course without a "W" grade</span></td>
   </tr>
   <tr>
     <td class="tg-0pky">3</td>
     <td class="tg-0pky">T</td>
     <td class="tg-0pky">14-Sep</td>
-    <td class="tg-0pky">Ethical Research</td>
-    <td class="tg-0pky">Ch.3 JHANGIANI et al.</td>
-    <td class="tg-0pky">1 page proposal due</td>
+    <td class="tg-0pky">Sources of Information</td>
+    <td class="tg-0pky">Laura Mullen (Rutgers Behavioral Sciences Librarian)</td>
+    <td class="tg-0pky"><a href="https://kpu.pressbooks.pub/psychmethods4e/" target="_blank" rel="noopener noreferrer">CH.2 JHANGIANI et al.</a></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">3</td>
     <td class="tg-0pky">TH</td>
     <td class="tg-0pky">16-Sep</td>
-    <td class="tg-0pky">Ethics Trainning: CITI Training and IRB Process</td>
+    <td class="tg-0pky">Ethics Training: CITI TRAINING </td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
+    <td class="tg-0pky">Topic approval due by Friday September 17th</td>
   </tr>
   <tr>
-    <td class="tg-0pky">3</td>
+    <td class="tg-0pky">4</td>
     <td class="tg-0pky">T</td>
     <td class="tg-0pky">21-Sep</td>
-    <td class="tg-0pky">Open science/Preregistrtaion/OSF</td>
-    <td class="tg-0pky">*Simmons, J. P., Nelson, L. D., E9&amp; Simonsohn, U. (2011). False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant. Psychological Science, 22(11), 1359–1366. <a href="https://doi.org/10.1177/0956797611417632" target="_blank" rel="noopener noreferrer">https://doi.org/10.1177/0956797611417632</a><br><br>*John Oliver: <a href="https://www.youtube.com/watch?v=0Rnq1NpHdmw" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=0Rnq1NpHdmw</a><br><br>*Nosek, B. A., Ebersole, C. R., DeHaven, A. C., &amp; Mellor, D. T. (2018). The preregistration revolution. Proceedings of the National Academy of Sciences, 115(11), 2600. <a href="https://doi.org/10.1073/pnas.1708274114" target="_blank" rel="noopener noreferrer">https://doi.org/10.1073/pnas.1708274114</a> <br><br>*Quantitude Podcast - The Replication… Dilemma</td>
-    <td class="tg-0pky">CITI Certificate and IRB forms due</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">3</td>
-    <td class="tg-0pky">Th</td>
-    <td class="tg-0pky">23-Sep</td>
-    <td class="tg-0pky">Replication</td>
-    <td class="tg-0pky">Brandt, M. J., IJzerman, H., Dijksterhuis, A., Farach, F. J., Geller, J., Giner-Sorolla, R., Grange, J. A., Perugini, M., Spies, J. R., &amp; van ’t Veer, A. (2014). The Replication Recipe: What makes for a convincing replication? Journal of Experimental Social Psychology, 50, 217–224; https://doi.org/10.1016/j.jesp.2013.10.005l; Zwaan, R. A., Etz, A., Lucas, R. E., &amp; Donnellan, M. B. (2018). Making replication mainstream. Behavioral and Brain Sciences, 41. https://doi.org/10.1017/S0140525X17001972</td>
+    <td class="tg-0pky">Open Science/Replication</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="https://drive.google.com/drive/u/1/folders/1GHo4aIDyYnk7276-bBiEiATGn3ltgcp-" target="_blank" rel="noopener noreferrer">- Simmons, J. P., Nelson, L. D., &amp; Simonsohn, U. (2011). False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant. Psychological Science, 22(11), 1359–1366. https://doi.org/10.1177/0956797611417632</a><br><br><a href="https://drive.google.com/drive/u/1/folders/1GHo4aIDyYnk7276-bBiEiATGn3ltgcp-" target="_blank" rel="noopener noreferrer">- Nosek, B. A., Ebersole, C. R., DeHaven, A. C., &amp; Mellor, D. T. (2018). The preregistration revolution. Proceedings of the National Academy of Sciences, 115(11), 2600. https://doi.org/10.1073/pnas.1708274114</a><br></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">4</td>
+    <td class="tg-0pky">Th</td>
+    <td class="tg-0pky">23-Sep</td>
+    <td class="tg-0pky">Open Science/Replication</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="https://drive.google.com/drive/u/1/folders/1GHo4aIDyYnk7276-bBiEiATGn3ltgcp-" target="_blank" rel="noopener noreferrer">- Brandt, M. J., IJzerman, H., Dijksterhuis, A., Farach, F. J., Geller, J., Giner-Sorolla, R., Grange, J. A., Perugini, M., Spies, J. R., &amp; van ’t Veer, A. (2014). The Replication Recipe: What makes for a convincing replication? Journal of Experimental Social Psychology, 50, 217–224; https://doi.org/10.1016/j.jesp.2013.10.005l</a><br><br>-<a href="https://drive.google.com/drive/u/1/folders/1GHo4aIDyYnk7276-bBiEiATGn3ltgcp-" target="_blank" rel="noopener noreferrer"> Frank, M. C., &amp; Saxe, R. (2012). Teaching Replication.Perspectives on Psychological Science,7(6),600–604.https://doi.org/10.1177/1745691612460686</a></td>
+    <td class="tg-0pky">1 page summary, CITI training, and IRB forms due by Friday September 24th</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">5</td>
     <td class="tg-0pky">T</td>
     <td class="tg-0pky">28-Sep</td>
     <td class="tg-0pky">Psychological Measurment</td>
-    <td class="tg-0pky">Ch.4 JHANGIANI et al.</td>
-    <td class="tg-0pky">Preregistration due</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="https://kpu.pressbooks.pub/psychmethods4e/" target="_blank" rel="noopener noreferrer">CH.4 JHANGIANI et al.</a></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">4</td>
+    <td class="tg-0pky">5</td>
     <td class="tg-0pky">Th</td>
     <td class="tg-0pky">30-Sep</td>
-    <td class="tg-0pky">Experimentation in Cognitive Science</td>
-    <td class="tg-0pky">Ch.5 JHANGIANI et al. and Bower, G. H., &amp; Clapper, J. P. (1993). Experimental methods in cognitive science. In Foundations of cognitive neuroscience (pp. 245–300). MIT Press.</td>
+    <td class="tg-0pky">Experiment Basics</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="https://kpu.pressbooks.pub/psychmethods4e/" target="_blank" rel="noopener noreferrer">CH.5 JHANGIANI et al.</a></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">5</td>
+    <td class="tg-0pky">6</td>
     <td class="tg-0pky">T</td>
     <td class="tg-0pky">5-Oct</td>
-    <td class="tg-0pky">Understanding cognition through the eyes: Eye tracking and pupillometry</td>
+    <td class="tg-0pky">Understanding Cognition Through the Eyes: Reading and Eye-tracking</td>
     <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="https://drive.google.com/drive/u/1/folders/1G7sSlt6P6xfEe-apJ1wTrnFsDVVIg-Yz" target="_blank" rel="noopener noreferrer">- Rayner, K., Schotter, E. R., Masson, M. E. J., Potter, M. C., &amp; Treiman, R. (2016). So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? Psychological Science in the Public Interest, 17(1), 4–34. https://doi.org/10.1177/1529100615623267</a><br><br><a href="https://drive.google.com/drive/u/1/folders/1G7sSlt6P6xfEe-apJ1wTrnFsDVVIg-Yz" target="_blank" rel="noopener noreferrer">- Slattery, T. J. Eye movements: From psycholinguistics to font design. In Digital Fonts and Reading (eds Dyson, M. C. &amp; Yuen, C. Y.), 54–78 (World Scientific, 2016).</a></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">5</td>
+    <td class="tg-0pky">6</td>
     <td class="tg-0pky">TH</td>
     <td class="tg-0pky">7-Oct</td>
-    <td class="tg-0pky">Understanding cognition through the eyes: Eye tracking and pupillometry (Eye-tracking group demo)</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Understanding Cognition Through the Eyes: Pupillometry</td>
+    <td class="tg-0pky">Sarah Colby (University of Iowa): Pupillometry</td>
+    <td class="tg-0pky"><a href="https://drive.google.com/drive/u/1/folders/1G7sSlt6P6xfEe-apJ1wTrnFsDVVIg-Yz" target="_blank" rel="noopener noreferrer">- Torres A and Hout M (2019) Pupils: A Window Into the Mind. Front. Young Minds. 7:3. doi: 10.3389/frym.2019.00003</a><br><br><a href="https://drive.google.com/drive/u/1/folders/1G7sSlt6P6xfEe-apJ1wTrnFsDVVIg-Yz" target="_blank" rel="noopener noreferrer">- Laeng, B., Sirois, S., &amp; Gredebäck, G. (2012). Pupillometry: A Window to the Preconscious? Perspectives on Psychological Science, 7(1), 18–27. https://doi.org/10.1177/1745691611427305</a></td>
+    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;color:#CB0000">Preregistration due by Friday October 8th</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky">6</td>
+    <td class="tg-0pky">7</td>
     <td class="tg-0pky">T</td>
     <td class="tg-0pky">12-Oct</td>
-    <td class="tg-0pky">Understanding cognition through the eyes: Eye tracking and pupillometry</td>
+    <td class="tg-0pky">Understanding Cognition Through the Eyes: Eye-tracking and Pupillometry (RuCCS eye-tracking lab)</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Demo 1 write-up due</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">6</td>
+    <td class="tg-0pky">7</td>
     <td class="tg-0pky">TH</td>
     <td class="tg-0pky">14-Oct</td>
-    <td class="tg-0pky">Understanding cognition through the brain: EEG</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Understanding Cognition Through the Brain: EEG</td>
+    <td class="tg-0pky">McCall Syrett (Villanova University): EEG</td>
+    <td class="tg-0pky"><a href="https://drive.google.com/drive/u/1/folders/1_thSTXJpm_wwYHYwl211wbeaMelpHq5r" target="_blank" rel="noopener noreferrer">- Allopenna, P. D. , Magnuson, J. S. , &amp; Tanenhaus, M. K. (1998). Tracking the time course of spoken word recognition using eye movements: Evidence for continuous mapping models. Journal of Memory and Language, 38, 419–439.</a></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">7</td>
+    <td class="tg-0pky">8</td>
     <td class="tg-0pky">T</td>
     <td class="tg-0pky">19-Oct</td>
-    <td class="tg-0pky">Understanding cognition through the brain: EEG</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Understanding Cognition Through the Brain : EEG</td>
+    <td class="tg-0pky">Ryan Rhodes (Rutgers University): EEG</td>
+    <td class="tg-0pky"><a href="https://drive.google.com/drive/u/1/folders/1_thSTXJpm_wwYHYwl211wbeaMelpHq5r" target="_blank" rel="noopener noreferrer">- Etienne, A., Laroia, T., Weigle, H., Afelin, A., Kelly, S. K., Krishnan, A., &amp; Grover, P. (2020). Novel Electrodes for Reliable EEG Recordings on Coarse and Curly Hair. BioRxiv, 2020.02.26.965202. https://doi.org/10.1101/2020.02.26.965202</a></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">7</td>
+    <td class="tg-0pky">8</td>
     <td class="tg-0pky">TH</td>
     <td class="tg-0pky">21-Oct</td>
-    <td class="tg-0pky">Understanding cognition through the brain: EEG</td>
+    <td class="tg-0pky">Understanding Cognition Through the Brain: EEG</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Demo 2 write-up due</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">8</td>
+    <td class="tg-0pky">9</td>
     <td class="tg-0pky">T</td>
     <td class="tg-0pky">26-Oct</td>
-    <td class="tg-0pky">Understanding cognition through the brain: fMRI</td>
-    <td class="tg-0pky">Racine, E., Bar-Ilan, O., &amp; Illes, J. (2005). FMRI in the public eye. Nature Reviews Neuroscience, 6(2), 159–164. https://doi.org/10.1038/nrn1609; Turner, R. (2016). Uses, misuses, new uses and fundamental limitations of magnetic resonance imaging in cognitive science. Philosophical; Amanamba U., Sojka A., Harris S., Bucknam M.,&amp; Hegdé. J. (2020) A Window Into Your Brain: How fMRI Helps Us Understand What Is Going on Inside Our Heads. Front. Young Minds. 8:484603. doi: 10.3389/frym.2020.484603 Transactions of the Royal Society B: Biological Sciences, 371(1705). https://doi.org/10.1098/rstb.2015.0349</td>
+    <td class="tg-0pky">Understanding Cognition Through the Brain: fMRI</td>
+    <td class="tg-0pky">Melissa Thye (University of Edinburgh): fMRI/sEEG</td>
+    <td class="tg-0pky"><a href="https://drive.google.com/drive/u/1/folders/1y4dr5pi_UpqpV0_e1ItxOr_DPFWJuy5s" target="_blank" rel="noopener noreferrer">- Racine, E., Bar-Ilan, O., &amp; Illes, J. (2005). FMRI in the public eye. Nature Reviews Neuroscience, 6(2), 159–164. https://doi.org/10.1038/nrn1609</a><br><br><br><a href="https://drive.google.com/drive/u/1/folders/1y4dr5pi_UpqpV0_e1ItxOr_DPFWJuy5s" target="_blank" rel="noopener noreferrer">- Turner, R. (2016). Uses, misuses, new uses and fundamental limitations of magnetic resonance imaging in cognitive science. Philosophical Transactions of the Royal Society B: Biological Sciences, 371(1705). https://doi.org/10.1098/rstb.2015.0349</a><br><br><a href="https://drive.google.com/drive/u/1/folders/1y4dr5pi_UpqpV0_e1ItxOr_DPFWJuy5s" target="_blank" rel="noopener noreferrer">- Amanamba U., Sojka A., Harris S., Bucknam M.,&amp; Hegdé. J. (2020) A Window Into Your Brain: How fMRI Helps Us Understand What Is Going on Inside Our Heads. Front. Young Minds. 8:484603. doi: 10.3389/frym.2020.484603</a></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">8</td>
+    <td class="tg-0pky">9</td>
     <td class="tg-0pky">TH</td>
     <td class="tg-0pky">28-Oct</td>
-    <td class="tg-0pky">Understanding cognition through the brain: fMRI (Neurimaging center)</td>
+    <td class="tg-0pky">Understanding Cognition Through the Brain: fMRI (The Center for Advanced Human Brain Imaging Research (CAHBIR))</td>
+    <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">9</td>
+    <td class="tg-0pky">10</td>
     <td class="tg-0pky">T</td>
     <td class="tg-0pky">2-Nov</td>
-    <td class="tg-0pky">No Class - Psychonomics No Class</td>
+    <td class="tg-0pky">Understanding Cognition Through the World Wide Web</td>
     <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="https://drive.google.com/drive/u/1/folders/1zBLA0w8RKXI1N2r-t1AO-RQB-tXC-rrD" target="_blank" rel="noopener noreferrer">- Crump, McDonnell, Gureckis (2013). Evaluating Amazon's Mechanical Turk as a Tool for Experimental Behavioral Research</a><br><br><a href="https://drive.google.com/drive/u/1/folders/1zBLA0w8RKXI1N2r-t1AO-RQB-tXC-rrD" target="_blank" rel="noopener noreferrer">- Bridges, D., Pitiot, A., MacAskill, M. R., &amp; Peirce, J. W. (2020). The timing mega-study: Comparing a range of experiment generators, both lab-based and online. PeerJ, 8, e9414. https://doi.org/10.7717/peerj.9414</a><br><br><a href="https://drive.google.com/drive/u/1/folders/1zBLA0w8RKXI1N2r-t1AO-RQB-tXC-rrD" target="_blank" rel="noopener noreferrer">- Grootswagers, T. A primer on running human behavioural experiments online. Behav Res 52, 2283–2286 (2020).https://doi.org/10.3758/s13428-020-01395-3</a></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">9</td>
+    <td class="tg-0pky">10</td>
     <td class="tg-0pky">TH</td>
     <td class="tg-0pky">4-Nov</td>
     <td class="tg-0pky">No Class - Psychonomics No Calss</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">10</td>
-    <td class="tg-0pky">T</td>
-    <td class="tg-0pky">9-Nov</td>
-    <td class="tg-0pky">Understanding cognition through the world wide web</td>
-    <td class="tg-0pky">Crump, McDonnell, Gureckis (2013). Evaluating Amazon's Mechanical Turk as a Tool for Experimental Behavioral Research; Bridges, D., Pitiot, A., MacAskill, M. R., &amp; Peirce, J. W. (2020). The timing mega-study: Comparing a range of experiment generators, both lab-based and online. PeerJ, 8, e9414. https://doi.org/10.7717/peerj.9414; Grootswagers, T. A primer on running human behavioural experiments online. Behav Res 52, 2283–2286 (2020).https://doi.org/10.3758/s13428-020-01395-3; Bridges, D., Pitiot, A., MacAskill, M. R., &amp; Peirce, J. W. (2020). The timing mega-study: Comparing a range of experiment generators, both lab-based and online. PeerJ, 8, e9414. https://doi.org/10.7717/peerj.9414</td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">10</td>
-    <td class="tg-0pky">TH</td>
-    <td class="tg-0pky">11-Nov</td>
+    <td class="tg-0pky">11</td>
+    <td class="tg-0pky">T</td>
+    <td class="tg-0pky">9-Nov</td>
     <td class="tg-0pky">Introduction to Python/PsychoPy and Pavlovia</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">11</td>
+    <td class="tg-0pky">TH</td>
+    <td class="tg-0pky">11-Nov</td>
+    <td class="tg-0pky">Introduction to Python/PsychoPy and Pavlovia &amp; Normalizing Errors</td>
+    <td class="tg-0pky">Lucia Cherep (Univeristy of Arizona): VR</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">12</td>
     <td class="tg-0pky">T</td>
     <td class="tg-0pky">16-Nov</td>
-    <td class="tg-0pky">Introduction to Python/PsychoPy and Pavlovia &amp; Normalizing Errors</td>
+    <td class="tg-0pky">Programming Experiments</td>
+    <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">11</td>
+    <td class="tg-0pky">12</td>
     <td class="tg-0pky">TH</td>
     <td class="tg-0pky">18-Nov</td>
-    <td class="tg-0pky">Work on experiments</td>
+    <td class="tg-0pky">Programming Experiments (virtual meeting)</td>
+    <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">12</td>
+    <td class="tg-0pky">13</td>
     <td class="tg-0pky">T</td>
     <td class="tg-0pky">23-Nov</td>
-    <td class="tg-0pky">Work on experiments (virtual meeting)</td>
+    <td class="tg-0pky">Thanksgiving Break (No Class)</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Finding Errors Assignment Due</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">12</td>
+    <td class="tg-0pky">13</td>
     <td class="tg-0pky">TH</td>
     <td class="tg-0pky">25-Nov</td>
-    <td class="tg-0pky">Thanksgiving Break No Class</td>
+    <td class="tg-0pky">Programming Experiments</td>
+    <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">13</td>
+    <td class="tg-0pky">14</td>
     <td class="tg-0pky">T</td>
     <td class="tg-0pky">30-Nov</td>
-    <td class="tg-0pky">Work on experiments</td>
+    <td class="tg-0pky">Programming Experiments</td>
+    <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">13</td>
+    <td class="tg-0pky">14</td>
     <td class="tg-0pky">TH</td>
     <td class="tg-0pky">2-Dec</td>
-    <td class="tg-0pky">Work on experiments</td>
+    <td class="tg-0pky">Data Collection</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Experiment Due</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Programmed experiment due by Friday December 3rd</td>
   </tr>
   <tr>
-    <td class="tg-0pky">14</td>
+    <td class="tg-0pky">15</td>
     <td class="tg-0pky">T</td>
     <td class="tg-0pky">7-Dec</td>
-    <td class="tg-0pky">Data collection</td>
+    <td class="tg-0pky">Data Collection</td>
+    <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">14</td>
+    <td class="tg-0pky">15</td>
     <td class="tg-0pky">TH</td>
     <td class="tg-0pky">9-Dec</td>
-    <td class="tg-0pky">Data collection</td>
+    <td class="tg-0pky">Data Analysis</td>
+    <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">15</td>
+    <td class="tg-0pky">16</td>
     <td class="tg-0pky">T</td>
     <td class="tg-0pky">14-Dec</td>
-    <td class="tg-0pky">Class Presentations</td>
+    <td class="tg-0pky">Data Analysis</td>
+    <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">15</td>
+    <td class="tg-0pky">16</td>
     <td class="tg-0pky">TH</td>
     <td class="tg-0pky">16-Dec</td>
     <td class="tg-0pky">Class Presentations</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Paper due by December 23rd</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">16</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
+    <td class="tg-0pky">12/20/2021 - 12/23/2021</td>
     <td class="tg-0pky">FINAL EXAMS (DECEMBER 20th-DECEMBER 23rd)</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
+    <td class="tg-0pky">Paper due by December 23rd</td>
   </tr>
 </tbody>
 </table>
