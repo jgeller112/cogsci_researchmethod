@@ -73,11 +73,11 @@ I expect students to have read the assigned readings before class. This does not
 This schedule represents my current plans and objectives. As we go through the semester, these plans (including exact assignment due dates) may need to change to enhance learning opportunitiesfor the class. (e.g. due to an extension of our discussion of specific topics that arise during lectures). Such changes, communicated clearly, are not unusual and should be expected.
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-color:#bbb;border-spacing:0;}
-.tg td{background-color:#E0FFEB;border-color:#bbb;border-style:solid;border-width:0px;color:#594F4F;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#9DE0AD;border-color:#bbb;border-style:solid;border-width:0px;color:#493F3F;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-kaq8{border-color:inherit;color:#fe0000;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 831px">
