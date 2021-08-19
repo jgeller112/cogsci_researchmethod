@@ -140,6 +140,7 @@ The responses will be graded according to the following rubric:
 </tbody>
 </table>
 
+<div align="left">
 
 - **10%** (Extension Paper). You will be expected to write a short 6 – 10 page double spaced paper that details the replication project you conducted and how you would like to extend it in some way, either by hypothesizing a short follow up to address some issue that arose during it. You can use this paper to propose an extension using a method we talked about in class.
 
