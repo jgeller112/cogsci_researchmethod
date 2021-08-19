@@ -117,7 +117,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-kaq8">7-Sep</td>
     <td class="tg-kaq8">What is Cognitive Science? &amp; Introduction to Scientific Reasoning</td>
     <td class="tg-kaq8"></td>
-    <td class="tg-kaq8"><a href="https://kpu.pressbooks.pub/psychmethods4e/" target="_blank" rel="noopener noreferrer">CH.1 JHANGIANI et al.</a></td>
+    <td class="tg-kaq8"><a href="https://kpu.pressbooks.pub/psychmethods4e/" target="_blank" rel="noopener noreferrer"><span style="color:#FE0000">CH.1 JHANGIANI et al.</span></a></td>
     <td class="tg-kaq8"></td>
   </tr>
   <tr>
@@ -126,7 +126,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-kaq8">9-Sep</td>
     <td class="tg-kaq8">Research Ethics</td>
     <td class="tg-kaq8"></td>
-    <td class="tg-kaq8"><a href="https://kpu.pressbooks.pub/psychmethods4e/" target="_blank" rel="noopener noreferrer">CH.3 JHANGIANI et al.</a></td>
+    <td class="tg-kaq8"><a href="https://kpu.pressbooks.pub/psychmethods4e/" target="_blank" rel="noopener noreferrer"><span style="color:#FE0000">CH.3 JHANGIANI et al.</span></a></td>
     <td class="tg-kaq8">September 8th is last day to drop a course without a "W" grade</td>
   </tr>
   <tr>
@@ -135,7 +135,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-kaq8">14-Sep</td>
     <td class="tg-kaq8">Sources of Information</td>
     <td class="tg-kaq8">Laura Mullen (Rutgers Behavioral Sciences Librarian)</td>
-    <td class="tg-kaq8"><a href="https://kpu.pressbooks.pub/psychmethods4e/" target="_blank" rel="noopener noreferrer">CH.2 JHANGIANI et al.</a></td>
+    <td class="tg-kaq8"><a href="https://kpu.pressbooks.pub/psychmethods4e/" target="_blank" rel="noopener noreferrer"><span style="color:#FE0000">CH.2 JHANGIANI et al.</span></a></td>
     <td class="tg-kaq8"></td>
   </tr>
   <tr>
@@ -153,7 +153,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-kaq8">21-Sep</td>
     <td class="tg-kaq8">Open Science/Replication</td>
     <td class="tg-kaq8"></td>
-    <td class="tg-kaq8"><a href="https://drive.google.com/drive/u/1/folders/1GHo4aIDyYnk7276-bBiEiATGn3ltgcp-" target="_blank" rel="noopener noreferrer">- Simmons, J. P., Nelson, L. D., &amp; Simonsohn, U. (2011). False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant. Psychological Science, 22(11), 1359–1366. https://doi.org/10.1177/0956797611417632</a><br><br><a href="https://drive.google.com/drive/u/1/folders/1GHo4aIDyYnk7276-bBiEiATGn3ltgcp-" target="_blank" rel="noopener noreferrer">- Nosek, B. A., Ebersole, C. R., DeHaven, A. C., &amp; Mellor, D. T. (2018). The preregistration revolution. Proceedings of the National Academy of Sciences, 115(11), 2600. https://doi.org/10.1073/pnas.1708274114</a><br></td>
+    <td class="tg-kaq8"><a href="https://drive.google.com/drive/u/1/folders/1GHo4aIDyYnk7276-bBiEiATGn3ltgcp-" target="_blank" rel="noopener noreferrer"><span style="color:#FE0000">- Simmons, J. P., Nelson, L. D., &amp; Simonsohn, U. (2011). False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant. Psychological Science, 22(11), 1359–1366. https://doi.org/10.1177/0956797611417632</span></a><br><a href="https://drive.google.com/drive/u/1/folders/1GHo4aIDyYnk7276-bBiEiATGn3ltgcp-" target="_blank" rel="noopener noreferrer"><span style="color:#FE0000">- Nosek, B. A., Ebersole, C. R., DeHaven, A. C., &amp; Mellor, D. T. (2018). The preregistration revolution. Proceedings of the National Academy of Sciences, 115(11), 2600. https://doi.org/10.1073/pnas.1708274114</span></a><br></td>
     <td class="tg-kaq8"></td>
   </tr>
   <tr>
@@ -162,7 +162,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-kaq8">23-Sep</td>
     <td class="tg-kaq8">Open Science/Replication</td>
     <td class="tg-kaq8"></td>
-    <td class="tg-kaq8"><a href="https://drive.google.com/drive/u/1/folders/1GHo4aIDyYnk7276-bBiEiATGn3ltgcp-" target="_blank" rel="noopener noreferrer">- Brandt, M. J., IJzerman, H., Dijksterhuis, A., Farach, F. J., Geller, J., Giner-Sorolla, R., Grange, J. A., Perugini, M., Spies, J. R., &amp; van ’t Veer, A. (2014). The Replication Recipe: What makes for a convincing replication? Journal of Experimental Social Psychology, 50, 217–224 https://doi.org/10.1016/j.jesp.2013.10.005l</a><br><br>-<a href="https://drive.google.com/drive/u/1/folders/1GHo4aIDyYnk7276-bBiEiATGn3ltgcp-" target="_blank" rel="noopener noreferrer"> Frank, M. C., &amp; Saxe, R. (2012). Teaching Replication.Perspectives on Psychological Science,7(6),600–604.https://doi.org/10.1177/1745691612460686</a></td>
+    <td class="tg-kaq8"><a href="https://drive.google.com/drive/u/1/folders/1GHo4aIDyYnk7276-bBiEiATGn3ltgcp-" target="_blank" rel="noopener noreferrer"><span style="color:#FE0000">- Brandt, M. J., IJzerman, H., Dijksterhuis, A., Farach, F. J., Geller, J., Giner-Sorolla, R., Grange, J. A., Perugini, M., Spies, J. R., &amp; van ’t Veer, A. (2014). The Replication Recipe: What makes for a convincing replication? Journal of Experimental Social Psychology, 50, 217–224 https://doi.org/10.1016/j.jesp.2013.10.005l</span></a><br><span style="color:#FE0000">-</span><a href="https://drive.google.com/drive/u/1/folders/1GHo4aIDyYnk7276-bBiEiATGn3ltgcp-" target="_blank" rel="noopener noreferrer"><span style="color:#FE0000"> Frank, M. C., &amp; Saxe, R. (2012). Teaching Replication.Perspectives on Psychological Science,7(6),600–604.https://doi.org/10.1177/1745691612460686</span></a></td>
     <td class="tg-kaq8">1 page summary, CITI training, and IRB forms due by Friday September 24th</td>
   </tr>
   <tr>
@@ -171,7 +171,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-kaq8">28-Sep</td>
     <td class="tg-kaq8">Psychological Measurment</td>
     <td class="tg-kaq8"></td>
-    <td class="tg-kaq8"><a href="https://kpu.pressbooks.pub/psychmethods4e/" target="_blank" rel="noopener noreferrer">CH.4 JHANGIANI et al.</a></td>
+    <td class="tg-kaq8"><a href="https://kpu.pressbooks.pub/psychmethods4e/" target="_blank" rel="noopener noreferrer"><span style="color:#FE0000">CH.4 JHANGIANI et al.</span></a></td>
     <td class="tg-kaq8"></td>
   </tr>
   <tr>
@@ -180,7 +180,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-kaq8">30-Sep</td>
     <td class="tg-kaq8">Experiment Basics</td>
     <td class="tg-kaq8"></td>
-    <td class="tg-kaq8"><a href="https://kpu.pressbooks.pub/psychmethods4e/" target="_blank" rel="noopener noreferrer">CH.5 JHANGIANI et al.</a></td>
+    <td class="tg-kaq8"><a href="https://kpu.pressbooks.pub/psychmethods4e/" target="_blank" rel="noopener noreferrer"><span style="color:#FE0000">CH.5 JHANGIANI et al.</span></a></td>
     <td class="tg-kaq8"></td>
   </tr>
   <tr>
@@ -189,7 +189,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-kaq8">5-Oct</td>
     <td class="tg-kaq8">Understanding Cognition Through the Eyes: Reading and Eye-tracking</td>
     <td class="tg-kaq8"></td>
-    <td class="tg-kaq8"><a href="https://drive.google.com/drive/u/1/folders/1G7sSlt6P6xfEe-apJ1wTrnFsDVVIg-Yz" target="_blank" rel="noopener noreferrer">- Rayner, K., Schotter, E. R., Masson, M. E. J., Potter, M. C., &amp; Treiman, R. (2016). So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? Psychological Science in the Public Interest, 17(1), 4–34 https://doi.org/10.1177/1529100615623267</a><br><br><a href="https://drive.google.com/drive/u/1/folders/1G7sSlt6P6xfEe-apJ1wTrnFsDVVIg-Yz" target="_blank" rel="noopener noreferrer">- Slattery, T. J. Eye movements: From psycholinguistics to font design. In Digital Fonts and Reading (eds Dyson, M. C. &amp; Yuen, C. Y.), 54–78 (World Scientific, 2016).</a></td>
+    <td class="tg-kaq8"><a href="https://drive.google.com/drive/u/1/folders/1G7sSlt6P6xfEe-apJ1wTrnFsDVVIg-Yz" target="_blank" rel="noopener noreferrer"><span style="color:#FE0000">- Rayner, K., Schotter, E. R., Masson, M. E. J., Potter, M. C., &amp; Treiman, R. (2016). So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? Psychological Science in the Public Interest, 17(1), 4–34 https://doi.org/10.1177/1529100615623267</span></a><br><a href="https://drive.google.com/drive/u/1/folders/1G7sSlt6P6xfEe-apJ1wTrnFsDVVIg-Yz" target="_blank" rel="noopener noreferrer"><span style="color:#FE0000">- Slattery, T. J. Eye movements: From psycholinguistics to font design. In Digital Fonts and Reading (eds Dyson, M. C. &amp; Yuen, C. Y.), 54–78 (World Scientific, 2016).</span></a></td>
     <td class="tg-kaq8"></td>
   </tr>
   <tr>
@@ -198,7 +198,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-kaq8">7-Oct</td>
     <td class="tg-kaq8">Understanding Cognition Through the Eyes: Pupillometry</td>
     <td class="tg-kaq8">Sarah Colby (University of Iowa): Pupillometry</td>
-    <td class="tg-kaq8"><a href="https://drive.google.com/drive/u/1/folders/1G7sSlt6P6xfEe-apJ1wTrnFsDVVIg-Yz" target="_blank" rel="noopener noreferrer">- Torres A and Hout M (2019) Pupils: A Window Into the Mind. Front. Young Minds. 7:3. doi: 10.3389/frym.2019.00003</a><br><br><a href="https://drive.google.com/drive/u/1/folders/1G7sSlt6P6xfEe-apJ1wTrnFsDVVIg-Yz" target="_blank" rel="noopener noreferrer">- Laeng, B., Sirois, S., &amp; Gredebäck, G. (2012). Pupillometry: A Window to the Preconscious? Perspectives on Psychological Science, 7(1), 18–27. https://doi.org/10.1177/1745691611427305</a></td>
+    <td class="tg-kaq8"><a href="https://drive.google.com/drive/u/1/folders/1G7sSlt6P6xfEe-apJ1wTrnFsDVVIg-Yz" target="_blank" rel="noopener noreferrer"><span style="color:#FE0000">- Torres A and Hout M (2019) Pupils: A Window Into the Mind. Front. Young Minds. 7:3. doi: 10.3389/frym.2019.00003</span></a><br><a href="https://drive.google.com/drive/u/1/folders/1G7sSlt6P6xfEe-apJ1wTrnFsDVVIg-Yz" target="_blank" rel="noopener noreferrer"><span style="color:#FE0000">- Laeng, B., Sirois, S., &amp; Gredebäck, G. (2012). Pupillometry: A Window to the Preconscious? Perspectives on Psychological Science, 7(1), 18–27. https://doi.org/10.1177/1745691611427305</span></a></td>
     <td class="tg-kaq8"><span style="font-style:normal">Preregistration due by Friday October 8th</span></td>
   </tr>
   <tr>
@@ -216,7 +216,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-kaq8">14-Oct</td>
     <td class="tg-kaq8">Understanding Cognition Through the Brain: EEG</td>
     <td class="tg-kaq8">McCall Syrett (Villanova University): EEG</td>
-    <td class="tg-kaq8"><a href="https://drive.google.com/drive/u/1/folders/1_thSTXJpm_wwYHYwl211wbeaMelpHq5r" target="_blank" rel="noopener noreferrer">- Allopenna, P. D. , Magnuson, J. S. , &amp; Tanenhaus, M. K. (1998). Tracking the time course of spoken word recognition using eye movements: Evidence for continuous mapping models. Journal of Memory and Language, 38, 419–439.</a></td>
+    <td class="tg-kaq8"><a href="https://drive.google.com/drive/u/1/folders/1_thSTXJpm_wwYHYwl211wbeaMelpHq5r" target="_blank" rel="noopener noreferrer"><span style="color:#FE0000">- Allopenna, P. D. , Magnuson, J. S. , &amp; Tanenhaus, M. K. (1998). Tracking the time course of spoken word recognition using eye movements: Evidence for continuous mapping models. Journal of Memory and Language, 38, 419–439.</span></a></td>
     <td class="tg-kaq8"></td>
   </tr>
   <tr>
@@ -225,7 +225,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-kaq8">19-Oct</td>
     <td class="tg-kaq8">Understanding Cognition Through the Brain : EEG</td>
     <td class="tg-kaq8">Ryan Rhodes (Rutgers University): EEG</td>
-    <td class="tg-kaq8"><a href="https://drive.google.com/drive/u/1/folders/1_thSTXJpm_wwYHYwl211wbeaMelpHq5r" target="_blank" rel="noopener noreferrer">- Etienne, A., Laroia, T., Weigle, H., Afelin, A., Kelly, S. K., Krishnan, A., &amp; Grover, P. (2020). Novel Electrodes for Reliable EEG Recordings on Coarse and Curly Hair. BioRxiv, 2020.02.26.965202. https://doi.org/10.1101/2020.02.26.965202</a></td>
+    <td class="tg-kaq8"><a href="https://drive.google.com/drive/u/1/folders/1_thSTXJpm_wwYHYwl211wbeaMelpHq5r" target="_blank" rel="noopener noreferrer"><span style="color:#FE0000">- Etienne, A., Laroia, T., Weigle, H., Afelin, A., Kelly, S. K., Krishnan, A., &amp; Grover, P. (2020). Novel Electrodes for Reliable EEG Recordings on Coarse and Curly Hair. BioRxiv, 2020.02.26.965202. https://doi.org/10.1101/2020.02.26.965202</span></a></td>
     <td class="tg-kaq8"></td>
   </tr>
   <tr>
@@ -243,7 +243,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-kaq8">26-Oct</td>
     <td class="tg-kaq8">Understanding Cognition Through the Brain: fMRI</td>
     <td class="tg-kaq8">Melissa Thye (University of Edinburgh): fMRI/sEEG</td>
-    <td class="tg-kaq8"><a href="https://drive.google.com/drive/u/1/folders/1y4dr5pi_UpqpV0_e1ItxOr_DPFWJuy5s" target="_blank" rel="noopener noreferrer">- Racine, E., Bar-Ilan, O., &amp; Illes, J. (2005). FMRI in the public eye. Nature Reviews Neuroscience, 6(2), 159–164. https://doi.org/10.1038/nrn1609</a><br><br><a href="https://drive.google.com/drive/u/1/folders/1y4dr5pi_UpqpV0_e1ItxOr_DPFWJuy5s" target="_blank" rel="noopener noreferrer">- Turner, R. (2016). Uses, misuses, new uses and fundamental limitations of magnetic resonance imaging in cognitive science. Philosophical Transactions of the Royal Society B: Biological Sciences, 371(1705). https://doi.org/10.1098/rstb.2015.0349</a><br><br><a href="https://drive.google.com/drive/u/1/folders/1y4dr5pi_UpqpV0_e1ItxOr_DPFWJuy5s" target="_blank" rel="noopener noreferrer">- Amanamba U., Sojka A., Harris S., Bucknam M.,&amp; Hegdé. J. (2020) A Window Into Your Brain: How fMRI Helps Us Understand What Is Going on Inside Our Heads. Front. Young Minds. 8:484603. doi: 10.3389/frym.2020.484603</a></td>
+    <td class="tg-kaq8"><a href="https://drive.google.com/drive/u/1/folders/1y4dr5pi_UpqpV0_e1ItxOr_DPFWJuy5s" target="_blank" rel="noopener noreferrer"><span style="color:#FE0000">- Racine, E., Bar-Ilan, O., &amp; Illes, J. (2005). FMRI in the public eye. Nature Reviews Neuroscience, 6(2), 159–164. https://doi.org/10.1038/nrn1609</span></a><br><a href="https://drive.google.com/drive/u/1/folders/1y4dr5pi_UpqpV0_e1ItxOr_DPFWJuy5s" target="_blank" rel="noopener noreferrer"><span style="color:#FE0000">- Turner, R. (2016). Uses, misuses, new uses and fundamental limitations of magnetic resonance imaging in cognitive science. Philosophical Transactions of the Royal Society B: Biological Sciences, 371(1705). https://doi.org/10.1098/rstb.2015.0349</span></a><br><a href="https://drive.google.com/drive/u/1/folders/1y4dr5pi_UpqpV0_e1ItxOr_DPFWJuy5s" target="_blank" rel="noopener noreferrer"><span style="color:#FE0000">- Amanamba U., Sojka A., Harris S., Bucknam M.,&amp; Hegdé. J. (2020) A Window Into Your Brain: How fMRI Helps Us Understand What Is Going on Inside Our Heads. Front. Young Minds. 8:484603. doi: 10.3389/frym.2020.484603</span></a></td>
     <td class="tg-kaq8"></td>
   </tr>
   <tr>
@@ -261,7 +261,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-kaq8">2-Nov</td>
     <td class="tg-kaq8">Understanding Cognition Through the World Wide Web</td>
     <td class="tg-kaq8"></td>
-    <td class="tg-kaq8"><a href="https://drive.google.com/drive/u/1/folders/1zBLA0w8RKXI1N2r-t1AO-RQB-tXC-rrD" target="_blank" rel="noopener noreferrer">- Crump, McDonnell, Gureckis (2013). Evaluating Amazon's Mechanical Turk as a Tool for Experimental Behavioral Research</a><br><br><a href="https://drive.google.com/drive/u/1/folders/1zBLA0w8RKXI1N2r-t1AO-RQB-tXC-rrD" target="_blank" rel="noopener noreferrer">- Bridges, D., Pitiot, A., MacAskill, M. R., &amp; Peirce, J. W. (2020). The timing mega-study: Comparing a range of experiment generators, both lab-based and online. PeerJ, 8, e9414. https://doi.org/10.7717/peerj.9414</a><br><br><a href="https://drive.google.com/drive/u/1/folders/1zBLA0w8RKXI1N2r-t1AO-RQB-tXC-rrD" target="_blank" rel="noopener noreferrer">- Grootswagers, T. A primer on running human behavioral experiments online. Behav Res 52, 2283–2286 (2020).https://doi.org/10.3758/s13428-020-01395-3</a></td>
+    <td class="tg-kaq8"><a href="https://drive.google.com/drive/u/1/folders/1zBLA0w8RKXI1N2r-t1AO-RQB-tXC-rrD" target="_blank" rel="noopener noreferrer"><span style="color:#FE0000">- Crump, McDonnell, Gureckis (2013). Evaluating Amazon's Mechanical Turk as a Tool for Experimental Behavioral Research</span></a><br><a href="https://drive.google.com/drive/u/1/folders/1zBLA0w8RKXI1N2r-t1AO-RQB-tXC-rrD" target="_blank" rel="noopener noreferrer"><span style="color:#FE0000">- Bridges, D., Pitiot, A., MacAskill, M. R., &amp; Peirce, J. W. (2020). The timing mega-study: Comparing a range of experiment generators, both lab-based and online. PeerJ, 8, e9414. https://doi.org/10.7717/peerj.9414</span></a><br><a href="https://drive.google.com/drive/u/1/folders/1zBLA0w8RKXI1N2r-t1AO-RQB-tXC-rrD" target="_blank" rel="noopener noreferrer"><span style="color:#FE0000">- Grootswagers, T. A primer on running human behavioral experiments online. Behav Res 52, 2283–2286 (2020).https://doi.org/10.3758/s13428-020-01395-3</span></a></td>
     <td class="tg-kaq8"></td>
   </tr>
   <tr>
