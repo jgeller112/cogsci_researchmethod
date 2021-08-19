@@ -28,6 +28,11 @@
   name = "People"
   url = "#people"
   weight = 50
+  
+ [[main]]
+  name = "Ethics"
+  url="#Ethics"
+  weight = 60
 
 
 # Link to a PDF of your resume/CV from the menu.
