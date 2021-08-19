@@ -50,7 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-
 # Final Project
 
 I have designed the course to involve a replication study within your area of interest. The replication studies should take some preexisting manipulation and aim to replicate it on a smaller, more manageable scale. There are three primary pedagogical reasons for structuring the final projects in this way:
@@ -80,6 +79,6 @@ The replication studies are group projects (unless you strongly feel the need to
 6. Preregister Study
 7. Design replication study: try to use similar types of items, but you may need to create
 your own
-8. Run replication online (reddit/SampleSize, Facebook, Twitter, family, friends)
+8. Run replication online (Reddit/SampleSize, Facebook, Twitter, family, friends)
 9. Present results to class
 
