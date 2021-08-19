@@ -98,6 +98,8 @@ Presentations are a group effort, and it is expected that all members will eithe
 
 The responses will be graded according to the following rubric:
 
+<div align="center">
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
