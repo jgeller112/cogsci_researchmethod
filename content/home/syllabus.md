@@ -79,7 +79,11 @@ I have created a website for the course (https://cogscimethods.netlify.app/). Mu
 
     - Group Project Proposal (5%) - (Team):  Your group will need submit a short 1-page research proposal. This proposal should summarize the paper you are going to replicate. You will need to get article approval from me. 
     
-    - CITI Training and Institutional Review Board (IRB) Forms (5%) - (Individual):  Although student research projects are covered by the IRB,  the ethicical implications of your research project are important. To this end, you will become CITI certified and also fill out IRB forms which involves creating your own consent form.
+    - CITI Training and Institutional Review Board (IRB) Forms (10%) - (Individual):  Although student research projects are covered by the IRB,  the ethicical implications of your research project are important. To this end, you will become CITI certified and also submit IRB forms which involves creating your own consent form.
+    
+      - CITI certificate
+      - Research protocol form
+      - Consent form 
     
     - Preregistration (5%) - (Team): After you have gottten you topic approved, you will pregresiter your experiment (we will dicuss what this is in class). The preregistration should be two primary parts: (1) background and (2) an analysis plan. The background does not need to be lengthy, 2 pages or less, enough information for me to give you feedback on the big idea and feasibility before you get too far along. I will not grade the preregistration for being correct or accurate; I will only grade it for being complete (i.e., if  you answer all the questions but some of your answers are wrong or don’t make sense, you will still get full credit). The preregistration is meant to be an opportunity to get feedback from me early so that you can assess feasibility and develop the idea into a strong final presentation the whole class can benefit from. 
 
@@ -90,10 +94,8 @@ I have created a website for the course (https://cogscimethods.netlify.app/). Mu
     - Group presentation (10%) - (Team): The last two classes will be devoted to presenting your final project to the class. Each groups will be give a 10 minute presentation followed by up to 5 minutes of questions from the audience.
 Presentations are a group effort, and it is expected that all members will either present or address questions. Do make an effort to be inclusive. I strongly recommend you rehearse this and make sure timing and flow is right, and that no one person is over-dominant or unheard. Each group will have no more than 10 minutes, strictly observed with a timer (I will stop you when time is up, regardless of whether you're done or not). There will be no time for questions from the audience, but I will either comment, ask a question, or add something.  
 
-    - Project write-up (20%) - (Individual): You will be expected to write a short 6 – 10 page double spaced paper that details the replication project you conducted and how you would like to extend it in some way, either by hypothesizing a short follow up to address some issue that arose during it. You can use this paper to propose an extension using a method we talked about in class.
+    - Project write-up (10%) - (Individual): You will be expected to write a short 6 – 10 page double spaced paper that details the replication project you conducted and how you would like to extend it in some way, either by hypothesizing a short follow up to address some issue that arose during it. You can use this paper to propose an extension using a method we talked about in class.
     
-*Each step must be finished in order*
-
 - **30%** (Assignments/Lab Activities). These assignments are designed to engage you in the type of thinking that cognitive scientists do, and to introduce you to the tools and resources they use for setting up and carrying out experiments. Point totals will vary.
     
 - **10%** (Presentation Reflections). We have a several guest lectures over the course of the semester. While attendance is not mandatory, you will get points for attending these talks and submitting a reflection for each talk/presentation (500-1000 words). Reflections will be due on the Friday by 4:00 P.M after the talk. These must be submitted via Canvas. The purpose of the response is to get you thinking about the readings, connecting the new material to other readings and discussion, and offering your own thoughts.
@@ -143,6 +145,10 @@ The responses will be graded according to the following rubric:
 </table>
 
 <div align="left">
+
+# Laptops
+
+I do not mind if you have your laptops out during class as long as it is class related.
 
 # Late Assignments
 
