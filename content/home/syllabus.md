@@ -60,7 +60,7 @@ subtitle = ""
 
 # Required Texts
 
-The following books are required (They are both free)). In addition, I will be posting supplemental articles that I will post on the course website. 
+The following books are required (They are both free)). In addition, I will be posting supplemental articles on the course website. 
 
   - Jhangiani, R. S., Chiang, I.-C. A., Cuttler, C., & Leighton, D. C. (2019). Research Methods in Psychology.         https://doi.org/10.17605/OSF.IO/HF7DQ https://kpu.pressbooks.pub/psychmethods4e/. 
   
@@ -77,24 +77,29 @@ I have created a website for the course (https://cogscimethods.netlify.app/). Mu
 
 - **60%** (Research Project). One important element of advancing scientific knowledge is the ability to reproduce the materials, procedures, and analytic plan of published research in efforts to obtain similar results in other samples (i.e., replication). To the degree that research findings can be replicated by other labs using the same methods/materials, but of course with appropriate statistical power,more confidence can be placed on the hypothesized associations between abstract theoretical constructs. The primary assignment for this course is a group project that will involve the following: 
 
-    - Group Project Proposal (5%) - (Team):  Your group will need submit a short 1-page research proposal. This proposal should summarize the paper you are going to replicate. You will need to get article approval from me. 
+    a. Team Charter (5 points) 
     
-    - CITI Training and Institutional Review Board (IRB) Forms (10%) - (Individual):  Although student research projects are covered by the IRB,  the ethicical implications of your research project are important. To this end, you will become CITI certified and also submit IRB forms which involves creating your own consent form.
+    b. Team Project Proposal (5 points):  Your group will need submit a short 1-page research proposal. This proposal should summarize the paper you are going to replicate. You will need to get article approval from me. 
     
-      - CITI certificate
-      - Research protocol form
-      - Consent form 
+    c. CITI Training and Institutional Review Board (IRB) Forms (5 points) - (Individual):  Although student research projects are covered by the IRB,  the ethicical implications of your research project are important. To this end, you will become CITI certified and also submit IRB forms which involves creating your own consent form. You will turn in the documents below: 
     
-    - Preregistration (5%) - (Team): After you have gottten you topic approved, you will pregresiter your experiment (we will dicuss what this is in class). The preregistration should be two primary parts: (1) background and (2) an analysis plan. The background does not need to be lengthy, 2 pages or less, enough information for me to give you feedback on the big idea and feasibility before you get too far along. I will not grade the preregistration for being correct or accurate; I will only grade it for being complete (i.e., if  you answer all the questions but some of your answers are wrong or don’t make sense, you will still get full credit). The preregistration is meant to be an opportunity to get feedback from me early so that you can assess feasibility and develop the idea into a strong final presentation the whole class can benefit from. 
+        - CITI certificate 
+        - Research protocol form
+        - Consent form 
 
-    - Programmed Experiment (10%) - (Team)
     
-    - Data Analysis write-up (5%) - (Team)
+    d. Preregistration (5 points) - (Team): After you have gottten you topic approved, you will pregresiter your experiment (we will dicuss what this is in class). The preregistration should be two primary parts: (1) background and (2) an analysis plan. The background does not need to be lengthy, 2 pages or less, enough information for me to give you feedback on the big idea and feasibility before you get too far along. I will not grade the preregistration for being correct or accurate; I will only grade it for being complete (i.e., if  you answer all the questions but some of your answers are wrong or don’t make sense, you will still get full credit). The preregistration is meant to be an opportunity to get feedback from me early so that you can assess feasibility and develop the idea into a strong final presentation the whole class can benefit from. 
+
+    e.  Programmed Experiment (5 points) - (Team): You program must be fully functional online. 
     
-    - Group presentation (10%) - (Team): The last two classes will be devoted to presenting your final project to the class. Each groups will be give a 10 minute presentation followed by up to 5 minutes of questions from the audience.
+    f.  Data Analysis Write Up (5 points) - (Team)
+    
+    g.  Group Presentation (15 points) - (Team): The last two classes will be devoted to presenting your final project to the class. Each groups will be give a 10 minute presentation followed by up to 5 minutes of questions from the audience.
 Presentations are a group effort, and it is expected that all members will either present or address questions. Do make an effort to be inclusive. I strongly recommend you rehearse this and make sure timing and flow is right, and that no one person is over-dominant or unheard. Each group will have no more than 10 minutes, strictly observed with a timer (I will stop you when time is up, regardless of whether you're done or not). There will be no time for questions from the audience, but I will either comment, ask a question, or add something.  
 
-    - Project write-up (10%) - (Individual): You will be expected to write a short 6 – 10 page double spaced paper that details the replication project you conducted and how you would like to extend it in some way, either by hypothesizing a short follow up to address some issue that arose during it. You can use this paper to propose an extension using a method we talked about in class.
+    h. Project Write Up (15 points) - (Individual): You will be expected to write a short 6 – 10 page double spaced paper that details the replication project you conducted and how you would like to extend it in some way, either by hypothesizing a short follow up to address some issue that arose during it. You can use this paper to propose an extension using a method we talked about in class.
+    
+      *You must turn each assignment before proceeding onto the next one*
     
 - **30%** (Assignments/Lab Activities). These assignments are designed to engage you in the type of thinking that cognitive scientists do, and to introduce you to the tools and resources they use for setting up and carrying out experiments. Point totals will vary.
     
@@ -148,11 +153,13 @@ The responses will be graded according to the following rubric:
 
 # Laptops
 
-I do not mind if you have your laptops out during class as long as it is class related.
+# Laptops
+
+While the research on laptops vs. handwritten notes in the classroom is fairly mixed (Mueller & Oppenheimer, 2014; Urry et al., 2021), I do not mind if your laptop is out during class. However, please try to keep it class related. 
 
 # Late Assignments
 
-I am pretty flexible and we are in a pandemic right now.Please let me know BEFORE THE DUE DATE and we can work something out. 
+You have a two day grace period for any individual assignment in this class (excluding team assignements), no questions asked. If there any extenuating circumstances,  please reach out to me. 
 
 # Absences
 

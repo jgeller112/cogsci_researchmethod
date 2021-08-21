@@ -71,14 +71,19 @@ to the scientific process, helping us discriminate fact from fiction.
 
 The replication studies are group projects (unless you strongly feel the need to work alone).
 
-1. Form your groups: between 2 and 4 people per group
-2. Decide on a few possible projects
-3. Meet with me in groups to discuss projects: I’ll make times to meet with each group. 
-4. Write a short 1-page research proposal
-5. Complete IRB forms
-6. Preregister Study
-7. Design replication study: try to use similar types of items, but you may need to create
+1. Form teams: between 2 and 4 people per group (I will form groups based on survey)
+2. Complete team charter
+3. Decide on a few possible projects
+4. Meet with me in groups to discuss projects: I’ll make times to meet with each group. 
+5. Write a short 1-page research proposal
+6. Complete IRB forms
+7. Preregister Study
+8. Design replication study: try to use similar types of items, but you may need to create
 your own
-8. Run replication online (Reddit/SampleSize, Facebook, Twitter, family, friends)
-9. Present results to class
+9. Program replication study
+10. Run replication online (Reddit/SampleSize, Facebook, Twitter, family, friends)
+11. Present results to class
+12. Write-up project
+
+
 
