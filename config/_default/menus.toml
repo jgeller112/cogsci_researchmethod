@@ -7,39 +7,36 @@
   name = "Logistics"
   url = "#logistics"
   weight = 10
+[[main]]
+  name = "People"
+  url = "#people"
+  weight = 20
 
 [[main]]
   name = "Schedule"
   url = "#schedule"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Syllabus"
   url="#syllabus"
-  weight = 30
-  
-  [[main]]
-  name = "Project"
-  url="#Project"
   weight = 40
-  
 
 [[main]]
-  name = "People"
-  url = "#people"
+  name = "Class"
+  url="#Class"
   weight = 50
   
- [[main]]
-  name = "Ethics"
-  url="#Ethics"
+[[main]]
+  name = "Project"
+  url="#Project"
   weight = 60
   
  [[main]]
-  name = "Class"
-  url="#Class"
+  name = "Resources"
+  url="#Resources"
   weight = 70
-
-
+  
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
