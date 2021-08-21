@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50 # Order that this section will appear.
+weight = 40 # Order that this section will appear.
 
 title = "Syllabus"
 subtitle = ""
@@ -94,7 +94,7 @@ I have created a website for the course (https://cogscimethods.netlify.app/). Mu
     
     f.  Data Analysis Write Up (5 points) - (Team)
     
-    g.  Group Presentation (15 points) - (Team): The last two classes will be devoted to presenting your final project to the class. Each groups will be give a 10 minute presentation followed by up to 5 minutes of questions from the audience.
+    g.  Team Presentation (15 points) - (Team): The last two classes will be devoted to presenting your final project to the class. Each groups will be give a 10 minute presentation followed by up to 5 minutes of questions from the audience.
 Presentations are a group effort, and it is expected that all members will either present or address questions. Do make an effort to be inclusive. I strongly recommend you rehearse this and make sure timing and flow is right, and that no one person is over-dominant or unheard. Each group will have no more than 10 minutes, strictly observed with a timer (I will stop you when time is up, regardless of whether you're done or not). There will be no time for questions from the audience, but I will either comment, ask a question, or add something.  
 
     h. Project Write Up (15 points) - (Individual): You will be expected to write a short 6 – 10 page double spaced paper that details the replication project you conducted and how you would like to extend it in some way, either by hypothesizing a short follow up to address some issue that arose during it. You can use this paper to propose an extension using a method we talked about in class.
