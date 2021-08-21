@@ -34,7 +34,7 @@
   url="#Ethics"
   weight = 60
   
-   [[main]]
+ [[main]]
   name = "Class"
   url="#Class"
   weight = 70
