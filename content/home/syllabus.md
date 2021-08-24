@@ -94,8 +94,7 @@ I have created a website for the course (https://cogscimethods.netlify.app/). Mu
     
     f.  Data Analysis Write Up (5 points) - (Team)
     
-    g.  Team Presentation (15 points) - (Team): The last two classes will be devoted to presenting your final project to the class. Each groups will be give a 10 minute presentation followed by up to 5 minutes of questions from the audience.
-Presentations are a group effort, and it is expected that all members will either present or address questions. Do make an effort to be inclusive. I strongly recommend you rehearse this and make sure timing and flow is right, and that no one person is over-dominant or unheard. Each group will have no more than 10 minutes, strictly observed with a timer (I will stop you when time is up, regardless of whether you're done or not). There will be no time for questions from the audience, but I will either comment, ask a question, or add something.  
+    g.  Team Presentation (15 points) - (Team): The last two classes will be devoted to presenting your final project to the class. Each groups will be give a 15-20 minute presentation followed by up to 5 minutes of questions from the audience. Presentations are a group effort, and it is expected that all members will either present or address questions. Do make an effort to be inclusive. I strongly recommend you rehearse this and make sure timing and flow is right, and that no one person is over-dominant or unheard. Each group will have no more than 10 minutes, strictly observed with a timer (I will stop you when time is up, regardless of whether you're done or not). There will be no time for questions from the audience, but I will either comment, ask a question, or add something.  
 
     h. Project Write Up (15 points) - (Individual): You will be expected to write a short 6 – 10 page double spaced paper that details the replication project you conducted and how you would like to extend it in some way, either by hypothesizing a short follow up to address some issue that arose during it. You can use this paper to propose an extension using a method we talked about in class.
     
@@ -153,9 +152,7 @@ The responses will be graded according to the following rubric:
 
 # Laptops
 
-# Laptops
-
-While the research on laptops vs. handwritten notes in the classroom is fairly mixed (Mueller & Oppenheimer, 2014; Urry et al., 2021), I do not mind if your laptop is out during class. However, please try to keep it class related. 
+While the research on laptops vs. handwritten notes in the classroom is fairly mixed (see Mueller & Oppenheimer, 2014; Urry et al., 2021), I do not mind if your laptop is out during class. However, please try to keep it class related. 
 
 # Late Assignments
 
@@ -187,7 +184,7 @@ http://academicintegrity.rutgers.edu/.
 
 I would like to create a learning environment for my students that supports a diversity of thoughts, perspectives and experiences, and honors your identities (including race, gender, class, sexuality, religion, ability, SES, etc. ) To help accomplish this:
 
- - If you have a name and/or set of pronouns that differ from those that appear in your official Brown records, please let me know!
+ - If you have a name and/or set of pronouns that differ from those that appear in your official Rutgers records, please let me know!
 
 - If you feel like your performance in the class is being impacted by your experiences outside of class, please don't hesitate to come and talk with me. I want to be a resource for you. Remember that you can also submit anonymous feedback (which will lead to me making a general announcement to the class, if necessary to address your concerns). 
 
