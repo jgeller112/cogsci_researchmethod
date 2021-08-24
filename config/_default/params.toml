@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/jgeller112/cogsci_researchmethod", c
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
+email = "jason.geller@ruccs.rutgers.edu"
 phone = "888 888 88 88"
 
 # Address
