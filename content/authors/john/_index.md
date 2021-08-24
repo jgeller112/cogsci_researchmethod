@@ -6,7 +6,7 @@ email: ""
 name: Dr. John McGann
 organizations:
 - name: Rutgers University
-  url: https://www.rutgers.edu/
+  url: https://mcgannlab.github.io/
 role: RuCCS Chair
 social:
 superuser: true
