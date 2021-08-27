@@ -18,11 +18,6 @@
   weight = 30
 
 [[main]]
-  name = "Syllabus"
-  url="#syllabus"
-  weight = 40
-
-[[main]]
   name = "Class"
   url="#Class"
   weight = 50
