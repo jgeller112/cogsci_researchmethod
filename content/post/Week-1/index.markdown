@@ -30,8 +30,8 @@ links:
   name: slides
   url: /slides/Welcome_Introduction_Week1.html
   
-- icon: lock-open
-  icon_pack: fas
+- icon: osf
+  icon_pack: academicons
   name: pdf
   url: https://osf.io/nx9qy/
 ---
