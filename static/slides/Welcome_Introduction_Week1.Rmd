@@ -15,6 +15,13 @@ output:
       countIncrementalSlides: true
 ---
 
+<style type="text/css">
+.remark-slide-content {
+    font-size: 24px;
+    padding: 1em 4em 1em 4em;
+}
+</style>
+
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 knitr::opts_chunk$set(
@@ -37,14 +44,18 @@ style_duo_accent(
   inverse_header_color = "#FFFFFF"
 )
 ```
-
+---
 class: inverse center middle
-
 # About Me
 
-![Picture of Jason.](/Users/jgeller1/Desktop/cogsci_researchmethod/content/authors/jason/avatar.jpg)
----
 
+```{r, fig.align='center', echo=FALSE, warning=FALSE}
+
+knitr::include_graphics("jg.jpg")
+```
+
+
+---
 # Timeline
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
@@ -109,11 +120,11 @@ batman_data <- data.frame(
 
   - Mechanisms and representations
   
-    - Auditory and visual word recognition
+      - Auditory and visual word recognition
     
-    - Semantics
-    
-      - `Under ambiguity`
+      - Semantics
+          
+          - **Under ambiguity**
 --
 
 - Learning and memory
@@ -140,6 +151,14 @@ batman_data <- data.frame(
 - Online data collection
 
 ---
+class: inverse center middle
+# John
+```{r, fig.align='center', echo=FALSE, warning=FALSE}
+
+knitr::include_graphics("john.jpeg")
+```
+
+---
 
 # Ice Breaker
 
@@ -153,7 +172,9 @@ batman_data <- data.frame(
 --
 
   + I love heavy metal music
+  
   + I have seen Brittany Spears in concert
+  
   + I love horror movies
 --
 
@@ -174,6 +195,7 @@ background-size: cover
 - `jason.geller@ruccs.rutgers.edu`
 
 - Cell: 515-520-3464
+
 - Twitter: jgeller_phd
 
 ---
@@ -190,7 +212,7 @@ background-size: cover
 
 # Required Text:
 
-- Jhangiani, R. S., Chiang, I.-C. A., Cuttler, C., & Leighton, D. C. (2019). Research Methods in Psychology.         https://doi.org/10.17605/OSF.IO/HF7DQ https://kpu.pressbooks.pub/psychmethods4e/. 
+- Jhangiani, R. S., Chiang, I.-C. A., Cuttler, C., & Leighton, D. C. (2019). Research Methods in Psychology. https://doi.org/10.17605/OSF.IO/HF7DQ https://kpu.pressbooks.pub/psychmethods4e/. 
   
 - Peirce, J., & MacAskill, M. (2018). Building Experiments in PsychoPy (1st edition). SAGE Publications Ltd.         (https://drive.google.com/file/d/1JVPM8aRq9d1xuQutJgg8klmUO0PEf8Yd/view?usp=sharing)
 
@@ -238,10 +260,9 @@ background-size: cover
 ---
 # Assessment Components 
 
-- **30%** (Assignments/Labs)
+- **25%** (Assignments/Labs)
 
-- **10%** (Presentation Reflections) (individual)
-
+- **15%** (Presentation Reflections) (individual)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -295,11 +316,22 @@ knitr::include_graphics("loki.JPG")
 ---
 # Schedule
 
+https://cogscimethods.netlify.app/
+
+---
+# Masks
+
+```{r, fig.align='center', echo=FALSE, warning=FALSE}
+
+knitr::include_graphics("mask.jpeg")
+
+```
+
 ---
 
 # Absences:
 
-- We are all adults here :). 
+- No attendance for this class. **Please let me know if you will be absent** 
 
 ---
 
