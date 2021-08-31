@@ -44,12 +44,17 @@ style_duo_accent(
   inverse_header_color = "#FFFFFF"
 )
 ```
-
 class: inverse center middle
 
 # About Me
 
-![Picture of Jason.](/Users/jgeller1/Desktop/cogsci_researchmethod/content/authors/jason/avatar.jpg)
+
+```{r, fig.align='center', echo=FALSE, warning=FALSE}
+
+knitr::include_graphics("jg.jpg")
+```
+
+
 ---
 # Timeline
 
@@ -147,10 +152,12 @@ batman_data <- data.frame(
 
 ---
 class: inverse center middle
-
 # John
+```{r, fig.align='center', echo=FALSE, warning=FALSE}
 
-![Picture of John.](/Users/jgeller1/Desktop/cogsci_researchmethod/content/authors/john/avatar.jpeg)
+knitr::include_graphics("john.jpeg")
+```
+
 ---
 
 # Ice Breaker
@@ -161,17 +168,13 @@ class: inverse center middle
 
 - Major
 
-- Two truths and a lie
+- What is a boring fact about you?
 --
-
-  + I love heavy metal music
   
-  + I have seen Brittany Spears in concert
-  
-  + I love horror movies
---
+```{r, fig.align='center', echo=FALSE, warning=FALSE}
 
-  + *I have seen Brittany Spears in concert*
+knitr::include_graphics("quant.jpeg")
+```
 
 
 ---
@@ -194,7 +197,9 @@ background-size: cover
 ---
 # Office Hours:
 
-- MW: 1:00 P.M. - 3:00 P.M.
+- MW: 1:00 P.M. - 3:00 P.M. 
+
+- By appointment
 
 ---
 
@@ -226,7 +231,7 @@ background-size: cover
 5. Program your own experiment in Python/PsychoPy and take your research online
 
 ---
-# Assessment Components
+# Assessment Components: 
 
 - **60%** (Group Project)
 
@@ -251,7 +256,7 @@ background-size: cover
   - Project Write Up (15 points) (Individual)
   
 ---
-# Assessment Components 
+# Assessment Components:  
 
 - **25%** (Assignments/Labs)
 
@@ -314,7 +319,7 @@ https://cogscimethods.netlify.app/
 ---
 # Masks
 
-```{r, fig.align='center', echo=FALSE, warning=FALSE}
+```{r, fig.align='center', echo=FALSE, warning=FALSE, out.width="80%"}
 
 knitr::include_graphics("mask.jpeg")
 
@@ -327,14 +332,13 @@ knitr::include_graphics("mask.jpeg")
 - No attendance for this class. **Please let me know if you will be absent** 
 
 ---
-
 # Cheating and Plagiarism
 
-```{r, fig.align='center', echo=FALSE, warning=FALSE}
+```{r, fig.align='center', echo=FALSE, warning=FALSE, out.width="80%"}
 
 knitr::include_graphics("cheating.jpeg")
 ```
-
+    
 ---
 
 # Disability Services:
@@ -347,14 +351,12 @@ knitr::include_graphics("cheating.jpeg")
 
 ---
 
-# Diversity and Inclusion Statement
+# Diversity and Inclusion Statement: 
 
 I would like to create a learning environment for my students that supports a diversity of thoughts, perspectives and experiences, and honors your identities (including race, gender, class, sexuality, religion, ability, SES, etc. ) To help accomplish this:
 
  - If you have a name and/or set of pronouns that differ from those that appear in your official Rutgers records, please let me know!
-
 - If you feel like your performance in the class is being impacted by your experiences outside of class, please don't hesitate to come and talk with me. I want to be a resource for you. Remember that you can also submit anonymous feedback (which will lead to me making a general announcement to the class, if necessary to address your concerns). 
-
 - I (like many people) am still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please talk to me about it. (Again, anonymous feedback is always an option).
 
 ---
@@ -362,3 +364,9 @@ I would like to create a learning environment for my students that supports a di
 class: class: inverse center middle
 
 # Survey (https://forms.gle/9YG32UKzirUmqLu1A)
+
+
+```{r, fig.align='center', echo=FALSE, warning=FALSE}
+
+knitr::include_graphics("qr-code.svg")
+```
