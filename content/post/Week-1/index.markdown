@@ -12,7 +12,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Robert Bye on Unsplash**](https://unsplash.com/photos/a3Mv2jJTI0s)'
+  caption: '[](http://work.micro-life.com/)'
   focal_point: ""
   preview_only: true
 
