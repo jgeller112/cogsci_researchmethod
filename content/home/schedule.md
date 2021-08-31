@@ -80,15 +80,15 @@ This schedule represents my current plans and objectives. As we go through the s
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1138px">
+<table class="tg" style="undefined;table-layout: fixed; width: 1141px">
 <colgroup>
 <col style="width: 46px">
 <col style="width: 36px">
 <col style="width: 164px">
-<col style="width: 242px">
+<col style="width: 243px">
 <col style="width: 161px">
-<col style="width: 238px">
-<col style="width: 251px">
+<col style="width: 239px">
+<col style="width: 252px">
 </colgroup>
 <thead>
   <tr>
@@ -261,7 +261,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-fymr">2-Nov</td>
     <td class="tg-fymr">Exploring Cognition Through the Web</td>
     <td class="tg-fymr"></td>
-    <td class="tg-fymr"><a href="https://drive.google.com/drive/u/1/folders/1zBLA0w8RKXI1N2r-t1AO-RQB-tXC-rrD" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Crump, McDonnell, Gureckis (2013). Evaluating Amazon's Mechanical Turk as a Tool for Experimental Behavioral Research</span></a><br><a href="https://drive.google.com/drive/u/1/folders/1zBLA0w8RKXI1N2r-t1AO-RQB-tXC-rrD" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Bridges, D., Pitiot, A., MacAskill, M. R., &amp; Peirce, J. W. (2020). The timing mega-study: Comparing a range of experiment generators, both lab-based and online. PeerJ, 8, e9414. https://doi.org/10.7717/peerj.9414- - Grootswagers, T. A primer on running human behavioral experiments online. Behav Res 52, 2283–2286 (2020).https://doi.org/10.3758/s13428-020-01395-3</span></a><br><a href="https://drive.google.com/drive/u/0/folders/1zBLA0w8RKXI1N2r-t1AO-RQB-tXC-rrD" target="_blank" rel="noopener noreferrer"><span style="color:#000;background-color:#FFF">- Gagné, N., &amp; Franzen, L., Ph.D. (2021, August 30). How to run behavioural experiments online: best practice suggestions for cognitive psychology and neuroscience. https://doi.org/10.31234/osf.io/nt67j</span></a><br></td>
+    <td class="tg-fymr"><a href="https://drive.google.com/drive/u/1/folders/1zBLA0w8RKXI1N2r-t1AO-RQB-tXC-rrD" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Crump, McDonnell, Gureckis (2013). Evaluating Amazon's Mechanical Turk as a Tool for Experimental Behavioral Research</span></a><br><a href="https://drive.google.com/drive/u/1/folders/1zBLA0w8RKXI1N2r-t1AO-RQB-tXC-rrD" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Bridges, D., Pitiot, A., MacAskill, M. R., &amp; Peirce, J. W. (2020). The timing mega-study: Comparing a range of experiment generators, both lab-based and online. PeerJ, 8, e9414. https://doi.org/10.7717/peerj.9414- - Grootswagers, T. A primer on running human behavioral experiments online. Behav Res 52, 2283–2286 (2020).https://doi.org/10.3758/s13428-020-01395-3</span></a><br><a href="https://drive.google.com/drive/u/0/folders/1zBLA0w8RKXI1N2r-t1AO-RQB-tXC-rrD" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Gagné, N., &amp; Franzen, L., Ph.D. (2021, August 30). How to run behavioural experiments online: best practice suggestions for cognitive psychology and neuroscience. https://doi.org/10.31234/osf.io/nt67j</span></a><br></td>
     <td class="tg-fymr"></td>
   </tr>
   <tr>
