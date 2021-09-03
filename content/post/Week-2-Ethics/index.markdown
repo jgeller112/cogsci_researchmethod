@@ -1,7 +1,7 @@
 ---
 title: 'Week 2 - Ethics'
 subtitle: 'Ethics'
-summary: Fundamentals of science
+summary: Ethics in research
 date: "2018-04-16T00:00:00Z"
 featured: false
 draft: false
