@@ -1,7 +1,7 @@
 ---
 title: 'Week 2'
 subtitle: 'Science and How we study the mind'
-summary: fundamentals of science
+summary: Fundamentals of science and ethics
 date: "2018-04-16T00:00:00Z"
 featured: false
 draft: false
