@@ -1,5 +1,5 @@
 ---
-title: "Week 2: Ethics and Research"
+title: "Week 2: Ethics in Research"
 subtitle: "Research Methods in Cognitive Science"  
 author: 
   - "Jason Geller, Ph.D"
@@ -49,7 +49,6 @@ background-size: cover
 ---
 # Ethics
 
-
 - A set of moral principles used by researchers to describe how participants in research should be treated. 
   
   - Humans do not have perfect moral compasses. Scientists are people too. History shows self-policing doesn’t work
@@ -73,8 +72,6 @@ background-size: cover
 
 
 ---
-
-
 # Ethical Issues in Research
 
 - Four basic principles: 
@@ -91,9 +88,9 @@ background-size: cover
 
 # Ethical Issues in Research
 
-- Weighing risks against benefits
+- Weighing risks against benefits (Beneficence)
 
-  - The benefits must outwight the risks
+  - The benefits must outweigh the risks
 
 - Acting with Integrity
 
@@ -123,10 +120,9 @@ background-size: cover
 
 knitr::include_graphics("ww2.jpg")
 ```
+
 ---
-# Ethics Codes
-  
-  - Declaration of Helsinki (1974)
+# Ethics Codes (Behavioral Research)
   
   - The Belmont Report (1978)
   
@@ -144,7 +140,16 @@ knitr::include_graphics("belmont.png")
 	+ 2002 revision includes 10 general categories of ethical issues
 	
 	+ 5 general principles + 89 specific standards (not going over these)
+	
+	  1. Beneficence and Nonmaleficence
+	  2. Fidelity and Responsibility
+	  3. Integrity
+	  4. Justice
+	  5. Respect
 
+???
+
+The APA has provided leadership in formulating ethical principals and standards for behavioral research
 ---
 
 # Confidentuality
@@ -160,44 +165,28 @@ knitr::include_graphics("belmont.png")
 knitr::include_graphics("confid.jpeg")
 ```
   
-  
----
-
-# Voluntary Participantion
-
-- Researcher must try to ensure participants consent to be involved
-
-- Participants must not be pressured in any way or suffer anyt neagtive consequences if they choose not to participate 
-
-```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "40%"}
-
-knitr::include_graphics("i-volunteer-tribute.gif")
-```
-
----
-# Right To Withdraw
-
-- Prior to study being conducted participants must be told what the research is about and they they are free to withdraw at any time
-
-- The participant should not suffer any negative effects becasue of this
-
-- If a participant is harmed in any way throughout a study, the researcher must withdraw a participant themselves. 
-
 ---
 
 # Informed Consent
 
-- Participants should be appropriately informed of the type of study and the reasons for the research before it is conducted
+- Description of the study
 
-- This must be a document
+- Description of the risks and benefits
 
-- Participants must be made aware of any effects of consequences the study may cause them
+  - Risks: Psychological, physical harm, boredom
+  - Benefits: educational, new skills, treatment, etc
+
+- Request for consent 
+
+  - Researcher must try to ensure participants consent to be involved
+
+  - Participants must not be pressured in any way or suffer any negative consequences if they choose not to participate 
+
 
 ```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "40%"}
 
 knitr::include_graphics("consent.jpeg")
 ```
-
 
 ---
 
@@ -208,10 +197,17 @@ knitr::include_graphics("consent.jpeg")
 - Researchers need to be aware of vulnerable groups and ensure they are not abusing their position of power when gaining consent. 
 
 ---
+# Right To Withdraw
 
-# Informored Consent
+- Prior to study being conducted participants must be told what the research is about and they they are free to withdraw at any time
 
-- Deception
+- The participant should not suffer any negative effects because of this
+
+- If a participant is harmed in any way throughout a study, the researcher must withdraw a participant themselves
+
+---
+
+# Deception
 
   - When used researchers must ensure no negative consequences arise from it
   
@@ -234,7 +230,7 @@ knitr::include_graphics("consent.jpeg")
 
 - Accurate reporting
 
-  - Do not fabricate your data
+  - Do not fabricate your data (https://www.youtube.com/watch?v=j-1iUY-9MFQ)
   
   - Correct errors 
 
@@ -245,8 +241,6 @@ knitr::include_graphics("consent.jpeg")
 - Share your data! 
 
 ---
-
-
 # IRB 
 
 .pull-left[
@@ -265,11 +259,17 @@ knitr::include_graphics("consent.jpeg")
 
 .pull-right[
 
-```{r, echo=FALSE, warning=FALSE}
-
-knitr::include_graphics("risks.jpg")
-
-```
+- Type of IRB Review
+  - Exempt
+      - Research done in education settings
+      - Cognitive tests, surveys, interviews, or observations of public behavior
+      - Benign behavioral interventions
+      - Secondary data
+ - Expedited
+      -  Minimal risk 
+        - Biological/medical
+        - Research we do 
+ - Full review
 ]
 
 ---
@@ -284,3 +284,9 @@ knitr::include_graphics("risks.jpg")
 - To verify that the recruitment methods/materials are not misleading or coercive
 
 - To ensure that the selection of subject is equitable and justified
+---
+# 
+
+
+
+

@@ -1,0 +1,171 @@
+---
+title: "Week 2: What is Cognitive Science?"
+subtitle: "Research Methods in Cognitive Science"  
+author: 
+  - "Jason Geller, Ph.D.(Pronouns: He/Him/His)"
+date: '`r Sys.Date()`'
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    nature:
+      slideNumberFormat: "%current%"
+      highlightStyle: github
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: true
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "36%",
+  cache = FALSE,
+  echo = FALSE,
+  message = FALSE, 
+  warning = FALSE,
+  fig.show = TRUE,
+  hiline = TRUE
+)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#1381B0",
+  secondary_color = "#FF961C",
+  inverse_header_color = "#FFFFFF"
+)
+```
+
+class: inverse center middle
+
+
+# How do we acquire knowldge?
+
+---
+- Intuition/Anecdote
+--
+
+  - Based on emotions 
+  - 
+--
+
+- Authority
+
+--
+  - Aristotle once said, "Persuasion is achieved by the speaker's personal character when the speech is so spoken as to make us think him credible."
+  - We tend to believe people who are in a position of power
+--
+
+- Rationalism
+
+--
+  - Logic and reason
+  -  Deduction
+--
+
+- Empiricism
+
+--
+  - Experience and observation
+    - Through our senses
+    
+---
+
+# The Scientific Method
+
+```{r, fig.align='center', echo=FALSE, warning=FALSE}
+
+knitr::include_graphics("ScienceUpdate.png")
+```
+---
+# Features of Science
+
+- Systematic empiricism
+  - Design controlled studies to observe behavior and draw conclusions
+--
+
+- Publicly verifiable knowledge
+ - Present research so it can be observed, replicated, criticized, and tested in other ways
+--
+
+- Empirically solvable
+  - Questions can be answered
+  - Falsifiability
+---
+
+# Think - Pair - Share 
+
+class: inverse center middle
+
+- List three empirical questions about human behavior. List three nonempirical questions about human behavior
+
+---
+
+# Goals of Science
+
+class: inverse center middle
+
+1. Describe
+2. Predict 
+3. Determine
+4. Explain
+
+---
+
+# Scientific Norms
+
+- Mertonian Norms
+1. Universalism
+  
+    - Knowledge is knowldge regardless who comes up with it
+    
+2. Disinterestedness
+  
+    - Our goal as scientists is to make advancements--not cash in
+  
+3. Communality
+  
+    - Openly share knowledge - remove the paywall
+    - https://www.youtube.com/watch?v=L5rVH1KGBCY
+  
+4. Organized Skepticism
+  
+    - Accept nothing at face value!
+  
+  
+---
+
+# Science vs. Psuedoscience
+
+- Claims that appear scientific on the surface but violate the criteria of science
+
+- Look out for: 
+
+  - Claims that are untestable and cannot be refuted
+  - Claims that rely on imprecise, biased, or vague language
+  - Evidence that is based on anecdotes and testimonials rather than scientific data
+  - Evidence from so called "experts" 
+  - Claims based only confirmatory evidence
+  - Reliance on scientific evidence that cannot be independenly verified. 
+
+---
+
+
+
+class: inverse center middle
+
+# Isnt psychology common sense?
+
+---
+# Why so wrong?
+
+```{r, fig.align='center', echo=FALSE, warning=FALSE}
+
+knitr::include_graphics("heuristics.jpeg")
+```
+
+
+
+
