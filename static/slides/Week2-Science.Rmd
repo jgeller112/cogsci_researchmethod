@@ -77,6 +77,8 @@ style_solarized_light(
    - Team 5: 
 
 - Team charter due on Friday: https://osf.io/zshc7/
+
+- Last day to drop is September 10th 
 ---
 
 # Truth or Fiction?
@@ -186,17 +188,11 @@ Want to tell you about a time I found inspiration
 
 - Should be driven by past studies in that area
 
-  - Can be exploratory! 
-
 - Must be testable and falsifiable
 
 - Positive
 
-   - Can also be negative! 
-
   > Hypothesis 1: Reading materials in Sans Forgetica typeface enhances memory
-  
-  > Hypothesis 2: Reading materials in Sans Forgetica does not enhance memory
   
 
 ---
@@ -231,7 +227,7 @@ Dependent variable –frequency aggressive behaviors
 ---
 # Analyze Data and Draw Conclusions
 
-- No difference between Sans Forgetica and Arial typefaces
+- Is there a difference between Sans Forgetica and Arial typefaces
 
   - Is this meaningful or **statistically significant**?
 
