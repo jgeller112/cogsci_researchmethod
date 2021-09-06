@@ -18,49 +18,45 @@
  *  Version: 0.3.4
  *
  * ------------------------------------------------------- */
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Cabin:600,600i&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Cabin&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Arvo&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Share+Tech+Mono&display=swap);
 
 
 :root {
   /* Fonts */
-  --text-font-family: 'Noto Sans';
+  --text-font-family: Cabin;
   --text-font-is-google: 1;
   --text-font-family-fallback: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial;
   --text-font-base: sans-serif;
-  --header-font-family: Cabin;
+  --header-font-family: Arvo;
   --header-font-is-google: 1;
   --header-font-family-fallback: Georgia, serif;
-  --code-font-family: 'Source Code Pro';
+  --code-font-family: 'Share Tech Mono';
   --code-font-is-google: 1;
   --base-font-size: 20px;
-  --text-font-size: 1rem;
+  --text-font-size: 24px;
   --code-font-size: 0.9rem;
   --code-inline-font-size: 1em;
-  --header-h1-font-size: 2.75rem;
+  --header-h1-font-size: 34px;
   --header-h2-font-size: 2.25rem;
   --header-h3-font-size: 1.75rem;
 
   /* Colors */
-  --text-color: #000000;
-  --header-color: #1381B0;
-  --background-color: #FFFFFF;
-  --link-color: #1381B0;
-  --text-bold-color: #1381B0;
-  --code-highlight-color: rgba(255,255,0,0.5);
-  --inverse-text-color: #000000;
-  --inverse-background-color: #FF961C;
-  --inverse-header-color: #FFFFFF;
-  --inverse-link-color: #1381B0;
-  --title-slide-background-color: #1381B0;
-  --title-slide-text-color: #000000;
-  --header-background-color: #1381B0;
-  --header-background-text-color: #FFFFFF;
-  --primary: #1381B0;
-  --secondary: #FF961C;
-  --white: #FFFFFF;
-  --black: #000000;
+  --text-color: #657b83;
+  --header-color: #dc322f;
+  --background-color: #fdf6e3;
+  --link-color: #b58900;
+  --text-bold-color: #d33682;
+  --code-highlight-color: #268bd240;
+  --inverse-text-color: #fdf6e3;
+  --inverse-background-color: #002b36;
+  --inverse-header-color: #fdf6e3;
+  --inverse-link-color: #b58900;
+  --title-slide-background-color: #002b36;
+  --title-slide-text-color: #fdf6e3;
+  --header-background-color: #dc322f;
+  --header-background-text-color: #fdf6e3;
 }
 
 html {
@@ -79,7 +75,7 @@ h1, h2, h3 {
 }
 .remark-slide-content {
   background-color: var(--background-color);
-  font-size: 1rem;
+  font-size: 24px;
   padding: 16px 64px 16px 64px;
   width: 100%;
   height: 100%;
@@ -101,10 +97,10 @@ h1, h2, h3 {
 }
 .remark-inline-code {
   font-size: var(--code-inline-font-size);
-  color: #1381B0;
+  color: #6c71c4;
 }
 .remark-slide-number {
-  color: #1381B0;
+  color: #93a1a1;
   opacity: 1;
   font-size: 0.9em;
 }
@@ -149,10 +145,10 @@ a, a > code {
   float: left;
 }
 .left-column h2, .left-column h3 {
-  color: #1381B099;
+  color: #93a1a1;
 }
 .left-column h2:last-of-type, .left-column h3:last-child {
-  color: #1381B0;
+  color: #586e75;
 }
 .right-column {
   width: 75%;
@@ -174,22 +170,22 @@ img, video, iframe {
   max-width: 100%;
 }
 blockquote {
-  border-left: solid 5px #FF961C80;
+  border-left: solid 5px #cb4b16;
   padding-left: 1em;
 }
 .remark-slide table {
   margin: auto;
-  border-top: 1px solid #666;
-  border-bottom: 1px solid #666;
+  border-top: 1px solid #839496;
+  border-bottom: 1px solid #839496;
 }
 .remark-slide table thead th {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #839496;
 }
 th, td {
   padding: 5px;
 }
 .remark-slide thead, .remark-slide tfoot, .remark-slide tr:nth-child(even) {
-  background: #FFEAD1;
+  background: #eee8d5;
 }
 table.dataTable tbody {
   background-color: var(--background-color);
@@ -199,7 +195,7 @@ table.dataTable.display tbody tr.odd {
   background-color: var(--background-color);
 }
 table.dataTable.display tbody tr.even {
-  background-color: #FFEAD1;
+  background-color: #eee8d5;
 }
 table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
   background-color: rgba(255, 255, 255, 0.5);
@@ -239,28 +235,37 @@ table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
   }
 }
 
-.primary {
-  color: var(--primary);
-}
-.bg-primary {
-  background-color: var(--primary);
-}
-.secondary {
-  color: var(--secondary);
-}
-.bg-secondary {
-  background-color: var(--secondary);
-}
-.white {
-  color: var(--white);
-}
-.bg-white {
-  background-color: var(--white);
-}
-.black {
-  color: var(--black);
-}
-.bg-black {
-  background-color: var(--black);
-}
 
+
+
+/* Extra CSS */
+.remark-slide-content h2 {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+.big {
+  font-size: 150%;
+}
+.small {
+  font-size: 75%;
+}
+.subtle {
+  opacity: 0.6;
+}
+.countdown-has-style h3, .countdown-has-style h3 ~ p, .countdown-has-style h3 ~ ul {
+  margin: 0;
+}
+.countdown-has-style pre {
+  margin-top: -10px;
+}
+p .remark-inline-code {
+  background-color: #6c71c41a;
+  padding: 2px 2px;
+  margin: 0 -2px;
+}
+blockquote {
+  margin-left: 0;
+}
+em {
+  color: #2aa198;
+}
