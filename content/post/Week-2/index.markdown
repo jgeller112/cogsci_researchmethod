@@ -1,7 +1,7 @@
 ---
 title: 'Week 2'
-subtitle: 'Science and How we study the mind'
-summary: Fundamentals of science and ethics
+subtitle: 'Funadmentals of Science'
+summary: Fundamentals of science
 date: "2018-04-16T00:00:00Z"
 featured: false
 draft: false
@@ -28,7 +28,7 @@ links:
 - icon: magic
   icon_pack: fas
   name: slides
-  url: /slides/Welcome_Introduction_Week1.html
+  url: /slides/Week2-Science.html
   
 - icon: osf
   icon_pack: academicons

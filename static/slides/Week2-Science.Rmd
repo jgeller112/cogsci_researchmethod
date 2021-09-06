@@ -1,5 +1,5 @@
 ---
-title: "Week 2: Science and How Cognitive Scientists Study the Mind/Brain"
+title: "Week 2: Fundamentals of Science and How Cognitive Scientists Study the Mind/Brain"
 subtitle: "Research Methods in Cognitive Science"  
 author: 
   - "Jason Geller, Ph.D."
@@ -15,12 +15,6 @@ output:
       countIncrementalSlides: true
 ---
 
-<style type="text/css">
-.remark-slide-content {
-    font-size: 24px;
-    padding: 1em 4em 1em 4em;
-}
-</style>
 
 
 ```{r setup, include=FALSE}
@@ -39,17 +33,12 @@ knitr::opts_chunk$set(
 
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
 library(xaringanthemer)
-style_duo_accent(
-  primary_color = "#1381B0",
-  secondary_color = "#FF961C",
-  inverse_header_color = "#FFFFFF"
-)
 
 style_solarized_light(
   header_font_google = google_font("Arvo"),
   header_h1_font_size = "34px",
   text_font_google = google_font("Cabin"),
-  text_font_size = "22px",
+  text_font_size = "24px",
   code_font_google = google_font("Share Tech Mono"),
   extra_css = list(
     ".remark-slide-content h2" = list(
@@ -81,13 +70,13 @@ style_solarized_light(
 
 - Groups
 
-   Team 1: Awab, Anthony, Nish, Aniz 
-   Team 2: Pratiyush, Veda, Samah, Franklin, Harsh
-   Team 3: Cynthia, Cyann, Sachi, Cheyenne
-   Team 4: Nina, Nia, Divya, Critina 
-   Team 5: 
+   - Team 1: Awab, Anthony, Nish, Aniz 
+   - Team 2: Pratiyush, Veda, Samah, Franklin, Harsh
+   - Team 3: Cynthia, Cyann, Sachi, Cheyenne
+   - Team 4: Nina, Nia, Divya, Critina 
+   - Team 5: 
 
-- Team Charter due on Friday
+- Team charter due on Friday: https://osf.io/zshc7/
 ---
 
 # Truth or Fiction?
@@ -95,7 +84,6 @@ style_solarized_light(
 <iframe src="https://app.sli.do/event/adtrnqnw" height="100%" width="100%" frameBorder="0" style="min-height: 560px;" title="Slido"></iframe>
 
 ---
-
 # Truth or Fiction?
 
 - Most people use only about 10% of their brain capacity
@@ -125,12 +113,13 @@ style_solarized_light(
 ---
 class: inverse center middle
 
-# Is there a difference in how we acquire information?
+# Think about how you learned the previous. Is there a difference in how you acquired them?
 
 ---
 # Types of Knowledge
 
 - Intuition/Anecdote
+
 --
 
   - Acquire knowledge without proof, evidence, or conscious reasoning, or without understanding how the knowledge was acquired 
@@ -160,11 +149,11 @@ class: inverse center middle
 
 ```{r, fig.align='center', echo=FALSE, warning=FALSE}
 
-knitr::include_graphics("ScienceUpdate.png")
+knitr::include_graphics("scimethod.png")
 ```
 ---
 
-# Asking the right questions
+# Asking Questions
 
 - Finding inspiration
 
@@ -186,6 +175,8 @@ knitr::include_graphics("sf.jpeg")
 Examples: 
 
 practical problems: how certain drugs affect disorders? 
+
+Want to tell you about a time I found inspiration 
 
 ---
 
@@ -210,15 +201,17 @@ practical problems: how certain drugs affect disorders?
 
 ---
 
-# Test Hypothesis
+# Experiment
 
-- Have 30 participants study word pairs in Sans Forgetica and Arial (**independent variable**) 
+- Geller, Davis, & Peterson (2020)
 
-- Measure performance on final test (**dependent variable**)
+  - Have participants study word pairs in Sans Forgetica and Arial (**independent variable**) 
+
+  - Measure performance on final test (**dependent variable**)
 
 ---
 
-# Name That Variable!
+# Name Those Variables!
 
 
 > An organizational psychologist is interested in whether lowering the temperature in a factory will increase productivity (i.e., number of products assembled). At the factory, there are three rooms in which products are assembled. Each room is set at one of the following temperatures: 60 degrees, 70 degrees, or 80 degrees. 
@@ -297,6 +290,12 @@ knitr::include_graphics("rep.jpeg")
 # Think - Pair - Share 
 
 - List three empirical questions about human behavior. List three non-empirical questions about human behavior
+
+```{r}
+library(countdown)
+countdown(minutes = 0, seconds = 42)
+```
+
 ---
 
 # Scientific Ethics
@@ -319,7 +318,17 @@ knitr::include_graphics("rep.jpeg")
     - Accept nothing at face value!
 
 ???
-The validity of a claim that’s made should not rest on who’s making it. So if I’m a powerful person and I think the world is flat it doesn’t matter, because we can objectively show scientifically that it’s round. So even if someone famous or rich or powerful says the wrong thing, science can sort of prove them wrong. Whereas in many other parts of life, the rich and the powerful really do have control over reality or what’s true or what’s said or what can be said.
+
+What I wanted to talk about now is the norms underlying good scientific research. The 
+Mertonian norms are the four norms of good scientific research first introduced by the American sociologist, Robert K. Merton. These norms are communism, universalism, disinterestedness, and organized skepticism. [1
+
+Universalism is the idea that everyone can do science, regardless of race, nationality, gender or any other differences, and that everyone’s scientific claims should be scrutinized equally. In science, it’s all about your arguments, line of evidence and methodology, regardless of who you are;
+
+Communism (sometimes referred to as communalism) addresses common ownership of scientific discoveries and the need for scientists to publicly share their discoveries. This could be seen as a precursor to modern initiatives such as open science;
+
+Disinterestedness expresses the idea that scientists should work only for the benefit of science;
+
+Organized scepticism expresses the idea that the acceptance of all scientific work should be conditional on assessments of its scientific contribution, objectivity and rigor. [2]
 
 ---
 
@@ -431,7 +440,7 @@ knitr::include_graphics("infor.png")
 
 ---
 
-#  Computer metaphor 
+#  Computer Metaphor 
 
 We can think of the mind like a computer
 
@@ -455,7 +464,6 @@ knitr::include_graphics("comp.jpeg")
 ]
 
 ---
-
 #  Methods of Cognitive Science
 
 + Computational modeling (artificial intelligence, computational neuroscience, cognitive psychology)
@@ -483,12 +491,11 @@ knitr::include_graphics("comp.jpeg")
 
 ---
 
-background-image: url(comingsoon.jpeg)
+background-image: url(comingsoon.jpg)
 background-position: center
 background-size: cover
 
 ---
-
 # Eye-tracking
 
 https://www.youtube.com/watch?v=Y5KAxnFE2CI
@@ -496,44 +503,40 @@ https://www.youtube.com/watch?v=Y5KAxnFE2CI
 ---
 # Cognitive Pupillometry
 
-```{r, fig.align='center', echo=FALSE, warning=FALSE, out.width = "60%"}
+```{r, fig.align='center', echo=FALSE, warning=FALSE, out.width = "40%"}
 
 knitr::include_graphics("pupil.gif")
 ```
 ---
 # EEG
-.pull-left[
 
-```{r, fig.align='center', echo=FALSE, warning=FALSE, out.width = "70%"}
+```{r, fig.align='center', echo=FALSE, warning=FALSE, out.width = "50%"}
 
 knitr::include_graphics("kellyeeg.jpeg")
 ```
-]
 
-.pull-right[
 
-```{r, fig.align='center', echo=FALSE, warning=FALSE, out.width = "70%"}
-
-knitr::include_graphics("ERPS.png")
-```
-]
 ---
 # fMRI
 
-```{r, fig.align='center', echo=FALSE, warning=FALSE, out.width = "70%"}
+```{r, fig.align='center', echo=FALSE, warning=FALSE, out.width = "90%"}
 
 knitr::include_graphics("kanebrain.jpeg")
 ```
 
 ---
+# MouseView
+
+```{r, fig.align='center', echo=FALSE, warning=FALSE, out.width = "70%"}
+
+knitr::include_graphics("mouseview.gif")
+```
+
+---
+
 # RTs and Accuracy
 
 https://app.gorilla.sc/task/4553682
-
----
-background-image: url(waldo.png)
-background-position: center
-background-size: cover
 
 ---
 # TMS
@@ -556,10 +559,4 @@ knitr::include_graphics("meg.jpeg")
 ```
 
 ---
-# MouseView
-
-```{r, fig.align='center', echo=FALSE, warning=FALSE, out.width = "70%"}
-
-knitr::include_graphics("mouseview.gif")
-```
 
