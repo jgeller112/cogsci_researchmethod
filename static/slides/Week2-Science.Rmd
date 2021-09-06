@@ -15,8 +15,6 @@ output:
       countIncrementalSlides: true
 ---
 
-
-
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 knitr::opts_chunk$set(
@@ -71,12 +69,12 @@ style_solarized_light(
 - Groups
 
    - Team 1: Awab, Anthony, Nish, Aniz 
-   - Team 2: Pratiyush, Veda, Samah, Franklin, Harsh
+   - Team 2: Pratiyush, Veda, Samah, Harsh
    - Team 3: Cynthia, Cyann, Sachi, Cheyenne
    - Team 4: Nina, Nia, Divya, Critina 
-   - Team 5: 
+   - Team 5: Paige, Justin, Franklin
 
-- Team charter due on Friday: https://osf.io/zshc7/
+- Team charter due on Sunday at 11:59 P.M.: https://osf.io/zshc7/
 
 - Last day to drop is September 10th 
 ---
@@ -130,7 +128,6 @@ class: inverse center middle
 - Authority
 
 --
-  - Aristotle once said, "Persuasion is achieved by the speaker's personal character when the speech is so spoken as to make us think him credible."
   - We acquire knowledge through authority (e.g., parents)
 --
 
@@ -151,7 +148,7 @@ class: inverse center middle
 
 ```{r, fig.align='center', echo=FALSE, warning=FALSE}
 
-knitr::include_graphics("scimethod.png")
+knitr::include_graphics("scientific.jpeg")
 ```
 ---
 
@@ -171,28 +168,36 @@ knitr::include_graphics("scimethod.png")
 
 knitr::include_graphics("sf.jpeg")
 ```
+--
+
+> Does Sans Forgetica ehance memory?
 
 ???
+
+The first step is to come up with a question. A question should be not be too general. This is probably the hardest part of the process. We all like to be too general. How do we acquire language?
+
+
 
 Examples: 
 
 practical problems: how certain drugs affect disorders? 
 
-Want to tell you about a time I found inspiration 
-
+Want to tell you about a time I was inspired
 ---
 
 # Hypothesis
 
 > A specific prediction about a phenomeonon
 
-- Should be driven by past studies in that area
 
-- Must be testable and falsifiable
+- Should be driven by past studies in that area
+  - Could be an exploratory question
+
+- Must be testable and falsifiable (Popperian logic)
 
 - Positive
 
-  > Hypothesis 1: Reading materials in Sans Forgetica typeface enhances memory
+  > Hypothesis: Reading materials in Sans Forgetica typeface enhances memory
   
 
 ---
@@ -201,7 +206,7 @@ Want to tell you about a time I found inspiration
 
 - Geller, Davis, & Peterson (2020)
 
-  - Have participants study word pairs in Sans Forgetica and Arial (**independent variable**) 
+  - Had participants study word pairs in Sans Forgetica and Arial (**independent variable**) 
 
   - Measure performance on final test (**dependent variable**)
 
@@ -227,7 +232,12 @@ Dependent variable –frequency aggressive behaviors
 ---
 # Analyze Data and Draw Conclusions
 
-- Is there a difference between Sans Forgetica and Arial typefaces
+<iframe src="https://app.sli.do/event/j7kl3yvo" height="100%" width="100%" frameBorder="0" style="min-height: 560px;" title="Slido"></iframe>
+
+---
+# Analyze Data and Draw Conclusions
+
+- Is there a difference between Sans Forgetica and Arial typefaces?
 
   - Is this meaningful or **statistically significant**?
 
@@ -235,8 +245,7 @@ Dependent variable –frequency aggressive behaviors
   
      - Allows one to draw conclusions from our **sample** (small subset) to **population** (large group we are interested in) 
     
-     - Bayesian Statistics
-  
+    - Bayesian Statistics
 ---
 # Type 1 and 2 Errors
 
@@ -246,13 +255,23 @@ knitr::include_graphics("pregnant.jpeg")
 ```
 ---
 
-# Replicate Findings
+# Replication
+
+.pull-left[
 
 ```{r, fig.align='center', echo=FALSE, warning=FALSE, out.width = "100%"}
 
 knitr::include_graphics("rep.jpeg")
 ```
+]
 
+.pull-right[
+
+```{r, fig.align='center', echo=FALSE, warning=FALSE, out.width = "100%"}
+
+knitr::include_graphics("pb.jpeg")
+```
+]
 ---
 # Features of Science
 
@@ -261,17 +280,20 @@ knitr::include_graphics("rep.jpeg")
   - Design controlled studies to observe behavior and draw conclusions
 --
 
-- Publicly verifiable knowledge
-
- - Present research so it can be observed, replicated, criticized, and tested in other ways
---
-
 - Empirically solvable
 
   - Questions can be answered
   
   - Falsifiability
-  
+--
+
+- Public Knowledge
+
+ - Present research in journals and at conferences so it can be observed, replicated, criticized, and tested 
+
+???
+
+Underlying the scientific approach or method are three fundamental features
 ---
 # Goals of Science
 
@@ -282,19 +304,13 @@ knitr::include_graphics("rep.jpeg")
 3. Explain
 
 ---
-
-# Think - Pair - Share 
+class: inverse center middle
 
 - List three empirical questions about human behavior. List three non-empirical questions about human behavior
 
-```{r}
-library(countdown)
-countdown(minutes = 0, seconds = 42)
-```
-
 ---
 
-# Scientific Ethics
+# Scientific Norms
 
 - Mertonian Norms (1942)
 
@@ -324,20 +340,16 @@ Communism (sometimes referred to as communalism) addresses common ownership of s
 
 Disinterestedness expresses the idea that scientists should work only for the benefit of science;
 
-Organized scepticism expresses the idea that the acceptance of all scientific work should be conditional on assessments of its scientific contribution, objectivity and rigor. [2]
+Organized skepticism expresses the idea that the acceptance of all scientific work should be conditional on assessments of its scientific contribution, objectivity and rigor. [2]
 
----
-
-# Science vs. Psuedoscience
-
-```{r, fig.align='center', echo=FALSE, warning=FALSE, out.width = "70%"}
-
-knitr::include_graphics("pseudo.jpeg")
-```
 ---
 # Psuedoscience
 
-https://www.youtube.com/watch?v=p-EA0hTEX_I 
+```{r, fig.align='center', echo=FALSE, warning=FALSE, out.width = "60%"}
+
+knitr::include_graphics("pseudo.jpeg")
+
+```
 
 ---
 
@@ -530,7 +542,7 @@ knitr::include_graphics("mouseview.gif")
 
 ---
 
-# RTs and Accuracy
+# RTs
 
 https://app.gorilla.sc/task/4553682
 
