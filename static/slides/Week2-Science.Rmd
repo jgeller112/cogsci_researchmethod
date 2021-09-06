@@ -115,7 +115,7 @@ style_solarized_light(
 ---
 class: inverse center middle
 
-# Think about how you learned the previous. Is there a difference in how you acquired them?
+# For the statements marked as true, how did you acquired that information?
 
 ---
 # Types of Knowledge
