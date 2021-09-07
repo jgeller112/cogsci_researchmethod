@@ -71,8 +71,8 @@ style_solarized_light(
    - Team 1: Awab, Anthony, Nish, Aniz 
    - Team 2: Pratiyush, Veda, Samah, Harsh
    - Team 3: Cynthia, Cyann, Sachi, Cheyenne
-   - Team 4: Nina, Nia, Divya, Critina 
-   - Team 5: Paige, Justin, Franklin
+   - Team 4: Nina, Nia, Divya, Cristina
+   - Team 5: Paige, Justin, Franklin, Shahil, Max 
 
 - Team charter due on Sunday at 11:59 P.M.: https://osf.io/zshc7/
 
@@ -537,6 +537,13 @@ knitr::include_graphics("mouseview.gif")
 
 ---
 
+# VR
+
+```{r, fig.align='center', echo=FALSE, warning=FALSE, out.width = "70%"}
+
+knitr::include_graphics("vive.jpeg")
+```
+---
 # RTs
 
 https://app.gorilla.sc/task/4553682
