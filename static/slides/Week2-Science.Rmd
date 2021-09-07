@@ -170,7 +170,7 @@ knitr::include_graphics("sf.jpeg")
 ```
 --
 
-> Does Sans Forgetica ehance memory?
+> Does Sans Forgetica enhance memory?
 
 ???
 
@@ -187,7 +187,7 @@ Want to tell you about a time I was inspired
 
 # Hypothesis
 
-> A specific prediction about a phenomeonon
+> A simple, specific prediction about a phenomeonon
 
 
 - Should be driven by past studies in that area
