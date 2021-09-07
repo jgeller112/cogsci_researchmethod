@@ -304,11 +304,6 @@ Underlying the scientific approach or method are three fundamental features
 3. Explain
 
 ---
-class: inverse center middle
-
-#  List three empirical questions about human behavior. List three non-empirical questions about human behavior
-
----
 
 # Scientific Norms
 
