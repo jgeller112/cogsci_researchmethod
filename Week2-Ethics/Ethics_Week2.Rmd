@@ -21,8 +21,8 @@ output:
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 knitr::opts_chunk$set(
-  fig.width=12, fig.height=8, fig.retina=3,
-  out.width = "100%",
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "36%",
   cache = FALSE,
   echo = FALSE,
   message = FALSE, 
@@ -30,37 +30,66 @@ knitr::opts_chunk$set(
   fig.show = TRUE,
   hiline = TRUE
 )
-
-library(here)
 ```
 
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
 library(xaringanthemer)
-style_duo_accent(
-  primary_color = "#1381B0",
-  secondary_color = "#FF961C",
-  inverse_header_color = "#FFFFFF"
+
+style_solarized_light(
+  header_font_google = google_font("Arvo"),
+  header_h1_font_size = "34px",
+  text_font_google = google_font("Cabin"),
+  text_font_size = "24px",
+  code_font_google = google_font("Share Tech Mono"),
+  extra_css = list(
+    ".remark-slide-content h2" = list(
+      "margin-top" = "2em",
+      "margin-bottom" = "2em"
+    ),
+    .big = list("font-size" = "150%"),
+    .small = list("font-size" = "75%"),
+    .subtle = list(opacity = "0.6"),
+    ".countdown-has-style h3, .countdown-has-style h3 ~ p, .countdown-has-style h3 ~ ul" = list(
+      "margin" = "0"
+    ),
+    ".countdown-has-style pre" = list(
+      "margin-top" = "-10px"
+    ),
+    "p .remark-inline-code" = list(
+      "background-color" = "#6c71c41a",
+      "padding" = "2px 2px",
+      "margin" = "0 -2px"
+    ),
+    blockquote = list("margin-left" = 0),
+    "em" = list(color = "#2aa198")
+  )
 )
+
 ```
 
 background-image: url(milgram-experiment-man.jpeg)
 background-position: center
 background-size: cover
 ---
+# Outline
+
+1. Ethics
+2. Ethical Principles
+3. Ethical Codes (Belmont Report, APA)
+4. Ethical Groups (IRB)
+
+---
+
+
 # Ethics
 
 - A set of moral principles used by researchers to describe how participants in research should be treated. 
   
-  - Humans do not have perfect moral compasses. Scientists are people too. History shows self-policing doesn’t work
-
----
-
-# Tuskegee Syphilis Study
-
-
-<div align="center">
-
-<iframe width="700" height="400" src="https://www.youtube.com/embed/ZV7RzS8QRXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  - Humans do not have perfect moral compasses. Scientists are people too. History shows self-policing does not work
+  
+  - Tuskegee Syphilis study
+  - Miligram
+  - Facebook 
 
 ---
 
@@ -72,6 +101,12 @@ background-size: cover
 
 
 ---
+
+background-image: url(recent.png)
+background-position: center
+background-size: cover
+---
+
 # Ethical Issues in Research
 
 - Four basic principles: 
@@ -85,7 +120,6 @@ background-size: cover
   - Respect for Persons
 
 ---
-
 # Ethical Issues in Research
 
 - Weighing risks against benefits (Beneficence)
@@ -112,7 +146,7 @@ background-size: cover
 
 - Before WWII no formal ethic codes in place
 
-  - Horrific science experiments conducted by Germans nessitated need for code
+  - Horrific science experiments conducted by Germans necessitated need for code
   
       - Nuremberg Code (1947)
 
@@ -121,6 +155,7 @@ background-size: cover
 knitr::include_graphics("ww2.jpg")
 ```
 
+      - Helsinki Accord (1974) 
 ---
 # Ethics Codes (Behavioral Research)
   
@@ -169,18 +204,20 @@ knitr::include_graphics("confid.jpeg")
 
 # Informed Consent
 
-- Description of the study
+- What is in an informed consent document?
 
-- Description of the risks and benefits
+  - Description of the study
 
-  - Risks: Psychological, physical harm, boredom
-  - Benefits: educational, new skills, treatment, etc
+  - Description of the risks and benefits
 
-- Request for consent 
+    - Risks: Psychological, physical harm, boredom
+    - Benefits: educational, new skills, treatment, etc
 
-  - Researcher must try to ensure participants consent to be involved
+  - Request for consent 
 
-  - Participants must not be pressured in any way or suffer any negative consequences if they choose not to participate 
+   - Researcher must try to ensure participants consent to be involved
+
+   - Participants must not be pressured in any way or suffer any negative consequences if they choose not to participate 
 
 
 ```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "40%"}
@@ -236,7 +273,7 @@ knitr::include_graphics("consent.jpeg")
 
 - Do not Plagiarize
 
-- Do not submit your work that has already been submitted
+- Do not submit your own work that has already been submitted
 
 - Share your data! 
 
@@ -268,14 +305,14 @@ knitr::include_graphics("consent.jpeg")
  - Expedited
       -  Minimal risk 
         - Biological/medical
-        - Research we do 
+        - Common behavioral/psychological behavioral 
  - Full review
+  - More than minimal risk
 ]
 
 ---
 
 # The Main Purpose of IRB Review
-
 
 - To assess the risk/benefit ratio
 
@@ -285,7 +322,9 @@ knitr::include_graphics("consent.jpeg")
 
 - To ensure that the selection of subject is equitable and justified
 ---
-# 
+# Group Activity
+
+
 
 
 
