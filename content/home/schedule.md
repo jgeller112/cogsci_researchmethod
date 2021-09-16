@@ -144,7 +144,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-0pky">21-Sep</td>
     <td class="tg-0pky">Open Science/Replication</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"><a href="https://drive.google.com/drive/u/1/folders/1GHo4aIDyYnk7276-bBiEiATGn3ltgcp-" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Simmons, J. P., Nelson, L. D., &amp; Simonsohn, U. (2011). False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant. Psychological Science, 22(11), 1359–1366. https://doi.org/10.1177/0956797611417632</span></a><br><a href="https://drive.google.com/drive/u/1/folders/1GHo4aIDyYnk7276-bBiEiATGn3ltgcp-" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Nosek, B. A., Ebersole, C. R., DeHaven, A. C., &amp; Mellor, D. T. (2018). The preregistration revolution. Proceedings of the National Academy of Sciences, 115(11), 2600. https://doi.org/10.1073/pnas.1708274114</span></a></td>
+    <td class="tg-0pky"><a href="https://drive.google.com/drive/u/1/folders/1GHo4aIDyYnk7276-bBiEiATGn3ltgcp-" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Simmons, J. P., Nelson, L. D., &amp; Simonsohn, U. (2011). False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant. Psychological Science, 22(11), 1359–1366. https://doi.org/10.1177/0956797611417632</span></a><br>&nbsp;&nbsp;(watch the summary video here: https://www.youtube.com/watch?v=bf3GqyBRgzY&amp;t=562s)<br><br><a href="https://drive.google.com/drive/u/1/folders/1GHo4aIDyYnk7276-bBiEiATGn3ltgcp-" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Nosek, B. A., Ebersole, C. R., DeHaven, A. C., &amp; Mellor, D. T. (2018). The preregistration revolution. Proceedings of the National Academy of Sciences, 115(11), 2600. https://doi.org/10.1073/pnas.1708274114</span></a></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
@@ -154,7 +154,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-0pky">Open Science/Replication</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"><a href="https://drive.google.com/drive/u/1/folders/1GHo4aIDyYnk7276-bBiEiATGn3ltgcp-" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Brandt, M. J., IJzerman, H., Dijksterhuis, A., Farach, F. J., Geller, J., Giner-Sorolla, R., Grange, J. A., Perugini, M., Spies, J. R., &amp; van ’t Veer, A. (2014). The Replication Recipe: What makes for a convincing replication? Journal of Experimental Social Psychology, 50, 217–224 https://doi.org/10.1016/j.jesp.2013.10.005l</span></a><br><span style="color:#000">-</span><a href="https://drive.google.com/drive/u/1/folders/1GHo4aIDyYnk7276-bBiEiATGn3ltgcp-" target="_blank" rel="noopener noreferrer"><span style="color:#000"> Frank, M. C., &amp; Saxe, R. (2012). Teaching Replication.Perspectives on Psychological Science,7(6),600–604.https://doi.org/10.1177/1745691612460686</span></a></td>
-    <td class="tg-0pky">1 page summary, CITI training, and IRB forms due by Friday September 24th</td>
+    <td class="tg-0pky">Article Summary and CITI training Due By Friday September 24th</td>
   </tr>
   <tr>
     <td class="tg-0pky">5</td>
@@ -190,7 +190,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-0pky">Exploring Cognition Through the Eyes: Pupillometry</td>
     <td class="tg-0pky">Sarah Colby (University of Iowa): Pupillometry</td>
     <td class="tg-0pky"><a href="https://drive.google.com/drive/u/1/folders/1G7sSlt6P6xfEe-apJ1wTrnFsDVVIg-Yz" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Torres A and Hout M (2019) Pupils: A Window Into the Mind. Front. Young Minds. 7:3. doi: 10.3389/frym.2019.00003</span></a><br><a href="https://drive.google.com/drive/u/1/folders/1G7sSlt6P6xfEe-apJ1wTrnFsDVVIg-Yz" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Laeng, B., Sirois, S., &amp; Gredebäck, G. (2012). Pupillometry: A Window to the Preconscious? Perspectives on Psychological Science, 7(1), 18–27. https://doi.org/10.1177/1745691611427305</span></a></td>
-    <td class="tg-0pky"><span style="font-style:normal">Preregistration due by Friday October 8th</span></td>
+    <td class="tg-0pky"><span style="font-style:normal">Preregistration and IRB Forms (Consent and Protocol)&nbsp;&nbsp;due by Friday October 8th</span></td>
   </tr>
   <tr>
     <td class="tg-0pky">7</td>

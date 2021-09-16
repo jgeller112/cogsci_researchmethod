@@ -2,7 +2,7 @@
 title: "Research Methods in Cognitive Science"
 subtitle: "Week 4: The Credibility Revolution or Why We Are Not F***KED"  
 author: 
-  - "Jason Geller, Ph.D"
+  - "Jason Geller, Ph.D."
 date: '`r Sys.Date()`'
 output:
   xaringan::moon_reader:
@@ -67,30 +67,38 @@ style_solarized_light(
 
 ```
 
-# Poll
+# Quiz
 
-<iframe src="https://app.sli.do/event/fi6lqizt" height="100%" width="100%" frameBorder="0" style="min-height: 560px;" title="Slido"></iframe>
+- To see if you read, if you get the question right you will get an 1 credit.
 
----
-# Last class
+<iframe src="https://app.sli.do/event/bsh4bmza" height="100%" width="100%" frameBorder="0" style="min-height: 560px;" title="Slido"></iframe>
 
 ---
 # Outline
 
 - The crisis in science 
 
+  - John Oliver Clip
+
 - What is replication?
 
 - The history of the replication crisis in psychology
 
-- How we got here
+- The issues that lead to the crisis
 
-- Potential solutions to the problem
+  - Simmons et al. (2011)
 
-- OSF/preregistraion
+- Solutions 
+
+- OSF/preregistrations
 
 ---
+# Poll
+
+<iframe src="https://app.sli.do/event/fi6lqizt" height="100%" width="100%" frameBorder="0" style="min-height: 560px;" title="Slido"></iframe>
+---
 # Is Science Fucked?
+
 
 <div align="center">
 
@@ -101,20 +109,23 @@ https://www.youtube.com/watch?v=42QuXLucH3Q
 ---
 # Replication
 
+<br> 
+<br>
 
 ```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "70%"}
 
 knitr::include_graphics("rep.png")
 ```
+
 ---
 
-
-```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "90%"}
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "50%"}
 
 knitr::include_graphics("failed.png")
 ```
 ---
 # Why?
+
 ```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "50%"}
 
 knitr::include_graphics("type12.png")
@@ -139,21 +150,30 @@ knitr::include_graphics("type12.png")
 ---
 # Open Science Collaboration (2015)
 
-- Open Science Collaboration attempted to replicate 100 studies published in 3 top psychology journals in 2008
+.pull-left[- Open Science Collaboration attempted to replicate 100 studies published in 3 top psychology journals in 2008
 
 - Replications used materials supplied by original authors and were high-powered 
 
-- Results: 39% of the original studies were successfully replicated
+    - Results: 39% of the original studies were successfully replicated
 
-  - 25% of social psychology studies replicated
-  - 50% of cognitive psychology studies replicated
-  - Effect sizes overestimated in original studies
+      - 25% of social psychology studies replicated
+      - 50% of cognitive psychology studies replicated
+          - Effect sizes overestimated in original studies
+     
+]
 
+.pull-right[
 
-```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "80%"}
+<br> 
+<br>
+
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "100%"}
 
 knitr::include_graphics("repproj.jpg")
 ```
+
+
+]
 
 ---
 # Do we have a problem?
@@ -169,14 +189,14 @@ knitr::include_graphics("iscrisis.png")
 ---
 # False-Positive Psychology (Simmons, Nelson, & Simonsohn, 2011)
 
-- Researchers may engage in questionable research practices not because they intend to be dishonest.
+- Researchers may engage in questionable research practices (QPRs) not because they intend to be dishonest.
 Rather, they are motivated to make decisions that support their hypotheses
 
   - Make decisions so that p-value will be below .05 and can claim statistical significance
 
 - Researcher degrees of freedom
 
-```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "80%"}
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "50%"}
 
 knitr::include_graphics("fork.png")
 ```
@@ -206,38 +226,51 @@ knitr::include_graphics("fork.png")
 
 > Covariate: a variable in a statistical analysis that was typically not controlled or manipulated during data collection but was measured
 
-- Hours awake & tantrums;  
-
-covariate: age
+- Hours awake & tantrums
 
 ---
+# Researcher Degrees of Freedom
+
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "80%"}
+
+knitr::include_graphics("rDOF.png")
+```
+
+---
+
+class: inverse center middle
+
+# How many ways are there to analyze this data?
+
+---
+
 # Where do false p values come from?
 
-> p-hacking: trying lots of analyses until you get a desired outcome
+> P-hacking: trying lots of analyses until you get a desired outcome
 
 ```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "80%"}
 
 knitr::include_graphics("torture.png")
 ```
 ---
-# P hacking
+# QPRs: P-hacking
 
-```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "80%"}
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "50%"}
 
 knitr::include_graphics("phack.png")
 ```
 
 ---
-# Hack your way to glory
+# Check this out
 
 - https://projects.fivethirtyeight.com/p-hacking/
 
 ---
-# HARKing
+# QPRs: HARKing
 
 > Hypothesizing After Results are Known (HARKing): presenting exploratory findings as confirmatory
 
-```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "80%"}
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "50%"}
 
 knitr::include_graphics("TexasSharpShooter.png")
 ```
@@ -245,31 +278,51 @@ knitr::include_graphics("TexasSharpShooter.png")
 ---
 # Publication bias
 
-- Traditionally, journals were biased in favour of publishing:
+- Traditionally, journals were biased in favor of publishing:
 
-  1. Significant findings
-    - Non-significant findings relegated to a researcher’s “file drawer”
-  2. Novel findings
+1. Significant findings
+
+    - Non-significant findings relegated to a researcher's “file drawer”
+    
+2. Novel findings
+
     - Counterintuitive, surprising findings more likely to be published in top journals
 ---
-# How to get publishable results
 
+# Optional Stopping
+
+- Data peeking
+
+  - Run some participants, look at data (stop if desired threshold is reached)
+  
+- DO NOT DO THIS
+
+- Inflates Type 1 error
+
+---
 
 # Interim Summary
 
-1. Researcher Degrees of Freedom lead to flexibility in how we analyze our results
-2. Publication bias makes it hard to get findings that aren’t statistically significant published
+1. Researcher degrees of freedom lead to flexibility in how we analyze our results
+2. Publication bias makes it hard to get findings that are not statistically significant published
 3. Scientists are incentivized to publish
 
 ---
+
 class: inverse center middle
 
 # Does this really mean we are f**ked?
 
 ---
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "70%"}
+
+knitr::include_graphics("jamesh.png")
+```
+
+---
 # Potential Solutions
 
-```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "80%"}
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "70%"}
 
 knitr::include_graphics("solution.png")
 ```
@@ -279,30 +332,48 @@ knitr::include_graphics("solution.png")
 # 21 word solution
 
 “We report how we determined our sample size, all data exclusions (if any), all manipulations, and all measures in the study.”
+
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "70%"}
+
+knitr::include_graphics("21sol.png")
+```
+
 ---
 # Potential Soloutions
 
 - Preregistrations
 
+.pull-left[
 - Specify all hypotheses & methodological choices in writing prior to data collection
 
   - Reduces RDoF
   - Can’t p-hack
   - Can’t HARK
-  
-```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "80%"}
+]
+
+.pull-right[
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "100%"}
 
 knitr::include_graphics("expp.png")
 ```
+]
 ---
 # Potential Solutions
 
-  - Preregistrations
+.pull-left[
+- Preregistrations
+  
+    - OSF
+    - Aspredicted.org
+]
 
-```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "80%"}
+.pull-right[
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "100%"}
 
 knitr::include_graphics("norm.png")
 ```
+
+]
 ---
 # Potential Solutions
 
@@ -325,8 +396,8 @@ knitr::include_graphics("rrr.png")
       - Reduces publication bias 
 ]
 
-.pull-right[]
-```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "50%"}
+.pull-right[
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "100%"}
 
 knitr::include_graphics("rrrpic.png")
 ```
@@ -356,7 +427,34 @@ knitr::include_graphics("rrrpic.png")
 > Small effect sizes can only be accurately detected with high statistical power
 
 ---
+# Open Science
 
+  - What is it?
+  
+> The movement to make scientific research, data, and dissemination accessible to all levels of an inquiring society
+
+.pull-left[
+
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "80%"}
+
+knitr::include_graphics("umbrella.png")
+```
+]
+
+.pull-right[
+- Transparency 
+  - Preregistration
+      - **OSF**
+      - Aspredicted.org
+- Accessibility
+  - Open access
+      - papers but also data
+- Reproducibility
+  - R Markdown/papaja
+  - Code Ocean
+  _ Docker
+]
+---
 # Open Science Framework
 
 ```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "80%"}
@@ -365,8 +463,83 @@ knitr::include_graphics("osf.png")
 ```
 
 
+---
+
+# Preregistration
 
 
+1. Create an OSF account
+
+2. Start a preregistration
+  -  First, sign in to the OSF, and go to https://osf.io/prereg/.
+  
+  -  You will be taken to the "OSF Preregistration" landing page.
+
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "70%"}
+
+knitr::include_graphics("step1.png")
+```
+---
+
+# Preregistration
+
+- Click start a new preregisrtation
+
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "70%"}
+
+knitr::include_graphics("step2.png")
+```
+
+---
+# Preregistration
+
+- A textbox will appear
+
+  - Enter a title for your preregistration into the textbox, then click **Continue** 
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "70%"}
+
+knitr::include_graphics("step2.1.png")
+```
 
 
+---
+# Preregistration
 
+- An OSF project will be created, and you will be taken to the project's **Registrations** page.
+- Click the **New registration** button
+
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "70%"}
+
+knitr::include_graphics("step3.png")
+```
+
+---
+# Preregistration
+
+- Select OSF Preregistration from the list, then click the **Create Draft** button.
+
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "70%"}
+
+knitr::include_graphics("step4.png")
+```
+---
+# Preregistration
+
+- The preregistration form will appear
+
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "70%"}
+
+knitr::include_graphics("step5.png")
+```
+
+
+---
+# Preregistration
+
+- The preregistration form will appear
+
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "70%"}
+
+knitr::include_graphics("step5.png")
+```
+---
