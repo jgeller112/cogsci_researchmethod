@@ -101,10 +101,7 @@ style_solarized_light(
 ---
 # Is Science Fucked?
 
-
-<div align="center">
-
-<iframe width="700" height="500" align="middle" src="https://www.youtube.com/embed/0Rnq1NpHdmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=0Rnq1NpHdmw&t=666s
 
 ---
 # Replication
