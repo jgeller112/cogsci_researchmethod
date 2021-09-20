@@ -28,7 +28,7 @@ links:
 - icon: magic
   icon_pack: fas
   name: slides
-  url: /slides/Ethics_Week2.html
+  url: /slides/Openscience.html
   
 - icon: osf
   icon_pack: academicons
