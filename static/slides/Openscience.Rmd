@@ -92,9 +92,9 @@ exclude: True
 - Potential Solutions 
 
 - Open Science 
-  - Open science framework
-  - Preregistrations
-  - Orcid
+  - Open Science Framework
+  - Preregistration
+  - ORCID
 ---
 exclude: True
 # Poll
@@ -129,7 +129,7 @@ knitr::include_graphics("failed.png")
 ```
 
 ---
-# How did the crisis start?
+# The Replication Crsis: A Timeline
 
 - A little history
 
