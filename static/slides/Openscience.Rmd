@@ -67,7 +67,6 @@ style_solarized_light(
 
 ```
 exclude: True
-
 # Quiz
 
 - To see if you read, if you get the question right you will get 2 extra credit points
@@ -96,7 +95,6 @@ exclude: True
   - Preregistration
   - ORCID
 ---
-exclude: True
 # Poll
 
 <iframe src="https://app.sli.do/event/fi6lqizt" height="100%" width="100%" frameBorder="0" style="min-height: 560px;" title="Slido"></iframe>
@@ -129,7 +127,7 @@ knitr::include_graphics("failed.png")
 ```
 
 ---
-# The Replication Crsis: A Timeline
+# The Replication Crisis: A Timeline
 
 - A little history
 
