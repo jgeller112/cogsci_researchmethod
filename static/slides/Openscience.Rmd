@@ -78,6 +78,7 @@ style_solarized_light(
 - The crisis in science 
 
   - Last Week Tonight with John Oliver
+  - Warning: Language and Foul Humor
 
 - What is replication?
 
