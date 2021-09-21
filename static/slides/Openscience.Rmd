@@ -66,7 +66,6 @@ style_solarized_light(
 )
 
 ```
-exclude: True
 # Quiz
 
 - To see if you read, if you get the question right you will get 2 extra credit points
@@ -243,9 +242,8 @@ knitr::include_graphics("fork.png")
 
 > Covariate: a variable in a statistical analysis that was typically not controlled or manipulated during data collection but was measured
 
-- Hours awake & tantrums
-  - covariate: Age 
-
+- Listening effort and pupil size 
+  - covariate: Time
 ---
 # Researcher Degrees of Freedom
 
@@ -261,8 +259,6 @@ class: inverse center middle
 # How many ways are there to analyze this data?
 
 ---
-
-exclude: True
 
 - Include people who dropped out
 - Exclude people who dropped out
@@ -325,7 +321,7 @@ knitr::include_graphics("TexasSharpShooter.png")
 knitr::include_graphics("harkingscimethod.png")
 ```
 ???
-harking is bad becasue never can be falsified. 
+harking is bad because never can be falsified. 
 
 ---
 
@@ -409,7 +405,7 @@ knitr::include_graphics("21sol.png")
 ---
 # Potential Soloutions
 
-- Preregistrations
+- Preregistration
 
 .pull-left[
 
@@ -434,7 +430,7 @@ knitr::include_graphics("expp.png")
 
 .pull-left[
 
-- Preregistrations
+- Preregistration
   
     - OSF
     
@@ -554,7 +550,7 @@ knitr::include_graphics("step1.png")
 
 # Preregistration
 
-- Click start a new preregisrtation
+- Click start a new preregistration
 
 ```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "70%"}
 
