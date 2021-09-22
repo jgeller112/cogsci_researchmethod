@@ -485,7 +485,7 @@ knitr::include_graphics("rrrpic.png")
 
 ```{r, echo=FALSE}
 
-countdown::countdown(20)
+countdown::countdown(5)
 
 ```
 
