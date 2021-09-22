@@ -481,7 +481,13 @@ knitr::include_graphics("rrrpic.png")
 
 ---
 # Last Class
-<iframe src="https://app.sli.do/event/oudumzcz" height="100%" width="100%" frameBorder="0" style="min-height: 560px;" title="Slido"></iframe>
+<iframe src="https://app.sli.do/event/oudumzcz" height="50%" width="50%" frameBorder="0" style="min-height: 560px;" title="Slido"></iframe>
+
+```{r, echo=FALSE}
+
+countdown::countdown(20)
+
+```
 
 ---
 # Potential Solutions
