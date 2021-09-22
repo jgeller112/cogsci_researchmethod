@@ -406,7 +406,7 @@ knitr::include_graphics("21sol.png")
 ```
 
 ---
-# Potential Soloutions
+# Potential Solutions
 
 - Preregistration
 
@@ -480,6 +480,10 @@ knitr::include_graphics("rrrpic.png")
 ]
 
 ---
+# Last Class
+<iframe src="https://app.sli.do/event/oudumzcz" height="100%" width="100%" frameBorder="0" style="min-height: 560px;" title="Slido"></iframe>
+
+---
 # Potential Solutions
 
 - Sharing
@@ -488,7 +492,7 @@ knitr::include_graphics("rrrpic.png")
   
   - Sharing stimulus materials, lists, etc
 ---
-# Potential solutions
+# Potential Solutions
 
 - Increased power/increased sample size
 
@@ -506,7 +510,7 @@ knitr::include_graphics("rrrpic.png")
 
   - What is it?
   
-> The movement to make scientific research, data, and dissemination accessible to all levels of an inquiring societ
+> The movement to make scientific research, data, and dissemination accessible to all levels of an inquiring society
 
 .pull-left[
 
@@ -534,11 +538,16 @@ knitr::include_graphics("umbrella.png")
 
 knitr::include_graphics("osf.png")
 ```
+---
+
+# ORCID
+
+- Go to https://orcid.org/register 
 
 ---
 # Preregistration
 
-1. Create an OSF account
+1. Create an OSF account (with ORCID ID)
 
 2. Start a preregistration
   -  First, sign in to the OSF, and go to https://osf.io/prereg/.
@@ -613,6 +622,3 @@ knitr::include_graphics("step5.png")
 knitr::include_graphics("step5.png")
 ```
 ---
-# ORCID
-
-- Go to https://orcid.org/register 
