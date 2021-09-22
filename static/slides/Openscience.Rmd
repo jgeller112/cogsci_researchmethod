@@ -66,6 +66,8 @@ style_solarized_light(
 )
 
 ```
+
+exclude: True
 # Quiz
 
 - To see if you read, if you get the question right you will get 2 extra credit points
@@ -95,6 +97,7 @@ style_solarized_light(
   - Preregistration
   - ORCID
 ---
+exclude: true
 # Poll
 
 <iframe src="https://app.sli.do/event/fi6lqizt" height="100%" width="100%" frameBorder="0" style="min-height: 560px;" title="Slido"></iframe>
@@ -154,7 +157,6 @@ knitr::include_graphics("failed.png")
       - 25% of social psychology studies replicated
       - 50% of cognitive psychology studies replicated
           - Effect sizes overestimated in original studies
-     
 ]
 
 .pull-right[
@@ -269,7 +271,7 @@ class: inverse center middle
 - Severe headaches
 - Under 50 
 - Over 50 
-- # of days with pain
+- number of days with pain
 - Average pain rating, all days
 - Average pain rating, headaches
 - Self-reported improvement
