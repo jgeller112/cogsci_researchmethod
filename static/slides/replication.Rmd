@@ -2,7 +2,7 @@
 title: "Research Methods in Cognitive Science"
 subtitle: "Week 4: Replication...Replication...Replication"
 author: 
-  - "Jason Geller, Ph.D"
+  - "Jason Geller, Ph.D."
 date: '`r Sys.Date()`'
 output:
   xaringan::moon_reader:
@@ -69,15 +69,38 @@ style_solarized_light(
 
 # Outline
 
----
+- Types of replication
 
+  - Close
+  - Conceptual
+
+- The complexities of replication 
+
+- The replication recipe (Brandt et al. 2015)
+
+- Why teaching replication is important
+
+- Replication Activity
+
+---
+# Types of Replication
+
+- Direct/exact/close replication
+
+  - New experiment/study matches the original as closely as possible
+  
+- Conceptual replication
+
+  - New study attempts to test the same idea as the original, but may differ significantly in implementation
+---
 # Why?
 
-```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "50%"}
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "30%"}
 
 knitr::include_graphics("type12.png")
 ```
-- Influential difference between the two experiments?
+- **Influential difference between the two experiments?**
+
 ---
 
 ```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "70%"}
@@ -85,25 +108,17 @@ knitr::include_graphics("type12.png")
 knitr::include_graphics("cookiefail.png")
 ```
 ---
-# Types of Replication
-
-- Direct/close Replication 
-
-  - New study matches the original as closely as possible
-  
-- Conceptual replications
-
-  - New study attempts to test the same idea as the original, but may differ significantly in implementation
-
----
 class: inverse center middle
 
-Replications arent strictly "successes" or "failures"
+Replications are not strictly "successes" or "failures"
 
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "57%"}
+
+knitr::include_graphics("yesno.png")
+```
 ---
 
 - Not all studies provide equally strong evidence
-
 
 
 .pull-left[
@@ -118,32 +133,33 @@ Replications arent strictly "successes" or "failures"
 
 .pull-right[
 - Study 2 (close replication)
-  - N= 200
+  - N = 200
   - Preregistered
   - Does not demonstrate novel, unexpected finding
 ]
 
 ---
-background-image: url(recipie.jpeg)
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "100%"}
+
+knitr::include_graphics("doesit.png")
+```
+
+---
+background-image: url(guide.png)
 background-position: center
 background-size: cover
 ---
-# Brandt et al. (2015)
+# Brandt et al. (2014)
 
-
-- A 36 question guide to replications
+- A 36-question guide to conducting convincing (good) replications
 
 - 5 main ingredients 
 
 ---
 # Ingredient 1
 
-- Carefully defining the effects and methods that the researcher intends to replicate
+- Carefully define the effects and methods that the researcher intends to replicate
 
-  - Effect intended to replicate
-  
-    > Sans Forgetica comarped to Arial typeface enhances memory for cue-target pairs
-    
 ```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "57%"}
 
 knitr::include_graphics("ingred1.png")
@@ -153,14 +169,14 @@ knitr::include_graphics("ingred1.png")
 ---
 # Ingredient 2
 
-- Following exactly the methods of the original study
+- Follow the methods of the original study as closely as possible
 
   - Sometimes not possible
   
       - Authors do not provide enough detail
-      - Dont share their materials
-    
-  - Contact them (for projects you will have to do this :))
+      - Authors do not share their materials
+  
+  - Contact them (for projects you may have to do this :))
   
 
 ```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "70%"}
@@ -171,24 +187,24 @@ knitr::include_graphics("ingred2.png")
 ---
 # Ingredient 3
 
-- Having high statistical power
+-  High statistical power
 
   - Rule of thumb: collect 2.5 times the original sample size
-    - This is what we are shooting for here
+  
+     - This is what we are shooting for here
 
 ---
 # Ingredient 4
 
-- Making complete details about the replication available
+- Make complete details about the replication publically available
 
   - Publicly posting protocols, stimuli, and other materials on OSF
-
 
 ---
 
 # Ingredient 5 
 
-- Evaluating replication results and comparing them critically to the results of the original study
+- Evaluate replication results and compare them to the results of the original study
 
   - Not enough to say success/failed based on significant result
 
@@ -202,43 +218,30 @@ knitr::include_graphics("report.png")
   
     - Online vs. lab
     - Equipment (CRT vs. LCD)
-  
+    - Cultural differences
+    
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "70%"}
+
+knitr::include_graphics("differences.png")
+```
 ---
 # Teaching Replication Is Important
 
 - Educational benefits: 
 
-  - Fits the needs of the full range of students
-
-  - Learn to read an article closely
-
-  - Trace the steps of the experts
-
+ - Fits the needs of the full range of students
+ - Learn to read an article closely
+ - Trace the steps of the experts
   - Gather relevant materials
-
   - Plan logistics of carrying out protocol
-
   - Create an analysis plan
-
   - Recruit participants and collect data
-
   - Analyze data and write up results
-
   - Compare results to original findings
-
----
-# Teaching Replication Is Important
-
 - Scientific benefits: 
 
-    - Addresses replication crisis
-  
-    - Employs best practices
-  
-    - We aren’t throwing data away at the end of the semester
-  
-    - Small contribution leverages to big impact through collaboration
-
+  - Addresses replication crisis
+  - Employs best practices
 ---
 # Replication Activity
 
@@ -253,34 +256,31 @@ knitr::include_graphics("report.png")
 
 .pull-right[
 
-
-<br>
-<br>
-<br>
-<br>
 ```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "90%"}
 
 knitr::include_graphics("pencilmouth.jpeg")
 ```
 
+```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "50%"}
+
+knitr::include_graphics("farside.jpeg")
+```
+
 ]
 
 ---
-
 # Group Discussion
-
 
 1. Do you think this study replicated?
 
-2. Why/Wwy not?
+2. Why/Why not?
 
 3. How much are you willing to bet on it?
 
-3. What are the potential issues with this study (i.e., has anything changed since this study?) WOuld findings replicate in different cultures?
+3. What are the potential issues with this study (i.e., has anything changed since this study?) Would findings replicate in different cultures?
 
 ---
-# RRR (Wagenmakers et al. 20016)
-
+# RRR (Wagenmakers et al. 2016)
 
 - 17 labs with over 1000 participants from different countries
 
@@ -291,7 +291,7 @@ knitr::include_graphics("facialeffect.png")
 ```
 
 ---
-# Take-Home Message
+# Concluding Message
 
 - Replication is important! 
 
@@ -300,9 +300,7 @@ knitr::include_graphics("facialeffect.png")
 - Psychology has changed in the last decade
 
   - Open science is becoming the norm (I hope)
-
-
-
-
+  
+- Science/Psychology/Cognitive Science is not fucked :) 
 
 
