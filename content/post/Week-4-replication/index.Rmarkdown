@@ -28,7 +28,7 @@ links:
 - icon: magic
   icon_pack: fas
   name: slides
-  url: /slides/Openscience.html
+  url: /slides/replication.html
   
 - icon: osf
   icon_pack: academicons
