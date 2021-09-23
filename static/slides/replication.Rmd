@@ -74,24 +74,14 @@ style_solarized_light(
   - Close
   - Conceptual
 
-- The complexities of replication 
+- Evaluating Replications
 
-- The replication recipe (Brandt et al. 2015)
+- The replication recipe (Brandt et al. 2014)
 
 - Why teaching replication is important
 
 - Replication Activity
 
----
-# Types of Replication
-
-- Direct/exact/close replication
-
-  - New experiment/study matches the original as closely as possible
-  
-- Conceptual replication
-
-  - New study attempts to test the same idea as the original, but may differ significantly in implementation
 ---
 # Why?
 
@@ -108,6 +98,17 @@ knitr::include_graphics("type12.png")
 knitr::include_graphics("cookiefail.png")
 ```
 ---
+
+# Types of Replication
+
+- Direct/exact/close replication
+
+  - New experiment/study matches the original as closely as possible
+  
+- Conceptual replication
+
+  - New study attempts to test the same idea as the original, but may differ significantly in implementation
+---
 class: inverse center middle
 
 Replications are not strictly "successes" or "failures"
@@ -116,6 +117,7 @@ Replications are not strictly "successes" or "failures"
 
 knitr::include_graphics("yesno.png")
 ```
+
 ---
 
 - Not all studies provide equally strong evidence
