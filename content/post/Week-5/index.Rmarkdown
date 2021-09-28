@@ -33,6 +33,6 @@ links:
 - icon: osf
   icon_pack: academicons
   name: pdf
-  url: https://osf.io/rmwyk/
+  url: https://osf.io/cxenv/
 ---
 
