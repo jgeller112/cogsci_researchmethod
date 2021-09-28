@@ -178,9 +178,9 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-0pky">6</td>
     <td class="tg-0pky">T</td>
     <td class="tg-0pky">5-Oct</td>
-    <td class="tg-0pky">Exploring Cognition Through the Eyes: Reading and Eye-tracking</td>
+    <td class="tg-0pky">Exploring Cognition Through the Eyes: Eye-tracking (Teams 1 and 2) RuCCS eye-tracking lab A120</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"><a href="https://drive.google.com/drive/u/1/folders/1G7sSlt6P6xfEe-apJ1wTrnFsDVVIg-Yz" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Rayner, K., Schotter, E. R., Masson, M. E. J., Potter, M. C., &amp; Treiman, R. (2016). So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? Psychological Science in the Public Interest, 17(1), 4–34 https://doi.org/10.1177/1529100615623267</span></a><br><a href="https://drive.google.com/drive/u/1/folders/1G7sSlt6P6xfEe-apJ1wTrnFsDVVIg-Yz" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Slattery, T. J. Eye movements: From psycholinguistics to font design. In Digital Fonts and Reading (eds Dyson, M. C. &amp; Yuen, C. Y.), 54–78 (World Scientific, 2016).</span></a></td>
+    <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
@@ -190,13 +190,13 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-0pky">Exploring Cognition Through the Eyes: Pupillometry</td>
     <td class="tg-0pky">Sarah Colby (University of Iowa): Pupillometry</td>
     <td class="tg-0pky"><a href="https://drive.google.com/drive/u/1/folders/1G7sSlt6P6xfEe-apJ1wTrnFsDVVIg-Yz" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Torres A and Hout M (2019) Pupils: A Window Into the Mind. Front. Young Minds. 7:3. doi: 10.3389/frym.2019.00003</span></a><br><a href="https://drive.google.com/drive/u/1/folders/1G7sSlt6P6xfEe-apJ1wTrnFsDVVIg-Yz" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Laeng, B., Sirois, S., &amp; Gredebäck, G. (2012). Pupillometry: A Window to the Preconscious? Perspectives on Psychological Science, 7(1), 18–27. https://doi.org/10.1177/1745691611427305</span></a></td>
-    <td class="tg-0pky"><span style="font-style:normal">Preregistration and IRB Forms (Consent and Protocol)&nbsp;&nbsp;due by Friday October 8th</span></td>
+    <td class="tg-0pky"><span style="font-style:normal">Preregistration, Article Reflection, and IRB Forms (Consent and Protocol)  due by Friday October 8th</span></td>
   </tr>
   <tr>
     <td class="tg-0pky">7</td>
     <td class="tg-0pky">T</td>
     <td class="tg-0pky">12-Oct</td>
-    <td class="tg-0pky">Exploring Cognition Through the Eyes: Eye-tracking and Pupillometry (RuCCS eye-tracking lab)</td>
+    <td class="tg-0pky">Exploring Cognition Through the Eyes:  Eye-tracking (Teams 3, 4, and 5) RuCCS eye-tracking lab A120</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
@@ -208,14 +208,14 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-0pky">Exploring Cognition Through the Brain: EEG</td>
     <td class="tg-0pky">McCall Syrett (Villanova University): EEG</td>
     <td class="tg-0pky"><a href="https://drive.google.com/drive/u/1/folders/1_thSTXJpm_wwYHYwl211wbeaMelpHq5r" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Allopenna, P. D. , Magnuson, J. S. , &amp; Tanenhaus, M. K. (1998). Tracking the time course of spoken word recognition using eye movements: Evidence for continuous mapping models. Journal of Memory and Language, 38, 419–439.</span></a></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Article Reflection due by Friday October 15th</td>
   </tr>
   <tr>
     <td class="tg-0pky">8</td>
     <td class="tg-0pky">T</td>
     <td class="tg-0pky">19-Oct</td>
-    <td class="tg-0pky">Exploring Cognition Through the Brain : EEG</td>
-    <td class="tg-0pky">Ryan Rhodes (Rutgers University): EEG</td>
+    <td class="tg-0pky">Exploring Cognition Through the Brain : EEG (Teams 1, 2) RuCCS eye-tracking lab A120</td>
+    <td class="tg-0pky"></td>
     <td class="tg-0pky"><a href="https://drive.google.com/drive/u/1/folders/1_thSTXJpm_wwYHYwl211wbeaMelpHq5r" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Etienne, A., Laroia, T., Weigle, H., Afelin, A., Kelly, S. K., Krishnan, A., &amp; Grover, P. (2020). Novel Electrodes for Reliable EEG Recordings on Coarse and Curly Hair. BioRxiv, 2020.02.26.965202. https://doi.org/10.1101/2020.02.26.965202</span></a></td>
     <td class="tg-0pky"></td>
   </tr>
@@ -223,7 +223,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-0pky">8</td>
     <td class="tg-0pky">TH</td>
     <td class="tg-0pky">21-Oct</td>
-    <td class="tg-0pky">Exploring Cognition Through the Brain: EEG</td>
+    <td class="tg-0pky">Exploring Cognition Through the Brain: EEG (Teams 3, 4,5) RuCCS eye-tracking lab A120</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
@@ -235,7 +235,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-0pky">Understanding Cognition Through the Brain: fMRI</td>
     <td class="tg-0pky">Melissa Thye (University of Edinburgh): fMRI/sEEG</td>
     <td class="tg-0pky"><a href="https://drive.google.com/drive/u/1/folders/1y4dr5pi_UpqpV0_e1ItxOr_DPFWJuy5s" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Racine, E., Bar-Ilan, O., &amp; Illes, J. (2005). FMRI in the public eye. Nature Reviews Neuroscience, 6(2), 159–164. https://doi.org/10.1038/nrn1609</span></a><br><a href="https://drive.google.com/drive/u/1/folders/1y4dr5pi_UpqpV0_e1ItxOr_DPFWJuy5s" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Turner, R. (2016). Uses, misuses, new uses and fundamental limitations of magnetic resonance imaging in cognitive science. Philosophical Transactions of the Royal Society B: Biological Sciences, 371(1705). https://doi.org/10.1098/rstb.2015.0349- Amanamba U., Sojka A., Harris S., Bucknam M.,&amp; Hegdé. J. (2020) A Window Into Your Brain: How fMRI Helps Us Understand What Is Going on Inside Our Heads. Front. Young Minds. 8:484603. doi: 10.3389/frym.2020.484603</span></a></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">Article Reflection due by Friday October 29th</span></td>
   </tr>
   <tr>
     <td class="tg-0pky">9</td>
@@ -259,7 +259,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-0pky">10</td>
     <td class="tg-0pky">TH</td>
     <td class="tg-0pky">4-Nov</td>
-    <td class="tg-0pky">No Class - Psychonomics No Calss</td>
+    <td class="tg-0pky">No Class - Psychonomics </td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
