@@ -1,5 +1,5 @@
 ---
-title: 'Week 5 - Measurment'
+title: 'Week 5 - Measurement'
 subtitle: 'Measurement'
 summary: Discussion of measurement principles 
 date: "2018-04-16T00:00:00Z"
