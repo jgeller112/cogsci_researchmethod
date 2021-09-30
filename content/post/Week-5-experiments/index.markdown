@@ -28,7 +28,7 @@ links:
 - icon: magic
   icon_pack: fas
   name: slides
-  url: /slides/measurement.html
+  url: /slides/experimental_design1.html
   
 - icon: osf
   icon_pack: academicons
