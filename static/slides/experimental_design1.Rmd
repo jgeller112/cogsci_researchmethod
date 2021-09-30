@@ -122,7 +122,7 @@ and finally we will consider more threats to internal validity
 2. Random assignment
 
 ???
-Experiments are the gold standard in cognitive science. This is because they allow us to make causal claims.Experiments afford us the opportunity to say this thing causes this other thing. There are two important design features that allow us to do this. 
+Experiments are the gold standard in cognitive science. This is because they allow us to make causal claims. Experiments afford us the opportunity to say this thing causes this other thing. There are two important design features that allow us to do this. 
 ---
 # Cause and Effect
 
@@ -180,7 +180,6 @@ background-size: cover
 background-image: url(threat2.png)
 background-position: center
 background-size: cover
-
 
 ???
 
@@ -274,10 +273,9 @@ knitr::include_graphics("badexpt1.png")
 <br>
 <br>
 
-> Participants are changing naturally over time between  pre-test and post-test. Change  is not due to the IV.
+> Participants are changing naturally over time between  pre-test and post-test.
 
-
-- Rule out by using a control/comparison group.
+  - Rule out by using a control/comparison group.
 
 ---
 
@@ -288,7 +286,7 @@ knitr::include_graphics("badexpt1.png")
 <br>
 <br>
 
-> An event intervenes between pre-test and post-test to change participants. Changes are not due to the IV.
+> An event intervenes between pre-test and post-test to change participants 
 
 
 - Maybe something big happened in the news that was related to your study.
@@ -304,7 +302,7 @@ knitr::include_graphics("badexpt1.png")
 <br>
 <br>
 
-> Participants are selected for intervention based on their extreme scores. On re-measurement, their scores become more moderate, but changes are not due to the IV
+> Participants are selected for intervention based on their extreme scores. On re-measurement, their scores become more moderate
 
   - A group's average is extremely depressed at pretest, in part because some members volunteered for therapy when they were feeling worse
 
@@ -318,16 +316,15 @@ knitr::include_graphics("badexpt1.png")
 <br>
 <br>
 
-> Participants drop out of the study at different rates from  treatment group and control group
+> Participants drop out of the study at different rates fromtreatment group and control group
 
-Maybe they got: 
+  - Maybe they got: 
 
-- Illness
-- Died
-- left the experiment
+    - Illness
+    - Died
+    - Left the experiment
 
 ---
-
 # Testing
 
 <br>
@@ -335,11 +332,11 @@ Maybe they got:
 <br>
 <br>
 
-> Participants’ responses change over repeated testing. Changes are not due to the IV
+> Participants’ responses change over repeated testing. 
 
   - GRE verbal scores improve only because students take the same version of the test both times
 
-- Solve by using a between-subjects, post-test only design 
+  - Solved by using a between-subjects, post-test only design 
 
 ---
 # Instrumentation
@@ -352,10 +349,10 @@ Maybe they got:
 > The meaning of a measuring instrument changes over repeated use. Changes are not due to the IV.
 
 
-- Coders become bored or fatigued over time
+  - Coders become bored or fatigued over time
 
 
-- Solve by using masked coders, randomly assigning coders to stimuli,, or training
+  - Solve by using masked coders, randomly assigning coders to stimuli,, or training
 
 ---
 background-image: url(3morethreats.png)
@@ -368,5 +365,5 @@ background-size: cover
 
 - Be attentive to control/comparison group
 
-- Watch out for differences between  treatment and control (beyond the one  intended change)
+- Watch out for differences between  treatment and control (beyond the one intended change)
 
