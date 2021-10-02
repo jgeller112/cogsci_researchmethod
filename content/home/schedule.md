@@ -235,7 +235,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-0pky">Understanding Cognition Through the Brain: fMRI</td>
     <td class="tg-0pky">Melissa Thye (University of Edinburgh): fMRI/sEEG</td>
     <td class="tg-0pky"><a href="https://drive.google.com/drive/u/1/folders/1y4dr5pi_UpqpV0_e1ItxOr_DPFWJuy5s" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Racine, E., Bar-Ilan, O., &amp; Illes, J. (2005). FMRI in the public eye. Nature Reviews Neuroscience, 6(2), 159–164. https://doi.org/10.1038/nrn1609</span></a><br><a href="https://drive.google.com/drive/u/1/folders/1y4dr5pi_UpqpV0_e1ItxOr_DPFWJuy5s" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Turner, R. (2016). Uses, misuses, new uses and fundamental limitations of magnetic resonance imaging in cognitive science. Philosophical Transactions of the Royal Society B: Biological Sciences, 371(1705). https://doi.org/10.1098/rstb.2015.0349- Amanamba U., Sojka A., Harris S., Bucknam M.,&amp; Hegdé. J. (2020) A Window Into Your Brain: How fMRI Helps Us Understand What Is Going on Inside Our Heads. Front. Young Minds. 8:484603. doi: 10.3389/frym.2020.484603</span></a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">Article Reflection due by Friday October 29th</span></td>
+    <td class="tg-0pky">Presentation Reflection Due by Friday October 29th</td>
   </tr>
   <tr>
     <td class="tg-0pky">9</td>
