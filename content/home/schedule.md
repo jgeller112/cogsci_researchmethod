@@ -190,7 +190,7 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-0pky">Exploring Cognition Through the Eyes: Pupillometry</td>
     <td class="tg-0pky">Sarah Colby (University of Iowa): Pupillometry</td>
     <td class="tg-0pky"><a href="https://drive.google.com/drive/u/1/folders/1G7sSlt6P6xfEe-apJ1wTrnFsDVVIg-Yz" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Torres A and Hout M (2019) Pupils: A Window Into the Mind. Front. Young Minds. 7:3. doi: 10.3389/frym.2019.00003</span></a><br><a href="https://drive.google.com/drive/u/1/folders/1G7sSlt6P6xfEe-apJ1wTrnFsDVVIg-Yz" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Laeng, B., Sirois, S., &amp; Gredebäck, G. (2012). Pupillometry: A Window to the Preconscious? Perspectives on Psychological Science, 7(1), 18–27. https://doi.org/10.1177/1745691611427305</span></a></td>
-    <td class="tg-0pky"><span style="font-style:normal">Preregistration, Article Reflection, and IRB Forms (Consent and Protocol)  due by Friday October 8th</span></td>
+    <td class="tg-0pky">Preregistration, Presentation Reflection, and Consent Form due by Friday October 8th</td>
   </tr>
   <tr>
     <td class="tg-0pky">7</td>
@@ -207,8 +207,8 @@ This schedule represents my current plans and objectives. As we go through the s
     <td class="tg-0pky">14-Oct</td>
     <td class="tg-0pky">Exploring Cognition Through the Brain: EEG</td>
     <td class="tg-0pky">McCall Syrett (Villanova University): EEG</td>
-    <td class="tg-0pky"><a href="https://drive.google.com/drive/u/1/folders/1_thSTXJpm_wwYHYwl211wbeaMelpHq5r" target="_blank" rel="noopener noreferrer"><span style="color:#000">- Allopenna, P. D. , Magnuson, J. S. , &amp; Tanenhaus, M. K. (1998). Tracking the time course of spoken word recognition using eye movements: Evidence for continuous mapping models. Journal of Memory and Language, 38, 419–439.</span></a></td>
-    <td class="tg-0pky">Article Reflection due by Friday October 15th</td>
+    <td class="tg-0pky">- Allopenna, P. D. , Magnuson, J. S. , &amp; Tanenhaus, M. K. (1998). Tracking the time course of spoken word recognition using eye movements: Evidence for continuous mapping models. Journal of Memory and Language, 38, 419–439.<br><br>Measuring Brain Waves in the Classroom<br>. (n.d.). Frontiers for Young Minds. Retrieved October 2, 2021, from <br><a href="https://kids.frontiersin.org/articles/10.3389/frym.2020.00096"><span style="color:#905">https://kids.frontiersin.org/articles/10.3389/frym.2020.00096</span></a></td>
+    <td class="tg-0pky">Presentation Reflection due by Friday October 15th</td>
   </tr>
   <tr>
     <td class="tg-0pky">8</td>
