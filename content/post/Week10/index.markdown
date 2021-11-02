@@ -28,8 +28,8 @@ links:
 
 - icon: magic
   icon_pack: fas
-  name: EEG-part1
-  url: https://osf.io/rd37g/
+  name: Online Data Collection
+  url: Online_Week10.html
   
 - icon: osf
   icon_pack: academicons
