@@ -29,7 +29,7 @@ links:
 - icon: magic
   icon_pack: fas
   name: Online Data Collection
-  url: /slides/measurement.html
+  url: /slides/Online_Week10.html
   
 - icon: osf
   icon_pack: academicons
