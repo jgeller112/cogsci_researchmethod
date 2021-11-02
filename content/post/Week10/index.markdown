@@ -1,7 +1,7 @@
 ---
 title: 'Online Data Collection - Week 10'
 subtitle: 'Introduction to online data collection'
-summary: This week we talk about the basics of online data collection. What are the ingredients to doing research online? Can cognitive scientists do their research online? What are some of the most frequently asked questions about online research?
+summary: This week we talked about the basics of online data collection. What are the ingredients to doing research online? Can cognitive scientists do their research online? What are some of the most frequently asked questions about online research?
 
 date: "2018-04-16T00:00:00Z"
 featured: false
@@ -34,7 +34,7 @@ links:
 - icon: osf
   icon_pack: academicons
   name: pdf
-  url: https://osf.io/qxhv6/
+  url: https://osf.io/gyez9/
   
 
 ---

@@ -86,15 +86,17 @@ style_solarized_light(
 ---
 # Outline
 
-- Introduction to online data collection
+- Introduction to online research
 
-- The online recipe
+- What are the ingredients to doing research online?
 
-  - Task builders
-  - Hosting 
+  - Task builders/experiment builders
+  - Hosting/Servers
   - Recruitment
 
-- FAQ
+- Frequently asked questions about online research
+
+- Future of online research 
 
 ---
 # Business as Usual
@@ -199,7 +201,7 @@ It might shock you to know but the undergrads we relie are are
 
 ```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "100%"}
 
-knitr::include_graphics("rep.png")
+knitr::include_graphics("onlinerep.png")
 ```
 
 ]
@@ -503,18 +505,21 @@ A: Some evidence to suggest that you can get good data (e.g., Crump et al., 2013
 A: Timing is reasonable (I would probably not present anything for less than 50 ms)
 
 ---
-
+# Anwyl-Irvine et al. (2020)
 ```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "90%"}
 
 knitr::include_graphics("Picture1.png")
 ```
 ---
+# Anwyl-Irvine et al. (2020)
 
 ```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "90%"}
 
 knitr::include_graphics("Picture2.png")
 ```
 ---
+# Anwyl-Irvine et al. (2020)
+
 ```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "90%"}
 
 knitr::include_graphics("Picture3.png")
@@ -531,7 +536,9 @@ knitr::include_url("https://psychopy.org/timing/2020/table3.html")
 
 - Are there any areas where you think online data collection can be extremely useful? How about impossible or hard?
 ---
-# Online Eye-tracking 
+# Future of Online Research
+
+- Online Eye-tracking 
 
 - https://www.youtube.com/watch?v=NRLlRh2apA8&feature=youtu.be
 
@@ -541,7 +548,11 @@ knitr::include_url("https://psychopy.org/timing/2020/table3.html")
 - https://farm.pcibex.net/r/hQzkGV/
 
 ---
-# MouseView
+# Future of Online Research
+
+- Online Eye-tracking 
+
+- MouseView
 
 - https://www.youtube.com/watch?v=ozxSla0eNh8
 
