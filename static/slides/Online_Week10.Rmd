@@ -540,7 +540,7 @@ knitr::include_url("https://psychopy.org/timing/2020/table3.html")
 
 - Online Eye-tracking 
 
-- https://www.youtube.com/watch?v=NRLlRh2apA8&feature=youtu.be
+  - https://www.youtube.com/watch?v=NRLlRh2apA8&feature=youtu.be
 
 ---
 # Eye-tracking Demo
@@ -550,11 +550,11 @@ knitr::include_url("https://psychopy.org/timing/2020/table3.html")
 ---
 # Future of Online Research
 
-- Online Eye-tracking 
+- Online eye-tracking 
 
 - MouseView
 
-- https://www.youtube.com/watch?v=ozxSla0eNh8
+  - https://www.youtube.com/watch?v=ozxSla0eNh8
 
 ---
 # For Next Time
