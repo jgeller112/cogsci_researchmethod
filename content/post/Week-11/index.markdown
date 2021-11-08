@@ -1,7 +1,7 @@
 ---
 title: 'Week 11 - Introduction to PsychoPy and Pavlovia'
 subtitle: 'Introduction to online data collection'
-summary: This week I talk about the basics of PsychoPy and Pavlovia to help prepare you for working on your projects. 
+summary: This week I talk about the basics of PsychoPy and Pavlovia to help prepare groups for working on their projects. 
 
 date: "2018-04-16T00:00:00Z"
 featured: false
