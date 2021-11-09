@@ -77,7 +77,7 @@ style_solarized_light(
 ---
 # What is PsychoPy
 
-- Software for behavioural studies
+- Software for behavioral studies
 
 - Written in Python
 
@@ -250,7 +250,7 @@ class: inverse center middle
 ---
 # Hello World
 
-- Create an experiment that displays "hello world for 3 seconds"
+- Create an experiment that displays "hello world" for 3 seconds
 
 ---
 ```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "30%"}
