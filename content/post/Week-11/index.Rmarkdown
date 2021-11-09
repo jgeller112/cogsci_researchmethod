@@ -28,7 +28,7 @@ links:
 
 - icon: magic
   icon_pack: fas
-  name: Online Data Collection
+  name: PsychoPy
   url: /slides/PsychoPyPavlovia_Week11.html
   
 - icon: osf

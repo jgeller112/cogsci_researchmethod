@@ -299,6 +299,7 @@ knitr::include_graphics("trials.png")
 # Conditions List
 
 .pull-left[
+
 - A conditions list MUST be created for each experiment in either csv or xlsx format
 - The column headers (variable names) CAN NOT have any spaces
 - Include variable names that will be used to identify components in the trial presentation
@@ -316,7 +317,6 @@ knitr::include_graphics("condimage.png")
 ]
 
 ---
-
 # Loops
 
 ```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "100%"}
@@ -326,7 +326,6 @@ knitr::include_graphics("loopdia.png")
 ---
 # Output: Response
 
-
 ```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "100%"}
 
 knitr::include_graphics("outputresp.png")
@@ -334,7 +333,6 @@ knitr::include_graphics("outputresp.png")
 
 ---
 # Output: Participant
-
 
 ```{r, fig.align='center', echo=FALSE, warning=FALSE,  out.width = "100%"}
 
