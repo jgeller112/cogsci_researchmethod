@@ -1,6 +1,6 @@
 ---
 title: "Research Methods in Cognitive Science"
-subtitle: "Week 11: Introduction to PyschoPy and Pavlovia"  
+subtitle: "Week 11: Introduction to PsychoPy and Pavlovia"  
 author: 
   - "Jason Geller, Ph.D."
 date: '`r Sys.Date()`'
