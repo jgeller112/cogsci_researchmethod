@@ -1,5 +1,5 @@
 ---
-title: 'Week 2 - Ethics'
+title: '02-Week'
 subtitle: 'Ethics'
 summary: Ethics in research
 date: "2018-04-16T00:00:00Z"
