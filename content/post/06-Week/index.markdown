@@ -1,6 +1,6 @@
 ---
-title: 'Week 6 - Eye-tracking'
-subtitle: 'Pupillometry'
+title: '06-Week'
+subtitle: 'Eye-tracking and Pupillometry'
 summary: This week we did an eye-tracking demo and had Dr. Sarah Colby from UIowa give a guest lecture
 date: "2018-04-16T00:00:00Z"
 featured: false

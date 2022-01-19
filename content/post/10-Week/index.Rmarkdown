@@ -1,5 +1,5 @@
 ---
-title: 'Online Data Collection - Week 10'
+title: '10-Week'
 subtitle: 'Introduction to online data collection'
 summary: This week we talked about the basics of online data collection. What are the ingredients to doing research online? Can cognitive scientists do their research online? What are some of the most frequently asked questions about online research?
 

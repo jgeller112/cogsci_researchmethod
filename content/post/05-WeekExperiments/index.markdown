@@ -1,5 +1,5 @@
 ---
-title: 'Week 5 - Experiments'
+title: '05-Week'
 subtitle: 'Experiments'
 summary: Experimental basics and threats to internal validity
 date: "2018-04-16T00:00:00Z"

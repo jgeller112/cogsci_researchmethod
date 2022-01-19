@@ -1,5 +1,5 @@
 ---
-title: 'Week 01'
+title: '01-Week'
 subtitle: 'Introduction'
 summary: Course Expectations
 date: "2018-04-16T00:00:00Z"

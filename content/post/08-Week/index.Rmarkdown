@@ -1,5 +1,5 @@
 ---
-title: 'Week 8 - EEG'
+title: '08-Week'
 subtitle: 'EEG Lab'
 summary: This week I gave a asynchronous introduction to EEG. In additon, I had teams come to the EEG lab and observe how to conduct EEG experiments. Teams also saw what different artifacts look like. 
 date: "2018-04-16T00:00:00Z"

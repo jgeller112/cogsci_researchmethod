@@ -1,5 +1,5 @@
 ---
-title: 'Week 9 - fMRI'
+title: '09-Week'
 subtitle: 'Introduction to neuroimaging (fMRI)'
 summary: This week is all about fMRI. Melissa Thye from The University of Edinbrough is giving a talk on fMRI and how she uses it in her research. We also vist Rutgers new neruoimaging center. 
 date: "2018-04-16T00:00:00Z"

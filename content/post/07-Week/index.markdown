@@ -1,7 +1,7 @@
 ---
-title: 'Week 7 - EEG'
+title: '07-Week'
 subtitle: 'EEG'
-summary: This week we discuss EEG and had a guest lecture by McCall Sarrett from Villanova. 
+summary: This week we discussed EEG and had a guest lecture by McCall Sarrett from Villanova. 
 date: "2018-04-16T00:00:00Z"
 featured: false
 draft: false

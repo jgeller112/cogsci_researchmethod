@@ -1,5 +1,5 @@
 ---
-title: 'Week 2'
+title: '02-Week'
 subtitle: 'Funadmentals of Science'
 summary: Fundamentals of science
 date: "2018-04-16T00:00:00Z"

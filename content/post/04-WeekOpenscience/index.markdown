@@ -1,6 +1,6 @@
 ---
-title: 'Week 4 - The Replication Crisis and Open Science'
-subtitle: 'Open Science'
+title: '04-Week'
+subtitle: 'The Replication Crisis and Open Science'
 summary: Open science and replication issues
 date: "2018-04-16T00:00:00Z"
 featured: false

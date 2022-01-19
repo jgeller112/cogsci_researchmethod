@@ -1,5 +1,5 @@
 ---
-title: 'Week 4 - Replication'
+title: '04-Week'
 subtitle: 'Replication'
 summary: Replication
 date: "2018-04-16T00:00:00Z"
@@ -27,7 +27,7 @@ links:
 
 - icon: magic
   icon_pack: fas
-  name: slides
+  name: replication
   url: /slides/replication.html
   
 - icon: osf
